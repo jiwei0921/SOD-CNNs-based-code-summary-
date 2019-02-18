@@ -68,7 +68,7 @@ The link is [here](https://github.com/sshige/rgbd-saliency).
 ### Traditional methods
 1.RGBD co-saliency detection via multiple kernel boosting and fusion. (2018 Multimedia Tools and Applications)  
 The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-multiple-kernel-boosting-and-fusion).  
-2.An Innovative Salient Object Detection Using Center-Dark Channel Prior. (ACVR 2017)  
+2.An Innovative Salient Object Detection Using Center-Dark Channel Prior. (ICCV 2017)  
 The link is [here](https://github.com/ChunbiaoZhu/ACVR2017).  
 3.Saliency detection for stereoscopic images based on depth confidence analysis and multiple cues fusion. (SPL 2016)  
 The link is [here](https://github.com/rmcong/Code-for-DCMC-method).  
