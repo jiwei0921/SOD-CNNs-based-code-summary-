@@ -76,3 +76,17 @@ The link is [here](https://github.com/rmcong/Code-for-DCMC-method).
 The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagging-based-clustering).  
 5.Exploiting Global Priors for RGB-D Saliency Detection. (CVPR 2015)  
 The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection).   
+
+# Earlier Methods
+This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
+
+# Comparison with state-of-the-arts
+[It](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
+
+# The SOD dataset download
+1. 2D SOD datasets [download](https://github.com/ArcherFMY/sal_eval_toolbox).
+2. 3D SOD datasets [download](https://pan.baidu.com/s/1wXGyYtTcrUKyO2sdX3w6bA). Password:zb8z
+3. 4D SOD datasets [download](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
+
+# Evaluation Metrics
+This file contains MAE, F-measure and recently proposed S-measure and E-measure. [download](https://pan.baidu.com/s/1LnRQcW8SuJKtBOayUJVQag) Password:c5wn
