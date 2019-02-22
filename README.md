@@ -81,7 +81,7 @@ The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_D
 This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
 # Comparison with state-of-the-arts
-[It](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
+[here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
 
 # The SOD dataset download
 1. 2D SOD datasets [download](https://github.com/ArcherFMY/sal_eval_toolbox).
