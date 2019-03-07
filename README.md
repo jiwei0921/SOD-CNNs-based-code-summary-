@@ -35,6 +35,8 @@ The link is [here](https://github.com/zengxianyu/lps).
 The link is [here](https://github.com/lixin666/C2SNet).   
 12. Reverse Attention for Salient Object Detection. (ECCV)   
 The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).   
+13. Detect Globally, Refine Locally: A Novel Approach to Saliency Detection. (CVPR)   
+The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally).   
 
 
 ### 2017
