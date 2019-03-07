@@ -7,7 +7,7 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 
 ## 2D RGB saliency detection
 ### 2019
-1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)
+1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR) 
 The link is [here](https://github.com/ArcherFMY/AFNet).
 
 ### 2018
