@@ -6,12 +6,16 @@ The repository provide a reading list for salient object detection with deep lea
 In this repository, we mainly focus on deep learning based saliency methods. We hope these codes will help people to better understand saliency detection in the deep learning era. **We will keep updating it.**
 
 ## 2D RGB saliency detection
+### 2019
+1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)
+The link is [here](https://github.com/ArcherFMY/AFNet).
+
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
 The link is [here](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection).  
 2.PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection. (CVPR)  
 The link is [here](https://github.com/Ugness/PiCANet-Implementation).  
-3.PAGRN:Progressive Attention Guided Recurrent Network for Salient Object Detection. (CVPR)  
+3.PAGRN: Progressive Attention Guided Recurrent Network for Salient Object Detection. (CVPR)  
 The link is [here](https://github.com/zhangxiaoning666/PAGR).  
 4.R3Net: Recurrent Residual Refinement Network for Saliency Detection. (IJCAI)  
 The link is [here](https://github.com/zijundeng/R3Net).  
