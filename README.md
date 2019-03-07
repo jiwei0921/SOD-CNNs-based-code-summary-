@@ -24,17 +24,17 @@ The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).
 6.Agile Amulet: Real-Time Salient Object Detection with Contextual Attention. (arXiv)    
 The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).  
 7.HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection. (arXiv)    
-The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).  
+The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).     
 8.Learning to promote saliency detectors. (CVPR)     
-The link is [here](https://github.com/zengxianyu/lps).  
+The link is [here](https://github.com/zengxianyu/lps).    
 9. An unsupervised game-theoretic approach to saliency detection. (TIP)   
-The link is [here](https://github.com/zengxianyu/uga).
+The link is [here](https://github.com/zengxianyu/uga).   
 10. Learning to promote saliency detectors. (CVPR)   
-The link is [here](https://github.com/zengxianyu/lps).
+The link is [here](https://github.com/zengxianyu/lps).   
 11. Contour Knowledge Transfer for Salient Object Detection. (ECCV)   
-The link is [here](https://github.com/lixin666/C2SNet).
+The link is [here](https://github.com/lixin666/C2SNet).   
 12. Reverse Attention for Salient Object Detection. (ECCV)   
-The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).
+The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).   
 
 
 ### 2017
