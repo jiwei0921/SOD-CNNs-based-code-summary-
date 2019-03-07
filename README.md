@@ -95,4 +95,6 @@ This is a paper list published by another author. [here](https://github.com/Arch
 3. 4D SOD datasets [download](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
 
 # Evaluation Metrics
-This file contains MAE, F-measure and recently proposed S-measure and E-measure. [download](https://pan.baidu.com/s/1LnRQcW8SuJKtBOayUJVQag) Password:c5wn
+This link near all evaluation metrics for salient object detection including E-measure, S-measure, F-measure, MAE scores and PR curves or bar metrics.
+
+You can found in [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
