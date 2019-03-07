@@ -21,12 +21,21 @@ The link is [here](https://github.com/zhangxiaoning666/PAGR).
 The link is [here](https://github.com/zijundeng/R3Net).  
 5.LFR: Salient Object Detection by Lossless Feature Reflection. (IJCAI)  
 The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).  
-6.Agile Amulet: Real-Time Salient Object Detection with Contextual Attention. (arXiv)  
+6.Agile Amulet: Real-Time Salient Object Detection with Contextual Attention. (arXiv)    
 The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).  
-7.HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection. (arXiv)  
+7.HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection. (arXiv)    
 The link is [here](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md).  
-8.Learning to promote saliency detectors. (CVPR)  
+8.Learning to promote saliency detectors. (CVPR)     
 The link is [here](https://github.com/zengxianyu/lps).  
+9. An unsupervised game-theoretic approach to saliency detection. (TIP)   
+The link is [here](https://github.com/zengxianyu/uga).
+10. Learning to promote saliency detectors. (CVPR)   
+The link is [here](https://github.com/zengxianyu/lps).
+11. Contour Knowledge Transfer for Salient Object Detection. (ECCV)   
+The link is [here](https://github.com/lixin666/C2SNet).
+12. Reverse Attention for Salient Object Detection. (ECCV)   
+The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).
+
 
 ### 2017
 1.DSS: Deeply Supervised Salient Object Detection with Short Connections. (CVPR)  
