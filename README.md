@@ -92,11 +92,11 @@ The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagg
 5.Exploiting Global Priors for RGB-D Saliency Detection. (CVPR 2015)  
 The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection).   
 
-## 2D RGB saliency detection
-1.LFNet: Light-Field Fusion Network for Salient Object Detection
-The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
-2.DILF: Saliency Detection with a Deeper Investigation of Light Field (IJCAI 2015)
-The link is [here](https://github.com/pencilzhang/lightfieldsaliency_ijcai15).
+## 4D RGB saliency detection
+1.LFNet: Light-Field Fusion Network for Salient Object Detection   
+The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).   
+2.DILF: Saliency Detection with a Deeper Investigation of Light Field (IJCAI 2015)   
+The link is [here](https://github.com/pencilzhang/lightfieldsaliency_ijcai15).   
 
 # Earlier Methods
 This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
