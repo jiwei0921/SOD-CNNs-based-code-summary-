@@ -9,7 +9,7 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 ### 2019
 1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)   
 The link is [here](https://github.com/ArcherFMY/AFNet).      
-2.Deep Embedding Features for Salient Object Detection. (AAAI)
+2.Deep Embedding Features for Salient Object Detection. (AAAI)             
 The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
 
 ### 2018
