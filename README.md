@@ -18,7 +18,7 @@ The link is [here](https://github.com/zhangludl/A-bi-directional-message-passing
 2.PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection. (CVPR)  
 The link is [here](https://github.com/Ugness/PiCANet-Implementation).  
 3.PAGRN: Progressive Attention Guided Recurrent Network for Salient Object Detection. (CVPR)  
-The link is [here](https://github.com/zhangxiaoning666/PAGR).  
+The link is [here](https://github.com/zhangxiaoning666/PAGR) and [here](https://github.com/yangbinb/SalMetric/tree/master/PAGRN).   
 4.R3Net: Recurrent Residual Refinement Network for Saliency Detection. (IJCAI)  
 The link is [here](https://github.com/zijundeng/R3Net).  
 5.LFR: Salient Object Detection by Lossless Feature Reflection. (IJCAI)  
