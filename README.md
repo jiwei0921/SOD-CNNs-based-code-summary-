@@ -39,6 +39,8 @@ The link is [here](https://github.com/lixin666/C2SNet).
 The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).   
 13. Detect Globally, Refine Locally: A Novel Approach to Saliency Detection. (CVPR)   
 The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally).   
+14. Selectivity or Invariance: Boundary-aware Salient Object Detection. (arXiv)    
+The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).
 
 
 ### 2017
