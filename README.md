@@ -115,7 +115,7 @@ This is a paper list published by another author. [here](https://github.com/Arch
 [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
 
 # The SOD dataset download
-1. 2D SOD datasets [download](https://github.com/ArcherFMY/sal_eval_toolbox).
+1. 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox).
 2. 3D SOD datasets [download](https://pan.baidu.com/s/1wXGyYtTcrUKyO2sdX3w6bA). Password:zb8z
 3. 4D SOD datasets [download](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
 
