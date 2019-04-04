@@ -16,7 +16,9 @@ The link is [here](https://github.com/wuzhe71/CPD-CVPR2019).
 4.Deep Embedding Features for Salient Object Detection. (AAAI)             
 The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
 5.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
-The link is [here](https://arxiv.org/pdf/1904.01215.pdf).      
+The paper link is [here](https://arxiv.org/pdf/1904.01215.pdf).     
+6.SAC-Net: Spatial Attenuation Context for Salient Object Detection. (arXiv)   
+The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).       
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
