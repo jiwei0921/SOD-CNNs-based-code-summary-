@@ -62,6 +62,8 @@ The link is [here](https://github.com/Pchank/caffe-sal).
 The link is [here](https://github.com/Pchank/caffe-sal).  
 6.Learning to Detect Salient Objects with Image-level Supervision. (CVPR)  
 The link is [here](https://github.com/scott89/WSS).  
+7.SalGAN: visual saliency prediction with adversarial networks. (CVPR)    
+The link is [here](https://github.com/imatge-upc/saliency-salgan-2017).
 
 ### 2016
 1.DHSNet Deep hierarchical saliency network for salient object detection. (CVPR)  
