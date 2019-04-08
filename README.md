@@ -13,11 +13,13 @@ The link is [here](https://github.com/ArcherFMY/AFNet).
 The link is [here](https://github.com/NathanUA/BASNet).      
 3.CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection. (CVPR)     
 The link is [here](https://github.com/wuzhe71/CPD-CVPR2019).      
-4.Deep Embedding Features for Salient Object Detection. (AAAI)             
+4.Multi-source weak supervision for saliency detection. (CVPR)      
+The link is [here](https://github.com/zengxianyu/mws).        
+5.Deep Embedding Features for Salient Object Detection. (AAAI)             
 The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
-5.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
+6.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1904.01215.pdf).     
-6.SAC-Net: Spatial Attenuation Context for Salient Object Detection. (arXiv)   
+7.SAC-Net: Spatial Attenuation Context for Salient Object Detection. (arXiv)   
 The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).       
 
 ### 2018
