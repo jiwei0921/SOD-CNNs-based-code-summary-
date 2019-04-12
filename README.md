@@ -98,7 +98,10 @@ The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).
 
 ### 2017
 1.Learning RGB-D Salient Object Detection using background enclosure, depth contrast, and top-down features. (ICCV)  
-The link is [here](https://github.com/sshige/rgbd-saliency).  
+The link is [here](https://github.com/sshige/rgbd-saliency).    
+2.CTMF: Cnns-based rgb-d 922 saliency detection via cross-view transfer and multiview fu- 923 sion.(TIP)      
+The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).        
+3.
   
 ### Traditional methods
 1.RGBD co-saliency detection via multiple kernel boosting and fusion. (2018 Multimedia Tools and Applications)  
