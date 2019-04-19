@@ -12,7 +12,7 @@ The link is [here](https://github.com/ArcherFMY/AFNet).
 2.BASNet: Boundary Aware Salient Object Detection. (CVPR)   
 The link is [here](https://github.com/NathanUA/BASNet).      
 3.CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection. (CVPR)     
-The link is [here](https://github.com/wuzhe71/CPD-CVPR2019).      
+The link is [here](https://github.com/wuzhe71/CPD-CVPR2019) and paper link is [here](https://arxiv.org/pdf/1904.08739.pdf).         
 4.Multi-source weak supervision for saliency detection. (CVPR)      
 The link is [here](https://github.com/zengxianyu/mws).        
 5.Deep Embedding Features for Salient Object Detection. (AAAI)             
@@ -56,8 +56,10 @@ The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine
 14. Selectivity or Invariance: Boundary-aware Salient Object Detection. (arXiv)    
 The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).      
 15. Salient Object Detection Driven by Fixation Prediction. (CVPR)     
-The link is [here](https://github.com/wenguanwang/ASNet).        
-
+The link is [here](https://github.com/wenguanwang/ASNet).       
+16. (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction. (arXiv)     
+The paper link is [here](https://arxiv.org/pdf/1803.09860.pdf).       
+ 
 ### 2017
 1.DSS: Deeply Supervised Salient Object Detection with Short Connections. (CVPR)  
 The link is [here](https://github.com/Andrew-Qibin/DSS).  
