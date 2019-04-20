@@ -5,6 +5,9 @@ The repository provide a reading list for salient object detection with deep lea
 
 In this repository, we mainly focus on deep learning based saliency methods. We hope these codes will help people to better understand saliency detection in the deep learning era. **We will keep updating it.**
 
+## Overall
+![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD.pdf)
+
 ## 2D RGB saliency detection
 ### 2019
 1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)   
