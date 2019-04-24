@@ -30,6 +30,7 @@ The paper link is [here](https://github.com/JosephineRabbit/MLMSNet).
 The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).     
 10.A Simple Pooling-Based Design for Real-Time Salient Object Detection. (CVPR)         
 The paper link is [here](https://arxiv.org/pdf/1904.09569.pdf).      
+The code link is [here](https://github.com/backseason/PoolNet).     
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
