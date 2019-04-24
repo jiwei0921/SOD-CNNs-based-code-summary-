@@ -27,7 +27,9 @@ The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).
 8.MLMSNet:A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision. (CVPR)      
 The paper link is [here](https://github.com/JosephineRabbit/MLMSNet).      
 9.CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection. (CVPR)      
-The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).        
+The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).     
+10.A Simple Pooling-Based Design for Real-Time Salient Object Detection. (CVPR)         
+The paper link is [here](https://arxiv.org/pdf/1904.09569.pdf).      
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
