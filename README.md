@@ -31,6 +31,8 @@ The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).
 10.A Simple Pooling-Based Design for Real-Time Salient Object Detection. (CVPR)         
 The paper link is [here](https://arxiv.org/pdf/1904.09569.pdf).      
 The code link is [here](https://github.com/backseason/PoolNet).     
+11.An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection. (CVPR)        
+The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf).        
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
