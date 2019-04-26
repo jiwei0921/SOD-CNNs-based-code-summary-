@@ -28,11 +28,15 @@ The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).
 The paper link is [here](https://github.com/JosephineRabbit/MLMSNet).      
 9.CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection. (CVPR)      
 The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).     
+The paper link is [here](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ).      
 10.A Simple Pooling-Based Design for Real-Time Salient Object Detection. (CVPR)         
 The paper link is [here](https://arxiv.org/pdf/1904.09569.pdf).      
 The code link is [here](https://github.com/backseason/PoolNet).     
 11.An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection. (CVPR)        
-The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf).        
+The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf).    
+12.Pyramid Feature Attention Network for Saliency detection. (CVPR)        
+The paper link is [here](https://arxiv.org/pdf/1903.00179.pdf).      
+13.
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
