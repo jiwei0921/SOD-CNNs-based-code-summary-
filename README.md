@@ -134,8 +134,10 @@ The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_D
 
 ## 4D RGB saliency detection
 1.LFNet: Light-Field Fusion Network for Salient Object Detection   
-The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).   
-2.DILF: Saliency Detection with a Deeper Investigation of Light Field (IJCAI 2015)   
+The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).  
+2.LFSD: Saliency Detection on Light-Field. (TPAMI 2017)      
+The link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570181).       
+3.DILF: Saliency Detection with a Deeper Investigation of Light Field (IJCAI 2015)   
 The link is [here](https://github.com/pencilzhang/lightfieldsaliency_ijcai15).   
 
 # Earlier Methods
