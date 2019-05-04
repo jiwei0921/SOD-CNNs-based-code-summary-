@@ -139,7 +139,8 @@ The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-o
 The link is [here](https://github.com/pencilzhang/lightfieldsaliency_ijcai15).   
 
 # Earlier Methods
-This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
+* Salient Object Detection in the Deep Learning Era: An In-Depth Survey. [paper link](https://arxiv.org/pdf/1904.09146.pdf).
+* This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
 # Comparison with state-of-the-arts
 [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
