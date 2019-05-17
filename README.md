@@ -133,12 +133,14 @@ The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagg
 The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection).   
 
 ## 4D RGB saliency detection
-1.LFNet: Light-Field Fusion Network for Salient Object Detection   
-The link is [here](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).  
+1.MCA: Saliency Detection on Light Field: A Multi-Cue Approach. (TOMM 2017)     
+The paper link is [here](http://www.linliang.net/wp-content/uploads/2017/07/ACMTOM_Saliency.pdf).        
 2.LFSD: Saliency Detection on Light-Field. (TPAMI 2017)      
 The link is [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570181).       
 3.DILF: Saliency Detection with a Deeper Investigation of Light Field (IJCAI 2015)   
 The link is [here](https://github.com/pencilzhang/lightfieldsaliency_ijcai15).   
+4.WSC: A Weighted Sparse Coding Framework for Saliency Detection. (CVPR 2015)     
+The paper link is [here](http://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf).      
 
 # Earlier Methods
 * Salient Object Detection in the Deep Learning Era: An In-Depth Survey. [paper link](https://arxiv.org/pdf/1904.09146.pdf).
