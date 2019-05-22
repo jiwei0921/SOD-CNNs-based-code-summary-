@@ -18,7 +18,7 @@ The link is [here](https://github.com/NathanUA/BASNet).
 The link is [here](https://github.com/wuzhe71/CPD-CVPR2019) and paper link is [here](https://arxiv.org/pdf/1904.08739.pdf).         
 4.Multi-source weak supervision for saliency detection. (CVPR)      
 The link is [here](https://github.com/zengxianyu/mws).        
-5.Deep Embedding Features for Salient Object Detection. (AAAI)             
+5.Deep Embedding Features for Salient Object Detection. (AAAI)               
 The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
 6.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1904.01215.pdf).     
