@@ -1,5 +1,5 @@
 # SOD CNNs-based code list
-This is a a code summary for salient object detection with deep learning.            
+This is a a code summary for salient object detection with deep learning.               
 
 The repository provide a reading list for salient object detection with deep learning.
 
