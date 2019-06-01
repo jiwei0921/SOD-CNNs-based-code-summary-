@@ -36,7 +36,8 @@ The code link is [here](https://github.com/backseason/PoolNet).
 The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf).    
 12.Pyramid Feature Attention Network for Saliency detection. (CVPR)        
 The paper link is [here](https://arxiv.org/pdf/1903.00179.pdf).      
-13.
+13.Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision. (ICIP)     
+The link is [here](https://github.com/ZhangC2/Saliency-DHCA-ML_S).         
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
@@ -117,7 +118,7 @@ The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).
 ### 2017
 1.Learning RGB-D Salient Object Detection using background enclosure, depth contrast, and top-down features. (ICCV)  
 The link is [here](https://github.com/sshige/rgbd-saliency).    
-2.CTMF: Cnns-based rgb-d saliency detection via cross-view transfer and multiview fusion.(TIP)      
+2.CTMF: Cnns-based rgb-d saliency detection via cross-view transfer and multiview fusion.(TCyb)      
 The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).        
 3.DF: RGBD Salient Object Detection via Deep Fusion. (TIP)    
 The link is [here]().     
