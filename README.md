@@ -43,6 +43,8 @@ The link is [here](https://github.com/ZhangC2/Saliency-DHCA-ML_S).
 The paper link is [here](https://arxiv.org/pdf/1905.03434.pdf).     
 15.SE2Net：Siamese Edge-Enhancement Network for Salient Object Detection. (arXiv)        
 The paper link is [here](https://arxiv.org/pdf/1904.00048.pdf).       
+16.Region Refinement Network for Salient Object Detection. (arXiv)          
+The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).       
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
