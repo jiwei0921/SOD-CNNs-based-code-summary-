@@ -114,7 +114,8 @@ The code link is [here](https://github.com/JXingZhao/ContrastPrior).
 2.AFNet: Adaptive Fusion for RGB-D Salient Object Detection. (arXiv)  
 The link is [here](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Saliency_Detection).  
 3.D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks. (IEEE TNNLS-under review)
-The link is [here](https://github.com/DengPingFan/D3NetBenchmark) 
+The link is [here](https://github.com/DengPingFan/D3NetBenchmark).     
+The paper link is [here](https://arxiv.org/pdf/1907.06781.pdf).     
 
 ### 2018
 1.PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection. (ICME)     
