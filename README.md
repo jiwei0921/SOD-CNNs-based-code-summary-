@@ -108,12 +108,14 @@ The link is [here](https://github.com/gylee1103/SaliencyELD).
 ## 3D RGBD saliency detection
 
 ### 2019 
-1.CPFP: Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection. (CVPR)       
+1.DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection. (ICCV)       
+The link is [here](https://github.com/jiwei0921/DMRA_RGBD-SOD).       
+2.CPFP: Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection. (CVPR)       
 The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprRrbdSOD.pdf).    
 The code link is [here](https://github.com/JXingZhao/ContrastPrior).      
-2.AFNet: Adaptive Fusion for RGB-D Salient Object Detection. (arXiv)  
+3.AFNet: Adaptive Fusion for RGB-D Salient Object Detection. (arXiv)  
 The link is [here](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Saliency_Detection).  
-3.D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks. (IEEE TNNLS-under review)      
+4.D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks. (IEEE TNNLS-under review)      
 The link is [here](https://github.com/DengPingFan/D3NetBenchmark).     
 The paper link is [here](https://arxiv.org/pdf/1907.06781.pdf).     
 
