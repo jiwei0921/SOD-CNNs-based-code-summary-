@@ -44,7 +44,9 @@ The paper link is [here](https://arxiv.org/pdf/1905.03434.pdf).
 15.SE2Net：Siamese Edge-Enhancement Network for Salient Object Detection. (arXiv)        
 The paper link is [here](https://arxiv.org/pdf/1904.00048.pdf).       
 16.Region Refinement Network for Salient Object Detection. (arXiv)          
-The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).       
+The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).     
+17.FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection. (ICCV)   
+The link is [here](https://github.com/zeakey/iccv2019-fmeasure).      
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
