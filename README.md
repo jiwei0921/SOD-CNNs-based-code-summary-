@@ -170,7 +170,7 @@ The paper link is [here](http://openaccess.thecvf.com/content_cvpr_2015/papers/L
 
 # The SOD dataset download
 1. 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox), [download3](https://github.com/magic428/awesome-segmentation-saliency-dataset).
-2. 3D SOD datasets [download](https://pan.baidu.com/s/1wXGyYtTcrUKyO2sdX3w6bA). Password:zb8z
+2. 3D SOD datasets [download](https://github.com/jiwei0921/RGBD-SOD-datasets).  
 3. 4D SOD datasets [download](https://github.com/jiwei0921/LFNet-salient-object-detection-on-light-field).
 
 # Evaluation Metrics
