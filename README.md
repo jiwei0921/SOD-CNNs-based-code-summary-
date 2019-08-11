@@ -49,6 +49,8 @@ The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).
 The link is [here](https://github.com/zeakey/iccv2019-fmeasure).      
 18.Contour Loss: Boundary-Aware Learning for Salient Object Segmentation。 (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1908.01975.pdf).     
+19.Stacked Cross Refinement Network for Salient Object Detection. (ICCV)     
+The link is [here](https://github.com/wuzhe71/SCAN).     
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
