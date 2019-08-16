@@ -41,7 +41,7 @@ The code link is [here](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-A
 The link is [here](https://github.com/ZhangC2/Saliency-DHCA-ML_S).         
 14.ROSA: Robust Salient Object Detection against Adversarial Attacks. (IEEE TCyb)     
 The paper link is [here](https://arxiv.org/pdf/1905.03434.pdf).     
-15.SE2Net：Siamese Edge-Enhancement Network for Salient Object Detection. (arXiv)        
+15.SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection. (arXiv)        
 The paper link is [here](https://arxiv.org/pdf/1904.00048.pdf).       
 16.Region Refinement Network for Salient Object Detection. (arXiv)          
 The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).     
@@ -51,6 +51,8 @@ The link is [here](https://github.com/zeakey/iccv2019-fmeasure).
 The paper link is [here](https://arxiv.org/pdf/1908.01975.pdf).     
 19.Stacked Cross Refinement Network for Salient Object Detection. (ICCV)     
 The link is [here](https://github.com/wuzhe71/SCAN).     
+20.OGNet: Salient Object Detection with Output-guided Attention Module. (arXiv)     
+The paper link is [here](https://arxiv.org/pdf/1907.07449.pdf).     
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
