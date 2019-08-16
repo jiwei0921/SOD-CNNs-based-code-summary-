@@ -53,6 +53,8 @@ The paper link is [here](https://arxiv.org/pdf/1908.01975.pdf).
 The link is [here](https://github.com/wuzhe71/SCAN).     
 20.OGNet: Salient Object Detection with Output-guided Attention Module. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1907.07449.pdf).     
+21. Selectivity or Invariance: Boundary-aware Salient Object Detection. (ICCV)    
+The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).   
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
@@ -80,12 +82,10 @@ The link is [here](https://github.com/lixin666/C2SNet).
 12. Reverse Attention for Salient Object Detection. (ECCV)   
 The link is [here](https://github.com/ShuhanChen/RAS_ECCV18).   
 13. Detect Globally, Refine Locally: A Novel Approach to Saliency Detection. (CVPR)   
-The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally).   
-14. Selectivity or Invariance: Boundary-aware Salient Object Detection. (arXiv)    
-The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).      
-15. Salient Object Detection Driven by Fixation Prediction. (CVPR)     
+The link is [here](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally).      
+14. Salient Object Detection Driven by Fixation Prediction. (CVPR)     
 The link is [here](https://github.com/wenguanwang/ASNet).       
-16. (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction. (arXiv)     
+15. (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1803.09860.pdf).       
  
 ### 2017
