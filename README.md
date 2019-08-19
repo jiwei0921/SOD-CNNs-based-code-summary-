@@ -136,7 +136,7 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 * This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
 
 # Comparison with state-of-the-arts
-[Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all salient object detection algorithms.
+* [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all 2D salient object detection algorithms.
 
 # The SOD dataset download
 * 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox), [download3](https://github.com/magic428/awesome-segmentation-saliency-dataset).
