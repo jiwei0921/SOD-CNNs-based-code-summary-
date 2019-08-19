@@ -53,8 +53,10 @@ The paper link is [here](https://arxiv.org/pdf/1908.01975.pdf).
 The link is [here](https://github.com/wuzhe71/SCAN).     
 20.OGNet: Salient Object Detection with Output-guided Attention Module. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1907.07449.pdf).     
-21. Selectivity or Invariance: Boundary-aware Salient Object Detection. (ICCV)    
+21.Selectivity or Invariance: Boundary-aware Salient Object Detection. (ICCV)    
 The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).   
+22.Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. (arXiv)     
+The paper link is [here](https://arxiv.org/pdf/1908.02460.pdf).    
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
