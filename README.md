@@ -108,19 +108,18 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 02 | **IEEE TIP** | DF: RGBD Salient Object Detection via Deep Fusion | [Paper]()/[Code]()
 03 | **IEEE TCyb** | CTMF: Cnns-based rgb-d saliency detection via cross-view transfer and multiview fusion | [Paper]()/[Code](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18)
 
-    
   
 ## Traditional methods
-1.RGBD co-saliency detection via multiple kernel boosting and fusion. (2018 Multimedia Tools and Applications)  
-The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-multiple-kernel-boosting-and-fusion).  
-2.An Innovative Salient Object Detection Using Center-Dark Channel Prior. (ICCV 2017)  
-The link is [here](https://github.com/ChunbiaoZhu/ACVR2017).  
-3.Saliency detection for stereoscopic images based on depth confidence analysis and multiple cues fusion. (SPL 2016)  
-The link is [here](https://github.com/rmcong/Code-for-DCMC-method).  
-4.RGBD Co-saliency Detection via Bagging-Based Clustering. (SPL 2016)  
-The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagging-based-clustering).  
-5.Exploiting Global Priors for RGB-D Saliency Detection. (CVPR 2015)  
-The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection).   
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **MTA** | RGBD co-saliency detection via multiple kernel boosting and fusion | [Paper]()/[Code](https://github.com/ivpshu/RGBD-co-saliency-detection-via-multiple-kernel-boosting-and-fusion)
+02 | **ICCV17** | An Innovative Salient Object Detection Using Center-Dark Channel Prior | [Paper]()/[Code](https://github.com/ChunbiaoZhu/ACVR2017)
+03 | **IEEE SPL** | Saliency detection for stereoscopic images based on depth confidence analysis and multiple cues fusion | [Paper]()/[Code](https://github.com/rmcong/Code-for-DCMC-method)
+04 | **IEEE SPL** | RGBD Co-saliency Detection via Bagging-Based Clustering | [Paper]()/[Code](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagging-based-clustering)
+05 | **CVPR** | Exploiting Global Priors for RGB-D Saliency Detection | [Paper]()/[Code](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection)
+
+
+
 
 # 4D RGB saliency detection
 1.MCA: Saliency Detection on Light Field: A Multi-Cue Approach. (TOMM 2017)     
