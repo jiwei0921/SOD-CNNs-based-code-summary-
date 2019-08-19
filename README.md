@@ -6,8 +6,8 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 ## Overall
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
-## 2D RGB saliency detection     
-### 2019    
+# 2D RGB saliency detection     
+## 2019    
 
 **ID** | **Publish** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -39,7 +39,7 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
 
 
 
-### 2018
+## 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
 The link is [here](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection).    
 2.PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection. (CVPR)  
@@ -71,7 +71,7 @@ The link is [here](https://github.com/wenguanwang/ASNet).
 15. (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction. (arXiv)     
 The paper link is [here](https://arxiv.org/pdf/1803.09860.pdf).       
  
-### 2017
+## 2017
 1.DSS: Deeply Supervised Salient Object Detection with Short Connections. (CVPR)  
 The link is [here](https://github.com/Andrew-Qibin/DSS).  
 2.NLDF:Non-Local Deep Features for Salient Object Detection. (CVPR)  
@@ -87,7 +87,7 @@ The link is [here](https://github.com/scott89/WSS).
 7.SalGAN: visual saliency prediction with adversarial networks. (CVPR)    
 The link is [here](https://github.com/imatge-upc/saliency-salgan-2017).
 
-### 2016
+## 2016
 1.DHSNet Deep hierarchical saliency network for salient object detection. (CVPR)  
 The link is [here](https://github.com/GuanWenlong/DHSNet-PyTorch).  
 2.RFCN: Saliency detection with recurrent fully convolutional networks. (ECCV)  
@@ -96,9 +96,9 @@ The link is [here](https://github.com/zengxianyu/RFCN).
 The link is [here](https://github.com/gylee1103/SaliencyELD).  
 
 
-## 3D RGBD saliency detection
+# 3D RGBD saliency detection
 
-### 2019 
+## 2019 
 1.DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection. (ICCV)       
 The link is [here](https://github.com/jiwei0921/DMRA_RGBD-SOD).       
 2.CPFP: Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection. (CVPR)       
@@ -110,7 +110,7 @@ The link is [here](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Salien
 The link is [here](https://github.com/DengPingFan/D3NetBenchmark).     
 The paper link is [here](https://arxiv.org/pdf/1907.06781.pdf).     
 
-### 2018
+## 2018
 1.PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection. (ICME)     
 The link is [here](https://github.com/cai199626/PDNet).  
 2.Co-saliency detection for RGBD images based on multi-constraint feature matching and cross label propagation. (TIP)  
@@ -118,7 +118,7 @@ The link is [here](https://github.com/rmcong/Results-for-2018TIP-RGBD-Co-salienc
 3.PCA: Progressively Complementarity-aware Fusion Network for RGB-D Salient Object Detection. (CVPR)  
 The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).  
 
-### 2017
+## 2017
 1.Learning RGB-D Salient Object Detection using background enclosure, depth contrast, and top-down features. (ICCV)  
 The link is [here](https://github.com/sshige/rgbd-saliency).    
 2.CTMF: Cnns-based rgb-d saliency detection via cross-view transfer and multiview fusion.(IEEE TCyb)      
@@ -126,7 +126,7 @@ The link is [here](https://github.com/haochen593/PCA-Fuse_RGBD_CVPR18).
 3.DF: RGBD Salient Object Detection via Deep Fusion. (TIP)    
 The link is [here]().     
   
-### Traditional methods
+## Traditional methods
 1.RGBD co-saliency detection via multiple kernel boosting and fusion. (2018 Multimedia Tools and Applications)  
 The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-multiple-kernel-boosting-and-fusion).  
 2.An Innovative Salient Object Detection Using Center-Dark Channel Prior. (ICCV 2017)  
@@ -138,7 +138,7 @@ The link is [here](https://github.com/ivpshu/RGBD-co-saliency-detection-via-bagg
 5.Exploiting Global Priors for RGB-D Saliency Detection. (CVPR 2015)  
 The link is [here](https://github.com/JianqiangRen/Global_Priors_RGBD_Saliency_Detection).   
 
-## 4D RGB saliency detection
+# 4D RGB saliency detection
 1.MCA: Saliency Detection on Light Field: A Multi-Cue Approach. (TOMM 2017)     
 The paper link is [here](http://www.linliang.net/wp-content/uploads/2017/07/ACMTOM_Saliency.pdf).        
 2.LFSD: Saliency Detection on Light-Field. (TPAMI 2017)      
