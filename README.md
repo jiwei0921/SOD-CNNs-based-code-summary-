@@ -1,7 +1,5 @@
 # SOD CNNs-based code list       
-This is a summary (**Code and Paper**) for salient object detection with deep learning.                          
-
-The repository provide a reading list for salient object detection with deep learning.
+The repository provide a summary (**Code and Paper**) for salient object detection with deep learning.                          
 
 In this repository, we mainly focus on deep learning based saliency methods. We hope these codes will help you to better understand saliency detection in the deep learning era. **We will keep updating it.**       
 
@@ -10,53 +8,36 @@ In this repository, we mainly focus on deep learning based saliency methods. We 
     
 ## 2D RGB saliency detection     
 ### 2019    
-1.AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection. (CVPR)   
-The link is [here](https://github.com/ArcherFMY/AFNet).      
-2.BASNet: Boundary Aware Salient Object Detection. (CVPR)   
-The link is [here](https://github.com/NathanUA/BASNet).      
-3.CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection. (CVPR)     
-The link is [here](https://github.com/wuzhe71/CPD-CVPR2019) and paper link is [here](https://arxiv.org/pdf/1904.08739.pdf).         
-4.Multi-source weak supervision for saliency detection. (CVPR)      
-The link is [here](https://github.com/zengxianyu/mws).        
-5.Deep Embedding Features for Salient Object Detection. (AAAI)               
-The link is [here](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw).    
-6.DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS. (arXiv)     
-The paper link is [here](https://arxiv.org/pdf/1904.01215.pdf).     
-7.SAC-Net: Spatial Attenuation Context for Salient Object Detection. (arXiv)   
-The paper link is [here](https://arxiv.org/pdf/1903.10152.pdf).  
-8.MLMSNet:A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision. (CVPR)      
-The link is [here](https://github.com/JosephineRabbit/MLMSNet) and [paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ).      
-9.CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection. (CVPR)      
-The link is [here](https://github.com/zhangludl/code-and-dataset-for-CapSal).     
-The paper link is [here](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ).      
-10.A Simple Pooling-Based Design for Real-Time Salient Object Detection. (CVPR)         
-The paper link is [here](https://arxiv.org/pdf/1904.09569.pdf).      
-The code link is [here](https://github.com/backseason/PoolNet).     
-11.An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection. (CVPR)        
-The paper link is [here](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf).    
-12.Pyramid Feature Attention Network for Saliency detection. (CVPR)        
-The paper link is [here](https://arxiv.org/pdf/1903.00179.pdf).     
-The code link is [here](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection).    
-13.Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision. (ICIP)     
-The link is [here](https://github.com/ZhangC2/Saliency-DHCA-ML_S).         
-14.ROSA: Robust Salient Object Detection against Adversarial Attacks. (IEEE TCyb)     
-The paper link is [here](https://arxiv.org/pdf/1905.03434.pdf).     
-15.SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection. (arXiv)        
-The paper link is [here](https://arxiv.org/pdf/1904.00048.pdf).       
-16.Region Refinement Network for Salient Object Detection. (arXiv)          
-The paper link is [here](https://arxiv.org/pdf/1906.11443.pdf).     
-17.FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection. (ICCV)   
-The link is [here](https://github.com/zeakey/iccv2019-fmeasure).      
-18.Contour Loss: Boundary-Aware Learning for Salient Object Segmentation。 (arXiv)     
-The paper link is [here](https://arxiv.org/pdf/1908.01975.pdf).     
-19.Stacked Cross Refinement Network for Salient Object Detection. (ICCV)     
-The link is [here](https://github.com/wuzhe71/SCAN).     
-20.OGNet: Salient Object Detection with Output-guided Attention Module. (arXiv)     
-The paper link is [here](https://arxiv.org/pdf/1907.07449.pdf).     
-21.Selectivity or Invariance: Boundary-aware Salient Object Detection. (ICCV)    
-The paper link is [here](https://arxiv.org/pdf/1812.10066.pdf).   
-22.Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. (arXiv)     
-The paper link is [here](https://arxiv.org/pdf/1908.02460.pdf).    
+
+**ID** | **Publish** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **CVPR** | AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection | Paper/[Code](https://github.com/ArcherFMY/AFNet)  
+02 | **CVPR** | BASNet: Boundary Aware Salient Object Detection | Paper/[Code](https://github.com/NathanUA/BASNet) 
+03 | **CVPR** | CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.08739.pdf)/[Code](https://github.com/wuzhe71/CPD-CVPR2019)
+04 | **CVPR** | Multi-source weak supervision for saliency detection | Paper/[Code](https://github.com/zengxianyu/mws)
+05 | **CVPR** | MLMSNet:A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
+06 | **CVPR** | CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection | [Paper](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ)/[Code](https://github.com/zhangludl/code-and-dataset-for-CapSal)
+07 | **CVPR** | PoolNet: A Simple Pooling-Based Design for Real-Time Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.09569.pdf)/[Code](https://github.com/backseason/PoolNet)
+08 | **CVPR** | An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf)/Code
+09 | **CVPR** | Pyramid Feature Attention Network for Saliency detection | [Paper](https://arxiv.org/pdf/1903.00179.pdf)/[Code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)
+10 | **AAAI** | Deep Embedding Features for Salient Object Detection | [Paper](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw)/Code
+11 | **ICIP** | Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision | Paper/[Code](https://github.com/ZhangC2/Saliency-DHCA-ML_S)
+12 | **IEEE TCyb** | ROSA: Robust Salient Object Detection against Adversarial Attacks | [Paper](https://arxiv.org/pdf/1905.03434.pdf)/Code
+13 | **arXiv** | DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS | [Paper](https://arxiv.org/pdf/1904.01215.pdf)/Code
+14 | **arXiv** | SAC-Net: Spatial Attenuation Context for Salient Object Detection | [Paper](https://arxiv.org/pdf/1903.10152.pdf)/Code
+15 | **arXiv** | SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.00048.pdf)/Code
+16 | **arXiv** | Region Refinement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1906.11443.pdf)/Code
+17 | **arXiv** | Contour Loss: Boundary-Aware Learning for Salient Object Segmentation | [Paper](https://arxiv.org/pdf/1908.01975.pdf)/Code
+18 | **arXiv** | OGNet: Salient Object Detection with Output-guided Attention Module | [Paper](https://arxiv.org/pdf/1907.07449.pdf)/Code
+19 | **arXiv** | Edge-guided Non-local Fully Convolutional Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.02460.pdf)/Code
+20 | **ICCV** | FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection | Paper/[Code](https://github.com/zeakey/iccv2019-fmeasure)
+21 | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | Paper/[Code](https://github.com/wuzhe71/SCAN)
+22 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
+
+  
+              
+
+
 
 ### 2018
 1.A Bi-Directional Message Passing Model for Salient Object Detection. (CVPR)  
