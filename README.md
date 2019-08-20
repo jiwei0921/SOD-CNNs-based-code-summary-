@@ -1,4 +1,4 @@
-# SOD CNNs-based code list       
+# SOD CNNs-based Reading List       
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
 :running: **We will keep updating it.** :running:      
