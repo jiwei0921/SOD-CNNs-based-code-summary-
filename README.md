@@ -11,17 +11,17 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **CVPR** | AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection | Paper/[Code](https://github.com/ArcherFMY/AFNet)  
-02 | **CVPR** | BASNet: Boundary Aware Salient Object Detection | Paper/[Code](https://github.com/NathanUA/BASNet) 
+01 | **CVPR** | AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
+02 | **CVPR** | BASNet: Boundary Aware Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html)/[Code](https://github.com/NathanUA/BASNet) 
 03 | **CVPR** | CPD: Cascaded Partial Decoder for Accurate and Fast Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.08739.pdf)/[Code](https://github.com/wuzhe71/CPD-CVPR2019)
-04 | **CVPR** | Multi-source weak supervision for saliency detection | Paper/[Code](https://github.com/zengxianyu/mws)
+04 | **CVPR** | Multi-source weak supervision for saliency detection | [Paper](https://arxiv.org/pdf/1904.00566.pdf)/[Code](https://github.com/zengxianyu/mws)
 05 | **CVPR** | MLMSNet:A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
 06 | **CVPR** | CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection | [Paper](https://pan.baidu.com/s/1hS38zj_xK9f9KBtY_hkWzQ)/[Code](https://github.com/zhangludl/code-and-dataset-for-CapSal)
 07 | **CVPR** | PoolNet: A Simple Pooling-Based Design for Real-Time Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.09569.pdf)/[Code](https://github.com/backseason/PoolNet)
 08 | **CVPR** | An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf)/Code
 09 | **CVPR** | Pyramid Feature Attention Network for Saliency detection | [Paper](https://arxiv.org/pdf/1903.00179.pdf)/[Code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)
 10 | **AAAI** | Deep Embedding Features for Salient Object Detection | [Paper](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw)/Code
-11 | **ICIP** | Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision | Paper/[Code](https://github.com/ZhangC2/Saliency-DHCA-ML_S)
+11 | **ICIP** | Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision | [Paper](https://github.com/ZhangC2/Saliency-DHCA-ML_S)/[Code](https://github.com/ZhangC2/Saliency-DHCA-ML_S)
 12 | **IEEE TCyb** | ROSA: Robust Salient Object Detection against Adversarial Attacks | [Paper](https://arxiv.org/pdf/1905.03434.pdf)/Code
 13 | **arXiv** | DSAL-GAN: DENOISING BASED SALIENCY PREDICTION WITH GENERATIVE ADVERSARIAL NETWORKS | [Paper](https://arxiv.org/pdf/1904.01215.pdf)/Code
 14 | **arXiv** | SAC-Net: Spatial Attenuation Context for Salient Object Detection | [Paper](https://arxiv.org/pdf/1903.10152.pdf)/Code
