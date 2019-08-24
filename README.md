@@ -3,9 +3,9 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add three papers about ICCV19                 
+ :heavy_exclamation_mark:  **2D SOD**: Add four ICCV19 papers and three arXiv papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                     
- :heavy_exclamation_mark:  **4D SOD**: No Updates                                       
+ :heavy_exclamation_mark:  **4D SOD**: No updates                                       
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
@@ -34,13 +34,13 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 14 | **arXiv** | SAC-Net: Spatial Attenuation Context for Salient Object Detection | [Paper](https://arxiv.org/pdf/1903.10152.pdf)/Code
 15 | **arXiv** | SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.00048.pdf)/Code
 16 | **arXiv** | Region Refinement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1906.11443.pdf)/Code
-17 | **arXiv** | Contour Loss: Boundary-Aware Learning for Salient Object Segmentation | [Paper](https://arxiv.org/pdf/1908.01975.pdf)/Code
-18 | **arXiv** | OGNet: Salient Object Detection with Output-guided Attention Module | [Paper](https://arxiv.org/pdf/1907.07449.pdf)/Code
-19 | **arXiv** | Edge-guided Non-local Fully Convolutional Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.02460.pdf)/Code
-20 | **ICCV** | FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection | Paper/[Code](https://github.com/zeakey/iccv2019-fmeasure)
-21 | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | Paper/[Code](https://github.com/wuzhe71/SCAN)
-22 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
-22 | **ICCV** | HRSOD:Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
+:triangular_flag_on_post: 17 | **arXiv** | Contour Loss: Boundary-Aware Learning for Salient Object Segmentation | [Paper](https://arxiv.org/pdf/1908.01975.pdf)/Code
+:triangular_flag_on_post: 18 | **arXiv** | OGNet: Salient Object Detection with Output-guided Attention Module | [Paper](https://arxiv.org/pdf/1907.07449.pdf)/Code
+:triangular_flag_on_post: 19 | **arXiv** | Edge-guided Non-local Fully Convolutional Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.02460.pdf)/Code
+:triangular_flag_on_post: 20 | **ICCV** | FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection | Paper/[Code](https://github.com/zeakey/iccv2019-fmeasure)
+:triangular_flag_on_post: 21  | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | Paper/[Code](https://github.com/wuzhe71/SCAN)
+:triangular_flag_on_post: 22 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
+:triangular_flag_on_post: 22 | **ICCV** | HRSOD:Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
   
 
 ## 2018
@@ -92,7 +92,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2019
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **ICCV** | DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection | Paper/[Code](https://github.com/jiwei0921/DMRA_RGBD-SOD)
+:triangular_flag_on_post: 01 | **ICCV** | DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection | Paper/[Code](https://github.com/jiwei0921/DMRA_RGBD-SOD)
 02 | **CVPR** | CPFP: Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprRrbdSOD.pdf)/[Code](https://github.com/JXingZhao/ContrastPrior)
 03 | **IEEE TIP** | Three-stream Attention-aware Network for RGB-D Salient Object Detection | [Paper](http://ieeexplore.ieee.org/document/8603756/)/Code
 04 | **IEEE PR** | Multi-modal fusion network with multi-scale multi-path and cross-modal interactions for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303054)/Code
