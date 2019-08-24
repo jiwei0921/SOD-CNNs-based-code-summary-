@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add three papers about ICCV19                 
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                     
- :heavy_exclamation_mark:  **4D SOD**: No Update                                       
+ :heavy_exclamation_mark:  **4D SOD**: No Updates                                       
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
