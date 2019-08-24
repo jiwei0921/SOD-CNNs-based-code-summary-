@@ -1,7 +1,14 @@
 # SOD CNNs-based Read List       
+
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
-:running: **We will keep updating it.** :running:      
+--------------------------------------------------------------------------------------
+ :heavy_exclamation_mark:  **2D SOD**: Add three papers about ICCV19                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                     
+ :heavy_exclamation_mark:  **4D SOD**: No Update                                       
+
+:running: **We will keep updating it.** :running:    
+--------------------------------------------------------------------------------------
 
 ## Overall
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
