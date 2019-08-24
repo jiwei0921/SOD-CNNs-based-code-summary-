@@ -33,7 +33,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20 | **ICCV** | FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection | Paper/[Code](https://github.com/zeakey/iccv2019-fmeasure)
 21 | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | Paper/[Code](https://github.com/wuzhe71/SCAN)
 22 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
-
+22 | **ICCV** | HRSOD:Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
   
 
 ## 2018
