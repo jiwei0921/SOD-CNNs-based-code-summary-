@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add four ICCV19 papers and three arXiv papers                 
+ :heavy_exclamation_mark:  **2D SOD**: Add five ICCV19 papers and three arXiv papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                     
  :heavy_exclamation_mark:  **4D SOD**: No updates                                       
 
@@ -41,6 +41,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 21  | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | Paper/[Code](https://github.com/wuzhe71/SCAN)
 :triangular_flag_on_post: 22 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
 :triangular_flag_on_post: 22 | **ICCV** | HRSOD:Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
+:triangular_flag_on_post: 23 | **ICCV** | EGNet:Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
   
 
 ## 2018
