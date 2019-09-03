@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five ICCV19 papers and three arXiv papers                 
+ :heavy_exclamation_mark:  **2D SOD**: Add five ICCV19 papers and three arXiv papers                  
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                     
  :heavy_exclamation_mark:  **4D SOD**: No updates                                       
 
