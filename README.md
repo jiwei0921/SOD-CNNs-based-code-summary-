@@ -100,6 +100,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **IEEE PR** | Multi-modal fusion network with multi-scale multi-path and cross-modal interactions for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303054)/Code
 05 | **arXiv** | AFNet: Adaptive Fusion for RGB-D Salient Object Detection | [Paper](http://arxiv.org/abs/1901.01369?context=cs.CV)/[Code](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Saliency_Detection)
 06 | **arXiv** | D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks | [Paper](https://arxiv.org/pdf/1907.06781.pdf)/[Code](https://github.com/DengPingFan/D3NetBenchmark)
+07 | **arXiv** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Code
 
    
 
