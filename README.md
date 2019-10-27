@@ -42,7 +42,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 23 | **ICCV** | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
 :triangular_flag_on_post: 24 | **ICCV** | HRSOD:Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
 :triangular_flag_on_post: 25 | **ICCV** | EGNet:Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
-:triangular_flag_on_post: 26 | **ICCV** | Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection | [Paper](https://arxiv.org/pdf/1909.04366.pdf)/Code
+:triangular_flag_on_post: 26 | **ICCV** | Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection | [Paper](https://arxiv.org/pdf/1909.04366.pdf)/[Code](https://github.com/xuyingyue/DeepUnifiedCRF_iccv19)
   
 
 ## 2018
