@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.     
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add seven ICCV19 papers                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one paper AAAI20-PFPN                    
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                                                           
 
 :running: **We will keep updating it.** :running:    
@@ -13,8 +13,13 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
 # 2D RGB Saliency Detection     
-## 2019       
+## 2020       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code 
 
+
+## 2019       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **CVPR** | AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
