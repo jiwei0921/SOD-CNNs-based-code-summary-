@@ -162,7 +162,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 # The SOD dataset download
 * 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox), [download3](https://github.com/magic428/awesome-segmentation-saliency-dataset).
 * 3D SOD datasets [download](https://github.com/jiwei0921/RGBD-SOD-datasets).  
-* 4D SOD datasets [download](https://github.com/OIPLab-DUT/DUT-LFSD-Dataset).
+* 4D SOD datasets [download](https://github.com/jiwei0921/MoLF).
 
 # Evaluation Metrics
 * Saliency maps evaluation.      
