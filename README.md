@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one paper AAAI20-PFPN                    
+ :heavy_exclamation_mark:  **2D SOD**: Add two papers AAAI20-PFPN and AAAI20-GCPAN                  
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                                                           
 
 :running: **We will keep updating it.** :running:    
@@ -16,7 +16,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2020       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code 
+01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code     
+02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | Paper/[Code](https://github.com/JosephChenHub/GCPANet)   
 
 
 ## 2019       
