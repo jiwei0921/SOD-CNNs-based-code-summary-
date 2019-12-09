@@ -8,7 +8,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
-
+      
 ## Overall
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
