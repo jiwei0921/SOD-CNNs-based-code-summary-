@@ -149,7 +149,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 02 | **IJCAI** | DILF: Saliency Detection with a Deeper Investigation of Light Field | [Paper](http://pdfs.semanticscholar.org/4b17/fca1d67862e1fbffaf9ac64a1a73e0f20904.pdf)/[Code](https://github.com/pencilzhang/lightfieldsaliency_ijcai15)
 03 | **CVPR** | WSC: A Weighted Sparse Coding Framework for Saliency Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2015/papers/Li_A_Weighted_Sparse_2015_CVPR_paper.pdf)/Code
 04 | **IEEE PAMI** | Saliency Detection on Light-Field | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570181)/[Code](https://download.csdn.net/download/deepvl/8076323?fps=1&locationNum=9)
-05 | **ICCV** | Deep Learning for Light Field Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/Code
+05 | **ICCV** | Deep Learning for Light Field Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)
 06 | **NeurIPS** | Memory-oriented Decoder for Light Field Salient Object Detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Code](https://github.com/jiwei0921/MoLF)
 
       
