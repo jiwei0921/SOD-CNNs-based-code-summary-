@@ -17,7 +17,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code       
-02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | Paper/[Code](https://github.com/JosephChenHub/GCPANet)     
+02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
 01 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)       
 
 
