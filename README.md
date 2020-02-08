@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add four papers AAAI20-PFPN, AAAI20-F3Net, AAAI20-GCPAN and NIPS19-DeepUSPS                   
+ :heavy_exclamation_mark:  **2D SOD**: Add five AAAI20 papers                   
  :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                                                           
 
 :running: **We will keep updating it.** :running:    
