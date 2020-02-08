@@ -18,7 +18,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code       
 :triangular_flag_on_post: 02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
-:triangular_flag_on_post: 03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)       
+:triangular_flag_on_post: 03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
+:triangular_flag_on_post: 04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | Paper/Code 
+:triangular_flag_on_post: 05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | Paper/Code 
+
 
 
 ## 2019       
@@ -152,6 +155,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **IEEE PAMI** | Saliency Detection on Light-Field | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7570181)/[Code](https://download.csdn.net/download/deepvl/8076323?fps=1&locationNum=9)
 05 | **ICCV** | Deep Learning for Light Field Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)
 06 | **NeurIPS** | Memory-oriented Decoder for Light Field Salient Object Detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Code](https://github.com/jiwei0921/MoLF)
+07 | **AAAI** | Memory-oriented Decoder for Light Field Salient Object Detection | Paper/[Code](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)
 
       
 
