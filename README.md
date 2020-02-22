@@ -1,10 +1,11 @@
 # SOD CNNs-based Read List       
 
-In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
+In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five AAAI20 papers                   
- :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA                                                           
+ :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA    
+ :heavy_exclamation_mark:  **Video SOD** : **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
@@ -158,6 +159,23 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | **AAAI** | Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection | Paper/[Code](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)
 
       
+# Video Salient Object Detection
+
+## 2019  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **ICCV** | Motion Guided Attention for Video Salient Object Detection | Paper/[Code](https://github.com/lhaof/Motion-Guided-Attention)
+02 | **CVPR** | Shifting More Attention to Video Salient Objection Detection | [Paper](https://github.com/DengPingFan/DAVSOD/blob/master/%5B2019%5D%5BCVPR%5D%5BOral%5D【SSAV】【DAVSOD】Shifting%20More%20Attention%20to%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/DengPingFan/DAVSOD)   
+03 | **CVPR** | Learning Unsupervised Video Object Segmentation through Visual Attention | Paper/[Code](https://github.com/wenguanwang/AGS)   
+
+
+## 2018  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **ECCV** | Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection | Paper/[Code](https://github.com/shenjianbing/PDB-ConvLSTM)
+02 | **CVPR** | Revisiting Video Saliency: A Large-scale Benchmark and a New Model | [Paper](https://github.com/wenguanwang/DHF1K/blob/master/(pami19)DynamicSaliency.pdf)/[Code](https://github.com/wenguanwang/DHF1K)  
+03 | **IEEE TIP** | Video Salient Object Detection via Fully Convolutional Networks | [Paper](https://www.researchgate.net/publication/319950992_Video_Salient_Object_Detection_via_Fully_Convolutional_Networks)/[Code](https://github.com/wenguanwang/ViSalientObject)
+
 
 # Earlier Methods
 * Salient Object Detection in the Deep Learning Era: An In-Depth Survey. [paper link](https://arxiv.org/pdf/1904.09146.pdf).
@@ -170,6 +188,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 * 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox), [download3](https://github.com/magic428/awesome-segmentation-saliency-dataset).
 * 3D SOD datasets [download](https://github.com/jiwei0921/RGBD-SOD-datasets).  
 * 4D SOD datasets [download](https://github.com/jiwei0921/MoLF).
+* Video SOD datasets [download](http://dpfan.net/DAVSOD/).
 
 # Evaluation Metrics
 * Saliency maps evaluation.      
