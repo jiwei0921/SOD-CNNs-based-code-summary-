@@ -177,9 +177,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **ECCV** | Pyramid Dilated Deeper CoonvLSTM for Video Salient Object Detection | [Paper](https://github.com/shenjianbing/PDBConvLSTM/blob/master/Pyramid%20Dilated%20Deeper%20CoonvLSTM%20for%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/shenjianbing/PDB-ConvLSTM)
-02 | **CVPR** | Revisiting Video Saliency: A Large-scale Benchmark and a New Model | [Paper](https://github.com/wenguanwang/DHF1K/blob/master/(pami19)DynamicSaliency.pdf)/[Code](https://github.com/wenguanwang/DHF1K)  
-03 | **CVPR** | Flow Guided Recurrent Neural Encoder for Video Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1226.pdf)/Code  
-04 | **IEEE TIP** | Video Salient Object Detection via Fully Convolutional Networks | [Paper](https://arxiv.org/pdf/1702.00871.pdf)/[Code](https://github.com/wenguanwang/ViSalientObject)
+02 | **ECCV** | DeepVS: A Deep Learning Based Video Saliency Prediction Approach | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Lai_Jiang_DeepVS_A_Deep_ECCV_2018_paper.html)/[Code](https://github.com/remega/OMCNN_2CLSTM)
+03 | **CVPR** | Revisiting Video Saliency: A Large-scale Benchmark and a New Model | [Paper](https://github.com/wenguanwang/DHF1K/blob/master/(pami19)DynamicSaliency.pdf)/[Code](https://github.com/wenguanwang/DHF1K)  
+04 | **CVPR** | Flow Guided Recurrent Neural Encoder for Video Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1226.pdf)/Code  
+05 | **IEEE TIP** | Video Salient Object Detection via Fully Convolutional Networks | [Paper](https://arxiv.org/pdf/1702.00871.pdf)/[Code](https://github.com/wenguanwang/ViSalientObject)
 
 
 # Earlier Methods
