@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five AAAI20 papers                   
- :heavy_exclamation_mark:  **3D SOD**: Add one paper ICCV19-DMRA    
+ :heavy_exclamation_mark:  **3D SOD**: Add one paper CVPR20 Jl-DCF    
  :heavy_exclamation_mark:  **Video SOD** : **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -105,10 +105,16 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 # 3D RGB-D Saliency Detection
 
+## 2020
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | Paper/[Code](https://github.com/kerenfu/JLDCF)  
+
+
 ## 2019
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **ICCV** | DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/jiwei0921/DMRA_RGBD-SOD)
+01 | **ICCV** | DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Piao_Depth-Induced_Multi-Scale_Recurrent_Attention_Network_for_Saliency_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/jiwei0921/DMRA_RGBD-SOD)
 02 | **CVPR** | CPFP: Contrast Prior and Fluid Pyramid Integration for RGBD Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprRrbdSOD.pdf)/[Code](https://github.com/JXingZhao/ContrastPrior)
 03 | **IEEE TIP** | Three-stream Attention-aware Network for RGB-D Salient Object Detection | [Paper](http://ieeexplore.ieee.org/document/8603756/)/Code
 04 | **IEEE PR** | Multi-modal fusion network with multi-scale multi-path and cross-modal interactions for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303054)/Code
