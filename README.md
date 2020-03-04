@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five AAAI20 papers                   
- :heavy_exclamation_mark:  **3D SOD**: Add one paper CVPR20 Jl-DCF    
+ :heavy_exclamation_mark:  **2D SOD**: Add One paper CVPR20 Scribble_Saliency                   
+ :heavy_exclamation_mark:  **3D SOD**: Add two papers CVPR20 Jl-DCF UC-Net   
  :heavy_exclamation_mark:  **Video SOD** : **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -17,11 +17,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2020       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code       
-:triangular_flag_on_post: 02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
-:triangular_flag_on_post: 03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
-:triangular_flag_on_post: 04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | Paper/Code 
-:triangular_flag_on_post: 05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | Paper/Code 
+01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code       
+02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
+03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
+04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | Paper/Code 
+05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | Paper/Code 
+:triangular_flag_on_post: 06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | Paper/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
 
 
 
@@ -109,6 +110,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | Paper/[Code](https://github.com/kerenfu/JLDCF)  
+:triangular_flag_on_post: 02 | **CVPR** | UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders | Paper/[Code](https://github.com/JingZhang617/UCNet)  
 
 
 ## 2019
