@@ -109,8 +109,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | Paper/[Code](https://github.com/kerenfu/JLDCF)  
-:triangular_flag_on_post: 02 | **CVPR** | UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders | Paper/[Code](https://github.com/JingZhang617/UCNet)  
+:triangular_flag_on_post: 01 | **IEEE TIP** | ICNet: Information Conversion Network for RGB-D Based Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9024241/authors)/[Code](https://github.com/MathLee/ICNet-for-RGBD-SOD)  
+:triangular_flag_on_post: 02 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | Paper/[Code](https://github.com/kerenfu/JLDCF)  
+:triangular_flag_on_post: 03 | **CVPR** | UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders | Paper/[Code](https://github.com/JingZhang617/UCNet)  
 
 
 ## 2019
