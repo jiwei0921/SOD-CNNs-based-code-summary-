@@ -23,6 +23,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | Paper/Code 
 05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | Paper/Code 
 :triangular_flag_on_post: 06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | Paper/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
+:triangular_flag_on_post: 07 | **CVPR** | Taking a Deeper Look at the Co-salient Object Detection | [Paper](http://dpfan.net/wp-content/uploads/CoSalBenchmark_CVPR2020.pdf)/Code  
 
 
 
