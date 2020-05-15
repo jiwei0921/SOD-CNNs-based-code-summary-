@@ -10,7 +10,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
    
-## Overall
+## Overall 
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
 # 2D RGB Saliency Detection     
@@ -60,7 +60,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 27 | **ICCV** | Employing Deep Part-Object Relationships for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Employing_Deep_Part-Object_Relationships_for_Salient_Object_Detection_ICCV_2019_paper.pdf)/Code
 :triangular_flag_on_post: 28 | **NeurIPS** | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/Code   
 
-  
+    
 
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
