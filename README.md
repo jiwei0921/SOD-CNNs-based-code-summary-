@@ -20,8 +20,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/Code       
 02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
 03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
-04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | Paper/Code 
-05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | Paper/Code 
+04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://cse.sc.edu/~songwang/document/aaai20b.pdf)/Code 
+05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | [Paper](https://cse.sc.edu/~songwang/document/aaai20a.pdf)/Code 
 :triangular_flag_on_post: 06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | Paper/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
 :triangular_flag_on_post: 07 | **CVPR** | Taking a Deeper Look at the Co-salient Object Detection | [Paper](http://dpfan.net/wp-content/uploads/CoSalBenchmark_CVPR2020.pdf)/Code  
 :triangular_flag_on_post: 08 | **CVPR** | Multi-scale Interactive Network for Salient Object Detection | [Paper](https://drive.google.com/file/d/1gUYu0hO_8Xc5jgpzetuOVFDrqeSOiKZN/view?usp=sharing)/[Code](https://github.com/lartpang/MINet)  
