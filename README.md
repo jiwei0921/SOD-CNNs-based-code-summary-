@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add One paper CVPR20 Scribble_Saliency                   
- :heavy_exclamation_mark:  **3D SOD**: Add two papers CVPR20 Jl-DCF UC-Net   
+ :heavy_exclamation_mark:  **2D SOD**: Add One paper ECCV20                  
+ :heavy_exclamation_mark:  **3D SOD**: Add two papers ECCV20   
  :heavy_exclamation_mark:  **Video SOD** : **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -22,12 +22,13 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
 04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://cse.sc.edu/~songwang/document/aaai20b.pdf)/Code 
 05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | [Paper](https://cse.sc.edu/~songwang/document/aaai20a.pdf)/Code 
-:triangular_flag_on_post: 06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
-:triangular_flag_on_post: 07 | **CVPR** | Taking a Deeper Look at the Co-salient Object Detection | [Paper](http://dpfan.net/wp-content/uploads/CoSalBenchmark_CVPR2020.pdf)/[Code](http://dpfan.net/CoSOD3K/)  
-:triangular_flag_on_post: 08 | **CVPR** | Multi-scale Interactive Network for Salient Object Detection | [Paper](https://drive.google.com/file/d/1gUYu0hO_8Xc5jgpzetuOVFDrqeSOiKZN/view?usp=sharing)/[Code](https://github.com/lartpang/MINet)  
-:triangular_flag_on_post: 09 | **CVPR** | Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/moothes/ITSD-pytorch)  
-:triangular_flag_on_post: 10 | **CVPR** | Label Decoupling Framework for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/weijun88/LDF)  
-:triangular_flag_on_post: 11 | **CVPR** | Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)/Code
+06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
+07 | **CVPR** | Taking a Deeper Look at the Co-salient Object Detection | [Paper](http://dpfan.net/wp-content/uploads/CoSalBenchmark_CVPR2020.pdf)/[Code](http://dpfan.net/CoSOD3K/)  
+08 | **CVPR** | Multi-scale Interactive Network for Salient Object Detection | [Paper](https://drive.google.com/file/d/1gUYu0hO_8Xc5jgpzetuOVFDrqeSOiKZN/view?usp=sharing)/[Code](https://github.com/lartpang/MINet)  
+09 | **CVPR** | Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/moothes/ITSD-pytorch)  
+10 | **CVPR** | Label Decoupling Framework for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/weijun88/LDF)  
+11 | **CVPR** | Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)/Code
+:triangular_flag_on_post: 12 | **ECCV** | Highly Efficient Salient Object Detection with 100K Parameters | Paper/[Code](https://github.com/MCG-NKU/Sal100K)
 
 
 
@@ -62,7 +63,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 25 | **ICCV** | EGNet:Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
 26 | **ICCV** | Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection | [Paper](https://arxiv.org/pdf/1909.04366.pdf)/[Code](https://github.com/xuyingyue/DeepUnifiedCRF_iccv19)
 27 | **ICCV** | Employing Deep Part-Object Relationships for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Employing_Deep_Part-Object_Relationships_for_Salient_Object_Detection_ICCV_2019_paper.pdf)/Code
-:triangular_flag_on_post: 28 | **NeurIPS** | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/Code   
+28 | **NeurIPS** | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/Code   
 
     
 
@@ -115,12 +116,14 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **IEEE TIP** | ICNet: Information Conversion Network for RGB-D Based Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9024241/authors)/[Code](https://github.com/MathLee/ICNet-for-RGBD-SOD)  
-:triangular_flag_on_post: 02 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)/[Code](https://github.com/kerenfu/JLDCF)  
-:triangular_flag_on_post: 03 | **CVPR** | UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/UCNet)  
-:triangular_flag_on_post: 04 | **CVPR** | A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Piao_A2dele_Adaptive_and_Attentive_Depth_Distiller_for_Efficient_RGB-D_Salient_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR2020-A2dele)  
-:triangular_flag_on_post: 05 | **CVPR** | Select, Supplement and Focus for RGB-D Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR_SSF-RGBD)   
-:triangular_flag_on_post: 06 | **CVPR** | Learning Selective Self-Mutual Attention for RGB-D Saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/nnizhang/S2MA)   
+01 | **IEEE TIP** | ICNet: Information Conversion Network for RGB-D Based Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9024241/authors)/[Code](https://github.com/MathLee/ICNet-for-RGBD-SOD)  
+02 | **CVPR** | JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf)/[Code](https://github.com/kerenfu/JLDCF)  
+03 | **CVPR** | UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/UCNet)  
+04 | **CVPR** | A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Piao_A2dele_Adaptive_and_Attentive_Depth_Distiller_for_Efficient_RGB-D_Salient_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR2020-A2dele)  
+05 | **CVPR** | Select, Supplement and Focus for RGB-D Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR_SSF-RGBD)   
+06 | **CVPR** | Learning Selective Self-Mutual Attention for RGB-D Saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/nnizhang/S2MA)   
+:triangular_flag_on_post: 07 | **ECCV** | Cross-Modal Weighting Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/MathLee/CMWNet)
+:triangular_flag_on_post: 08 | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | Paper/[Code](https://github.com/zyjwuyan/BBS-Net)
 
 
 ## 2019
