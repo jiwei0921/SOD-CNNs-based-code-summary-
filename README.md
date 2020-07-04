@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five papesr ECCV20                  
- :heavy_exclamation_mark:  **3D SOD**: Add eight papers ECCV20   
+ :heavy_exclamation_mark:  **3D SOD**: Add nine papers ECCV20   
  :heavy_exclamation_mark:  **Video SOD** : Add three papers ECCV20, **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
