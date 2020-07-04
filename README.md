@@ -32,7 +32,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 13 | **ECCV** | n-Reference Transfer Learning for Saliency Prediction | Paper/Code   
 :triangular_flag_on_post: 14 | **ECCV** | Gradient-Induced Co-Saliency Detection | Paper/Code    
 :triangular_flag_on_post: 13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | Paper/Code  
-:triangular_flag_on_post: 15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | Paper/Code 
+:triangular_flag_on_post: 15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | Paper/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
 
   
 
@@ -136,7 +136,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 11 | **ECCV** | Progressively Guided Alternate Refinement Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/ShuhanChen/PGAR_ECCV20)
 :triangular_flag_on_post: 12 | **ECCV** | RGB-D Salient Object Detection with Cross-Modality Modulation and Selection | Paper/Code
 :triangular_flag_on_post: 13 | **ECCV** | Cascade Graph Neural Networks for RGB-D Salient Object Detection | Paper/Code  
-:triangular_flag_on_post: 14 | **ECCV** | A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection | Paper/Code  
+:triangular_flag_on_post: 14 | **ECCV** | A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection | Paper/[Code](https://github.com/Xiaoqi-Zhao-DLUT/DANet-RGBD-Saliency)  
 :triangular_flag_on_post: 15 | **ECCV** | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection | Paper/Code   
 
 
