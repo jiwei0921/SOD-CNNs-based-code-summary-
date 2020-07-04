@@ -137,6 +137,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 12 | **ECCV** | RGB-D Salient Object Detection with Cross-Modality Modulation and Selection | Paper/Code
 :triangular_flag_on_post: 13 | **ECCV** | Cascade Graph Neural Networks for RGB-D Salient Object Detection | Paper/Code  
 :triangular_flag_on_post: 14 | **ECCV** | A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection | Paper/Code  
+:triangular_flag_on_post: 15 | **ECCV** | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection | Paper/Code   
 
 
 
