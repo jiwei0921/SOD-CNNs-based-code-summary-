@@ -129,7 +129,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **CVPR** | A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Piao_A2dele_Adaptive_and_Attentive_Depth_Distiller_for_Efficient_RGB-D_Salient_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR2020-A2dele)  
 05 | **CVPR** | Select, Supplement and Focus for RGB-D Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/OIPLab-DUT/CVPR_SSF-RGBD)   
 06 | **CVPR** | Learning Selective Self-Mutual Attention for RGB-D Saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Learning_Selective_Self-Mutual_Attention_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/nnizhang/S2MA)   
-:triangular_flag_on_post: 07 | **ECCV** | Accurate RGB-D Salient Object Detection via Collaborative Learning | Paper/Code
+:triangular_flag_on_post: 07 | **ECCV** | Accurate RGB-D Salient Object Detection via Collaborative Learning | Paper/[Code](https://github.com/jiwei0921/CoNet)
 :triangular_flag_on_post: 08 | **ECCV** | Cross-Modal Weighting Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/MathLee/CMWNet)
 :triangular_flag_on_post: 09 | **ECCV** | BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network | Paper/[Code](https://github.com/zyjwuyan/BBS-Net)
 :triangular_flag_on_post: 10 | **ECCV** | Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/lartpang/HDFNet)
