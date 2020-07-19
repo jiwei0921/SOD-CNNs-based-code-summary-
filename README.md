@@ -203,7 +203,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 01 | **CVPR** | STAViS: Spatio-Temporal AudioVisual Saliency Network | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tsiami_STAViS_Spatio-Temporal_AudioVisual_Saliency_Network_CVPR_2020_paper.pdf)/Code  
 :triangular_flag_on_post: 02 | **ECCV** | Unified Image and Video Saliency Modeling | Paper/Code  
 :triangular_flag_on_post: 03 | **ECCV** | Measuring the importance of temporal features in video saliency | Paper/Code  
-:triangular_flag_on_post: 04 | **ECCV** | TENet: Triple Excitation Network for Video Salient Object Detection | Paper/Code 
+:triangular_flag_on_post: 04 | **ECCV** | TENet: Triple Excitation Network for Video Salient Object Detection | Paper/[Code](https://github.com/OliverRensu/TENet-Triple-Excitation-Network-for-Video-Salient-Object-Detection) 
 
 ## 2019  
 **No.** | **Pub.** | **Title** | **Links** 
