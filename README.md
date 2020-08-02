@@ -9,11 +9,30 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
+
+
+------
+
+
+## Content:
+
+1. <a href="#Overall"> An overview of the Paper List </a>
+2. <a href="#2D RGB Saliency Detection"> 2D RGB Saliency Detection </a>
+3. <a href="#3D RGB-D Saliency Detection">  3D RGB Saliency Detection </a>
+4. <a href="$4D Light Field Saliency Detection"> 4D Light Field Saliency Detection </a>
+5. <a href="Video Salient Object Detection"> Video Saliency Detection </a>
+6. <a href="Earlier Methods"> Survery and earlier Methods </a>
+7. <a href="The SOD dataset download"> The SOD dataset download </a>
+8. <a href="Evaluation Metrics"> Evaluation Metrics </a>
+
+
+------
+
    
-## Overall 
+# Overall <a id="Overall" class="anchor" href="Overall" aria-hidden="true"><span class="octicon octicon-link"></span></a>
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
-# 2D RGB Saliency Detection     
+# 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 ## 2020       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -118,7 +137,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 
 
-# 3D RGB-D Saliency Detection
+# 3D RGB-D Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
@@ -183,7 +202,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 
 
-# 4D Light Field Saliency Detection
+# 4D Light Field Saliency Detection  <a id="4D Light Field Saliency Detection" class="anchor" href="4D Light Field Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **TOMM** | MCA: Saliency Detection on Light Field: A Multi-Cue Approach | [Paper](http://www.linliang.net/wp-content/uploads/2017/07/ACMTOM_Saliency.pdf)/[Code](https://github.com/pencilzhang/HFUT-Lytro-dataset)
@@ -195,7 +214,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | **AAAI** | Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection | [Paper](https://drive.google.com/file/d/1uPkpB51MRMm_Zmvh1M2Z3nc3D8r32MR9/view?usp=drivesdk)/[Code](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)
 
       
-# Video Salient Object Detection
+# Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2020  
 **No.** | **Pub.** | **Title** | **Links** 
@@ -231,20 +250,40 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 01 | **IEEE TIP** | Learning to Detect Video Saliency with HEVC Features | [Paper](https://ieeexplore.ieee.org/abstract/document/7742914/)/[Code](https://github.com/remega/Compressd_Domain_SaliencyPrediction)
 
-# Earlier Methods
+# Earlier Methods  <a id="Earlier Methods" class="anchor" href="Earlier Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | IEEE TIP15  |  Salientobject detection: A benchmark | [Paper](https://arxiv.org/pdf/1501.02741.pdf)/Code
+02 | IEEE TCSVT18 |  Review of visual saliency detectionwith comprehensive information | [Paper](https://arxiv.org/pdf/1803.03391.pdf)/Code
+03 | ACM TIST18  |  A review of co-saliency detection algorithms: Fundamentals,applications, and challenges | [Paper](https://arxiv.org/pdf/1604.07090.pdf)/Code
+04 | IEEE TSP18  |  Advanced deep-learning techniques for salient andcategory-specific object detection: A survey| [Paper](https://ieeexplore.ieee.org/document/8253582)/Code
+05 | IJCV18    |  Attentivesystems: A survey | [Paper](https://link.springer.com/article/10.1007/s11263-017-1042-6)/Project
+06 | ECCV18   |  Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground | [Paper](http://mftp.mmcheng.net/Papers/18ECCV-SOCBenchmark.pdf)/[Code](http://dpfan.net/socbenchmark/)
+07 | CVM18   |  Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Code
+08 | IEEE TNNLS19 |  Object detection with deep learning: Areview | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Code
+09 | arXiv19 |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Code](https://github.com/wenguanwang/SODsurvey) 
+10 | GitHub20 | RGB-D Salient Object Detection: A Survey | Paper/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
+
+The part of the collection is thanks to [Dengping Fan](http://dpfan.net) and [Tao Zhang](https://github.com/taozh2017).
+
 * Salient Object Detection in the Deep Learning Era: An In-Depth Survey. [paper link](https://arxiv.org/pdf/1904.09146.pdf).
 * This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
+* RGB-D Salient Object Detection: A Survey. [project link](https://github.com/taozh2017/RGBD-SODsurvey).
 
-# Comparison with state-of-the-arts
+
+
+# Comparison with state-of-the-arts  <a id="Comparison with state-of-the-arts" class="anchor" href="Comparison with state-of-the-arts" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all 2D salient object detection algorithms. 
+* [Here](http://dpfan.net/d3netbenchmark/) includes the performance comparison of almost all 3D RGB-D salient object detection algorithms. 
 
-# The SOD dataset download
+# The SOD dataset download    <a id="The SOD dataset download" class="anchor" href="The SOD dataset download" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * 2D SOD datasets [download1](https://github.com/TinyGrass/SODdataset) or [download2](https://github.com/ArcherFMY/sal_eval_toolbox), [download3](https://github.com/magic428/awesome-segmentation-saliency-dataset).
 * 3D SOD datasets [download](https://github.com/jiwei0921/RGBD-SOD-datasets).  
 * 4D SOD datasets [download](https://github.com/jiwei0921/MoLF).
 * Video SOD datasets [download](http://dpfan.net/DAVSOD/).
 
-# Evaluation Metrics
+# Evaluation Metrics  <a id="Evaluation Metrics" class="anchor" href="Evaluation Metrics" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 * Saliency maps evaluation.      
 This link near all evaluation metrics for salient object detection including E-measure, S-measure, F-measure, MAE scores and PR curves or bar metrics.
 You can found in [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).        
