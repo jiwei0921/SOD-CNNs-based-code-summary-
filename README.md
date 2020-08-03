@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five papesr ECCV20                  
- :heavy_exclamation_mark:  **3D SOD**: Add nine papers ECCV20   
+ :heavy_exclamation_mark:  **3D SOD**: Add nine papers ECCV20 and one ACMM20 paper   
  :heavy_exclamation_mark:  **Video SOD** : Add three papers ECCV20, **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -157,6 +157,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 13 | **ECCV** | Cascade Graph Neural Networks for RGB-D Salient Object Detection | Paper/[Code](https://github.com/LA30/Cas-Gnn)   
 :triangular_flag_on_post: 14 | **ECCV** | A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.06811.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/DANet-RGBD-Saliency)  
 :triangular_flag_on_post: 15 | **ECCV** | Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection | [Paper](https://drive.google.com/file/d/1JuaGfxyHYRBLGpVEadRE9bbgITHz1TEa/view?usp=sharing)/[Code](https://github.com/sxfduter/ASTA)   
+:triangular_flag_on_post: 16 | **ACMM** | Is Depth Really Necessary for Salient Object Detection? | [Paper](https://arxiv.org/pdf/2006.00269.pdf)/Code
 
 
 
