@@ -265,9 +265,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | CVM18   |  Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Code
 08 | IEEE TNNLS19 |  Object detection with deep learning: Areview | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Code
 09 | arXiv19 |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Code](https://github.com/wenguanwang/SODsurvey) 
-10 | GitHub20 | RGB-D Salient Object Detection: A Survey | Paper/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
+10 | GitHub20 | RGB-D Salient Object Detection: A Survey | [Paper](https://arxiv.org/abs/2008.00230)/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
 
-The part of the collection is thanks to [Dengping Fan](http://dpfan.net) and [Tao Zhang](https://github.com/taozh2017).
+The part of the collection is thanks to [Deng-Ping Fan](http://dpfan.net) and [Tao Zhou](https://github.com/taozh2017).
 
 * Salient Object Detection in the Deep Learning Era: An In-Depth Survey. [paper link](https://arxiv.org/pdf/1904.09146.pdf).
 * This is a paper list published by another author. [here](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Image-01-Salient-Object-Detection.md)
