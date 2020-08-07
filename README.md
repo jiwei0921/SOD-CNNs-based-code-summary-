@@ -256,14 +256,14 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | IEEE TIP15  |  Salientobject detection: A benchmark | [Paper](https://arxiv.org/pdf/1501.02741.pdf)/Code
-02 | IEEE TCSVT18 |  Review of visual saliency detectionwith comprehensive information | [Paper](https://arxiv.org/pdf/1803.03391.pdf)/Code
-03 | ACM TIST18  |  A review of co-saliency detection algorithms: Fundamentals,applications, and challenges | [Paper](https://arxiv.org/pdf/1604.07090.pdf)/Code
-04 | IEEE TSP18  |  Advanced deep-learning techniques for salient andcategory-specific object detection: A survey| [Paper](https://ieeexplore.ieee.org/document/8253582)/Code
-05 | IJCV18    |  Attentivesystems: A survey | [Paper](https://link.springer.com/article/10.1007/s11263-017-1042-6)/Project
-06 | ECCV18   |  Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground | [Paper](http://mftp.mmcheng.net/Papers/18ECCV-SOCBenchmark.pdf)/[Code](http://dpfan.net/socbenchmark/)
-07 | CVM18   |  Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Code
-08 | IEEE TNNLS19 |  Object detection with deep learning: Areview | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Code
+01 | IEEE TIP15 | Salient object detection: A benchmark | [Paper](https://arxiv.org/pdf/1501.02741.pdf)/Code
+02 | IEEE TCSVT18 | Review of visual saliency detectionwith comprehensive information | [Paper](https://arxiv.org/pdf/1803.03391.pdf)/Code
+03 | ACM TIST18 | A review of co-saliency detection algorithms: Fundamentals, applications, and challenges | [Paper](https://arxiv.org/pdf/1604.07090.pdf)/Code
+04 | IEEE TSP18 | Advanced deep-learning techniques for salient and category-specific object detection: A survey| [Paper](https://ieeexplore.ieee.org/document/8253582)/Code
+05 | IJCV18 | Attentive systems: A survey | [Paper](https://link.springer.com/article/10.1007/s11263-017-1042-6)/Project
+06 | ECCV18 | Salient Objects in Clutter: Bringing Salient Object Detection to the Foreground | [Paper](http://mftp.mmcheng.net/Papers/18ECCV-SOCBenchmark.pdf)/[Code](http://dpfan.net/socbenchmark/)
+07 | CVM18 | Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Code
+08 | IEEE TNNLS19 | Salient Object detection with deep learning: Areview | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Code
 09 | arXiv19 |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Code](https://github.com/wenguanwang/SODsurvey) 
 10 | GitHub20 | RGB-D Salient Object Detection: A Survey | [Paper](https://arxiv.org/abs/2008.00230)/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
 
