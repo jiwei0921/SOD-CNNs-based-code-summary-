@@ -3,9 +3,9 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five papesr ECCV20                  
- :heavy_exclamation_mark:  **3D SOD**: Add nine papers ECCV20 and two ACMM20 papers   
- :heavy_exclamation_mark:  **Video SOD** : Add three papers ECCV20 and one paper TIP, **Continuously Updating!** 
+ :heavy_exclamation_mark:  **2D SOD**: Add five ECCV20 papers and one NeurIPS paper                 
+ :heavy_exclamation_mark:  **3D SOD**: Add nine ECCV20 papers and two ACMM20 papers   
+ :heavy_exclamation_mark:  **Video SOD** : Add three ECCV20 papers and one paper TIP, **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
