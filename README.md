@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five ECCV20 papers and one NeurIPS paper                 
+ :heavy_exclamation_mark:  **2D SOD**: Add five ECCV20 papers and two NeurIPS papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add nine ECCV20 papers and two ACMM20 papers   
  :heavy_exclamation_mark:  **Video SOD** : Add three ECCV20 papers and one paper TIP, **Continuously Updating!** 
 
@@ -54,6 +54,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
 :triangular_flag_on_post: 16 | **IEEE TIP** | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
 :triangular_flag_on_post: 17 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | Paper/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
+:triangular_flag_on_post: 18 | **NeurIPS** | Few-Cost Salient Object Detection with Adversarial-Paced Learning | Paper/Code
+
 
   
 
