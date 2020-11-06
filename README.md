@@ -18,7 +18,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 1. <a href="#Overall"> An overview of the Paper List </a>
 2. <a href="#2D RGB Saliency Detection"> 2D RGB Saliency Detection </a>
-3. <a href="#3D RGB-D Saliency Detection">  3D RGB Saliency Detection </a>
+3. <a href="#3D RGB-D Saliency Detection">  3D RGB-D/T Saliency Detection </a>
 4. <a href="#4D Light Field Saliency Detection"> 4D Light Field Saliency Detection </a>
 5. <a href="#Video Salient Object Detection"> Video Saliency Detection </a>
 6. <a href="#Earlier Methods"> Survery and earlier Methods </a>
