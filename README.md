@@ -33,6 +33,15 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
 # 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
+## 2021       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 1 | **AAAI** | Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence | [Paper](https://arxiv.org/pdf/2012.04404.pdf)/Code
+
+
+
+
 ## 2020       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -47,14 +56,15 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 09 | **CVPR** | Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/moothes/ITSD-pytorch)  
 10 | **CVPR** | Label Decoupling Framework for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/weijun88/LDF)  
 11 | **CVPR** | Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)/Code
-:triangular_flag_on_post: 12 | **ECCV** | Highly Efficient Salient Object Detection with 100K Parameters | [Paper](http://mftp.mmcheng.net/Papers/20EccvSal100k.pdf)/[Code](https://github.com/MCG-NKU/Sal100K)
-:triangular_flag_on_post: 13 | **ECCV** | n-Reference Transfer Learning for Saliency Prediction | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530494.pdf)/[Code](https://github.com/luoyan407/n-reference)   
-:triangular_flag_on_post: 14 | **ECCV** | Gradient-Induced Co-Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570443.pdf)/[Code](http://zhaozhang.net/coca.html)   
-:triangular_flag_on_post: 13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)/[Code](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)  
-:triangular_flag_on_post: 15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
-:triangular_flag_on_post: 16 | **IEEE TIP** | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
-:triangular_flag_on_post: 17 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
-:triangular_flag_on_post: 18 | **NeurIPS** | Few-Cost Salient Object Detection with Adversarial-Paced Learning | Paper/Code
+12 | **ECCV** | Highly Efficient Salient Object Detection with 100K Parameters | [Paper](http://mftp.mmcheng.net/Papers/20EccvSal100k.pdf)/[Code](https://github.com/MCG-NKU/Sal100K)
+13 | **ECCV** | n-Reference Transfer Learning for Saliency Prediction | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530494.pdf)/[Code](https://github.com/luoyan407/n-reference)   
+14 | **ECCV** | Gradient-Induced Co-Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570443.pdf)/[Code](http://zhaozhang.net/coca.html)   
+13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)/[Code](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)  
+15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
+16 | **IEEE TIP** | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
+17 | **IEEE TIP** | CAGNet: Content-Aware Guidance for Salient Object Detection | [Paper](https://arxiv.org/abs/1911.13168)/[Code](https://github.com/Mehrdad-Noori/CAGNet)
+18 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
+19 | **NeurIPS** | Few-Cost Salient Object Detection with Adversarial-Paced Learning | Paper/Code
 
 
   
