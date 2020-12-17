@@ -238,6 +238,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 05 | **ICCV** | Deep Learning for Light Field Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Learning_for_Light_Field_Saliency_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/OIPLab-DUT/ICCV2019_Deeplightfield_Saliency)
 06 | **NeurIPS** | Memory-oriented Decoder for Light Field Salient Object Detection | [Paper](https://papers.nips.cc/paper/8376-memory-oriented-decoder-for-light-field-salient-object-detection.pdf)/[Code](https://github.com/jiwei0921/MoLF)
 07 | **AAAI** | Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection | [Paper](https://drive.google.com/file/d/1uPkpB51MRMm_Zmvh1M2Z3nc3D8r32MR9/view?usp=drivesdk)/[Code](https://github.com/OIPLab-DUT/AAAI2020-Exploit-and-Replace-Light-Field-Saliency)
+08 | **TIP** | A Multi-Task Collaborative Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9153018)/Code
 
       
 # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
