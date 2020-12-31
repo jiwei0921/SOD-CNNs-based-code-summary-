@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one AAAI21 paper                 
- :heavy_exclamation_mark:  **3D SOD**: Add nine ECCV20 papers and three ACMM20 papers   
+ :heavy_exclamation_mark:  **2D SOD**: Add five AAAI21 papers                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one AAAI21 paper   
  :heavy_exclamation_mark:  **Video SOD** : Add three ECCV20 papers and one paper TIP, **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -38,6 +38,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 1 | **AAAI** | Structure-Consistent Weakly Supervised Salient Object Detection with Local Saliency Coherence | [Paper](https://arxiv.org/pdf/2012.04404.pdf)/Code
+:triangular_flag_on_post: 2 | **AAAI** | Pyramidal Feature Shrinking for Salient Object Detection | Paper/Code  
+:triangular_flag_on_post: 3 | **AAAI** | Locate Globally, Segment Locally: A Progressive Architecture with Knowledge Review Network for Salient Object Detection | Paper/Code
+:triangular_flag_on_post: 4 | **AAAI** | Multi-Scale Graph Fusion for Co-Saliency Detection | Paper/Code
+:triangular_flag_on_post: 5 | **AAAI** | Generating Diversified Comments via Reader-Aware Topic Modeling and Saliency Detection | Paper/Code
 
 
 
@@ -154,6 +158,15 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 
 # 3D RGB-D Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+
+## 2021       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 1 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | Paper/[Code](https://github.com/PPOLYpubki/RD3D)
+
+
+
 
 ## 2020
 **No.** | **Pub.** | **Title** | **Links** 
