@@ -165,7 +165,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 1 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | Paper/[Code](https://github.com/PPOLYpubki/RD3D)
+:triangular_flag_on_post: 1 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | [Paper](https://arxiv.org/pdf/2101.10241.pdf)/[Code](https://github.com/PPOLYpubki/RD3D)
 
 
 
