@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five AAAI21 papers                 
- :heavy_exclamation_mark:  **3D SOD**: Add one AAAI21 paper   
+ :heavy_exclamation_mark:  **3D SOD**: Add one AAAI21 paper and TIP paper   
  :heavy_exclamation_mark:  **Video SOD** : Add three ECCV20 papers and one paper TIP, **Continuously Updating!** 
 
 :running: **We will keep updating it.** :running:    
@@ -166,6 +166,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 1 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | [Paper](https://arxiv.org/pdf/2101.10241.pdf)/[Code](https://github.com/PPOLYpubki/RD3D)
+:triangular_flag_on_post: 1 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/MathLee/HAINet)
 
 
 
