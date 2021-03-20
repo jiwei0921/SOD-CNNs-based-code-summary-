@@ -261,6 +261,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
       
 # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+## 2021  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **CVPR** | Weakly Supervised Video Salient Object Detection | Paper/[Code](https://github.com/wangbo-zhao/WSVSOD)     
+
 ## 2020  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
