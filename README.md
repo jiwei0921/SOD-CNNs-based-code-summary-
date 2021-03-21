@@ -348,3 +348,4 @@ You can found in [here](https://github.com/jiwei0921/Saliency-dataset-evaluation
 
 ### AI Conference Deadlines
 [Realted AI Conference deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
+[Realted AI Conference Accepted Rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
