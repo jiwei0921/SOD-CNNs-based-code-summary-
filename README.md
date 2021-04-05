@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five AAAI21 papers                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one CVPR21 paper, five AAAI21 papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add one CVPR21 paper, one AAAI21 paper and two TIP papers   
  :heavy_exclamation_mark:  **Video SOD** : Add three ECCV20 papers and one paper TIP, **Continuously Updating!** 
 
@@ -43,6 +43,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 4 | **AAAI** | Multi-Scale Graph Fusion for Co-Saliency Detection | Paper/Code
 :triangular_flag_on_post: 5 | **AAAI** | Generating Diversified Comments via Reader-Aware Topic Modeling and Saliency Detection | [Paper](https://arxiv.org/pdf/2102.06856.pdf)/Code
 :triangular_flag_on_post: 6 | **TCSVT** | Weakly-Supervised Saliency Detection via Salient Object Subitizing | [Paper](https://arxiv.org/pdf/2101.00932.pdf)/Code
+:triangular_flag_on_post: 7 | **CVPR** | Group Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01108.pdf)/[Code](https://github.com/fanq15/GCoNet)
 
 
 
