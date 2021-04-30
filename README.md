@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add one CVPR21 paper, one TIP21 paper, five AAAI21 papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add one CVPR21 paper, one AAAI21 paper and two TIP papers   
- :heavy_exclamation_mark:  **LF SOD**: Add one ArXiv21 paper
+ :heavy_exclamation_mark:  **LF SOD**: Add one ArXiv21 paper   
  :heavy_exclamation_mark:  **Video SOD** : Add two CVPR21 and ArXiv21 papers  
 
 :running: **We will keep updating it.** :running:    
