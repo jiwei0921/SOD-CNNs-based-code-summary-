@@ -47,6 +47,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 7 | **TIP** | SAMNet: Stereoscopically Attentive Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9381668)/[Code](https://github.com/yun-liu/FastSaliency) 
 :triangular_flag_on_post: 8 | **CVPR** | Group Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01108.pdf)/[Code](https://github.com/fanq15/GCoNet)
 :triangular_flag_on_post: 9 | **CVPR** | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2104.02628.pdf)/Code
+:triangular_flag_on_post: 10 | **ICIP** | Multiscale IoU: A Metric for Evaluation of Salient Object Detection with Fine Structures | [Paper](https://arxiv.org/pdf/2105.14572.pdf)/Code
 
 
 
@@ -277,7 +278,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **CVPR** | Weakly Supervised Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.02391.pdf)/[Code](https://github.com/wangbo-zhao/WSVSOD)     
 :triangular_flag_on_post: 02 | **ArXiv** | Video Salient Object Detection via Adaptive Local-Global Refinement | [Paper](https://arxiv.org/pdf/2104.14360.pdf)/Code    
-:triangular_flag_on_post: 03 | **ICIP** | Guidance and Teaching Network for Video Salient Object Detection | Paper/[Code](https://github.com/GewelsJI/GTNet)    
+:triangular_flag_on_post: 03 | **ICIP** | Guidance and Teaching Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.10110.pdf)/[Code](https://github.com/GewelsJI/GTNet)    
 
 ## 2020  
 **No.** | **Pub.** | **Title** | **Links** 
