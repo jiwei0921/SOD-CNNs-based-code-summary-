@@ -177,7 +177,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 03 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | [Paper](https://arxiv.org/pdf/2101.10241.pdf)/[Code](https://github.com/PPOLYpubki/RD3D)
 :triangular_flag_on_post: 04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
 :triangular_flag_on_post: 05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
-:triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | Paper/[Code](https://github.com/zwbx/BTS-Net)
+:triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
 
 
 
@@ -331,7 +331,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | CVM18 | Salient object detection: A survey | [Paper](https://link.springer.com/content/pdf/10.1007/s41095-019-0149-9.pdf)/Code
 08 | IEEE TNNLS19 | Salient Object detection with deep learning: Areview | [Paper](https://arxiv.org/pdf/1807.05511.pdf)/Code
 09 | arXiv19 |  Salient Object Detection in the Deep Learning Era-An In-Depth Survey | [Paper](https://arxiv.org/pdf/1904.09146.pdf)/[Code](https://github.com/wenguanwang/SODsurvey) 
-10 | GitHub20 | RGB-D Salient Object Detection: A Survey | [Paper](https://arxiv.org/abs/2008.00230)/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
+10 | CVM21 | RGB-D Salient Object Detection: A Survey | [Paper](https://arxiv.org/abs/2008.00230)/[Code](https://github.com/taozh2017/RGBD-SODsurvey)
 
 The part of the collection is thanks to [Deng-Ping Fan](http://dpfan.net) and [Tao Zhou](https://github.com/taozh2017).
 
