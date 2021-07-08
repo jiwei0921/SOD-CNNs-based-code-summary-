@@ -57,6 +57,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 17 | **CVPR** | CAMERAS: Enhanced Resolution and Sanity Preserving Class Activation Mapping for Image Saliency | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jalwana_CAMERAS_Enhanced_Resolution_and_Sanity_Preserving_Class_Activation_Mapping_for_CVPR_2021_paper.pdf)/[Code](https://github.com/VisMIL/CAMERAS)
 :triangular_flag_on_post: 18 | **CVPR** | Saliency-Guided Image Translation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)/Code
 :triangular_flag_on_post: 19 | **CVPR** | Group Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01108.pdf)/[Code](https://github.com/fanq15/GCoNet)
+:triangular_flag_on_post: 20 | **ACMM** | Auto-MSFNet: Search Multi-scale Fusion Network for Salient Object Detection | Paper/[Code](https://github.com/LiuTingWed/Auto-MSFNet) 
 
 
 
@@ -188,6 +189,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
 :triangular_flag_on_post: 05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
 :triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
+:triangular_flag_on_post: 07 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-level CNN Features | Paper/[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)
+:triangular_flag_on_post: 08 | **IEEE TCSVT** | Revisiting Feature Fusion for RGB-T Salient Object Detection | Paper/[Code](https://github.com/nexiakele/Revisiting-Feature-Fusion-for-RGB-T-Salient-Object-Detection)
+:triangular_flag_on_post: 09 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)
 
 
 
