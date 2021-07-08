@@ -189,9 +189,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
 :triangular_flag_on_post: 05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
 :triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
-:triangular_flag_on_post: 07 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-level CNN Features | Paper/[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)
-:triangular_flag_on_post: 08 | **IEEE TCSVT** | Revisiting Feature Fusion for RGB-T Salient Object Detection | Paper/[Code](https://github.com/nexiakele/Revisiting-Feature-Fusion-for-RGB-T-Salient-Object-Detection)
-:triangular_flag_on_post: 09 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)
+:triangular_flag_on_post: 07 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)
 
 
 
@@ -221,7 +219,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20 | **IEEE TIP** | Improved Saliency Detection in RGB-D Images Using Two-Phase Depth Estimation and Selective Deep Fusion | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8976428)/Code
 21 | **IEEE TIP** | Depth Potentiality-Aware Gated Attention Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2003.08608.pdf)/[Code](https://github.com/JosephChenHub/DPANet)
 22 | **IEEE TNNLS** | D3Net:Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks | [Paper](https://arxiv.org/pdf/1907.06781.pdf)/[Code](https://github.com/DengPingFan/D3NetBenchmark)
-23 | **IEEE TCSVT** | Revisiting Feature Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161021)/Code
+23 | **IEEE TCSVT** | Revisiting Feature Fusion for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9161021)/[Code](https://github.com/nexiakele/Revisiting-Feature-Fusion-for-RGB-T-Salient-Object-Detection)
 
 
 
@@ -235,7 +233,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **IEEE PR** | Multi-modal fusion network with multi-scale multi-path and cross-modal interactions for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303054)/Code
 05 | **IEEE Access** | AFNet: Adaptive Fusion for RGB-D Salient Object Detection | [Paper](http://arxiv.org/abs/1901.01369?context=cs.CV)/[Code](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Saliency_Detection)
 06 | **arXiv** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Code
-07 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/abstract/document/8935533)/Code
+07 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/abstract/document/8935533)/[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)
 08 | **IEEE TMM** | RGB-T image saliency detection via collaborative graph learning | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)/Code
 
    
