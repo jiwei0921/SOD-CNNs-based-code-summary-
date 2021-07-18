@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add one CVPR21 paper, one TIP21 paper, five AAAI21 papers                 
- :heavy_exclamation_mark:  **3D SOD**: Add one CVPR21 paper, one AAAI21 paper and two TIP papers   
+ :heavy_exclamation_mark:  **3D SOD**: Add two CVPR21 paper and two ACMM21 papers   
  :heavy_exclamation_mark:  **LF SOD**: Add one IEEE TCyB21 paper   
  :heavy_exclamation_mark:  **Video SOD** : Add two CVPR21 and ACMM21 papers  
 
@@ -190,8 +190,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
 :triangular_flag_on_post: 05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
 :triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
-:triangular_flag_on_post: 07 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)
-
+:triangular_flag_on_post: 07 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
+:triangular_flag_on_post: 08 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | Paper/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
 
 
 
