@@ -6,7 +6,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  :heavy_exclamation_mark:  **2D SOD**: Add one CVPR21 paper, one TIP21 paper, five AAAI21 papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add two CVPR21 paper and two ACMM21 papers   
  :heavy_exclamation_mark:  **LF SOD**: Add one IEEE TCyB21 paper   
- :heavy_exclamation_mark:  **Video SOD** : Add two CVPR21 and ACMM21 papers  
+ :heavy_exclamation_mark:  **Video SOD** : Add four CVPR21, ACMM21 and ICCV21 papers. 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
@@ -295,6 +295,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 02 | **ArXiv** | Video Salient Object Detection via Adaptive Local-Global Refinement | [Paper](https://arxiv.org/pdf/2104.14360.pdf)/Code    
 :triangular_flag_on_post: 03 | **ICIP** | Guidance and Teaching Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.10110.pdf)/[Code](https://github.com/GewelsJI/GTNet)    
 :triangular_flag_on_post: 04 | **ACMM** | Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation | Paper/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Multi-Source-APS-ZVOS)   
+:triangular_flag_on_post: 05 | **ICCV** | Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection | Paper/[Code](https://github.com/Roudgers/DCFNet)   
 
 ## 2020  
 **No.** | **Pub.** | **Title** | **Links** 
