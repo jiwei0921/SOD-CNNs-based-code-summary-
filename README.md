@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add three ICCV21 papers                 
- :heavy_exclamation_mark:  **3D SOD**: Add two CVPR21 paper and two ACMM21 papers and one ICCV21 paper    
+ :heavy_exclamation_mark:  **3D SOD**: Add two CVPR21 paper and two ACMM21 papers and two ICCV21 papers    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** : Add four CVPR21, ACMM21 and ICCV21 papers. 
 
@@ -196,6 +196,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 07 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 :triangular_flag_on_post: 08 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | [Paper](https://arxiv.org/pdf/2108.03990.pdf)/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
 :triangular_flag_on_post: 09 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | Paper/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
+:triangular_flag_on_post: 10 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
 
 
 
