@@ -287,7 +287,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 09 | **ArXiv** | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/[Code](https://github.com/OIPLab-DUT/DUTLF-V2)   
 10 | **ArXiv** | Learning Synergistic Attention for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.13916.pdf)/Code
 11 | **ArXiv** | CMA-Net: A Cascaded Mutual Attention Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.00949.pdf)/Code
-:triangular_flag_on_post: 12 | **IEEE TCyB** | PANet: Patch-Aware Network for Light Field Salient Object Detection | Paper/[Code](https://github.com/jyydlut/IEEE-TCYB-PANet)
+:triangular_flag_on_post: 12 | **IEEE TCyB** | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9517032)/[Code](https://github.com/jyydlut/IEEE-TCYB-PANet)
 :triangular_flag_on_post: 13 | **ACMM21** | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | Paper/[Code](https://github.com/Timsty1/OBGNet)
 
 
