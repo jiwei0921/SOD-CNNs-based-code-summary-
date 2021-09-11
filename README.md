@@ -187,16 +187,17 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **CVPR** | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion | [Paper](https://arxiv.org/pdf/2103.11832.pdf)/[Code](https://github.com/sunpeng1996/DSA2F)   
-:triangular_flag_on_post: 02 | **CVPR** | Calibrated RGB-D Saliency Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf)/[Code](https://github.com/jiwei0921/DCF)  
-:triangular_flag_on_post: 03 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | [Paper](https://arxiv.org/pdf/2101.10241.pdf)/[Code](https://github.com/PPOLYpubki/RD3D)
-:triangular_flag_on_post: 04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
-:triangular_flag_on_post: 05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
-:triangular_flag_on_post: 06 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
-:triangular_flag_on_post: 07 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
-:triangular_flag_on_post: 08 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | [Paper](https://arxiv.org/pdf/2108.03990.pdf)/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
-:triangular_flag_on_post: 09 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | Paper/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
-:triangular_flag_on_post: 10 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
+01 | **CVPR** | Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion | [Paper](https://arxiv.org/pdf/2103.11832.pdf)/[Code](https://github.com/sunpeng1996/DSA2F)   
+02 | **CVPR** | Calibrated RGB-D Saliency Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf)/[Code](https://github.com/jiwei0921/DCF)  
+03 | **AAAI** | RGB-D Salient Object Detection via 3D Convolutional Neural Networks | [Paper](https://arxiv.org/pdf/2101.10241.pdf)/[Code](https://github.com/PPOLYpubki/RD3D)
+04 | **IEEE TIP** | Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9371407)/[Code](https://github.com/MathLee/HAINet)
+05 | **IEEE TIP** | CDNet: Complementary Depth Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9366409)/[Code](https://github.com/blanclist/CDNet)
+06 | **IEEE TIP** | RGB-D Salient Object Detection with Ubiquitous Target Awareness | [Paper](https://arxiv.org/pdf/2109.03425.pdf)/Code
+07 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
+08 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
+09 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | [Paper](https://arxiv.org/pdf/2108.03990.pdf)/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
+:triangular_flag_on_post: 10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | Paper/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
+:triangular_flag_on_post: 11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
 
 
 
