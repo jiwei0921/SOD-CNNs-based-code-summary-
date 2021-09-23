@@ -196,7 +196,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
 08 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 09 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | [Paper](https://arxiv.org/pdf/2108.03990.pdf)/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
-:triangular_flag_on_post: 10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | Paper/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
+:triangular_flag_on_post: 10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | [Paper](https://arxiv.org/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
 :triangular_flag_on_post: 11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
 
 
