@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add three ICCV21 papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add two CVPR21 paper and two ACMM21 papers and two ICCV21 papers    
- :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCyB21 and ACMM21 papers   
+ :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** : Add four CVPR21, ACMM21 and ICCV21 papers. 
 
 :running: **We will keep updating it.** :running:    
@@ -290,6 +290,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 11 | **ArXiv** | CMA-Net: A Cascaded Mutual Attention Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.00949.pdf)/Code
 :triangular_flag_on_post: 12 | **IEEE TCyB** | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9517032)/[Code](https://github.com/jyydlut/IEEE-TCYB-PANet)
 :triangular_flag_on_post: 13 | **ACMM21** | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | Paper/[Code](https://github.com/Timsty1/OBGNet)
+:triangular_flag_on_post: 14 | **ICCV21** | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/Code
 
 
       
