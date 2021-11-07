@@ -205,7 +205,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | [Paper](https://arxiv.org/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
 :triangular_flag_on_post: 11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
 :triangular_flag_on_post: 12 | **ACMM** | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.01971.pdf)/[Code](https://github.com/1437539743/CDINet-ACM-MM21)
-:triangular_flag_on_post: 13 | **IEEE TIP** | Dynamic Selective Network for RGB-D Salient Object Detection | [Paper](Dynamic Selective Network for RGB-D Salient Object Detection)/[Code](https://github.com/Brook-Wen/DSNet)
+:triangular_flag_on_post: 13 | **IEEE TIP** | Dynamic Selective Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9605221/authors#authors)/[Code](https://github.com/Brook-Wen/DSNet)
 
 
 
