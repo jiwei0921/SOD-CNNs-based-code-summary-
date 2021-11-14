@@ -206,6 +206,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
 :triangular_flag_on_post: 12 | **ACMM** | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.01971.pdf)/[Code](https://github.com/1437539743/CDINet-ACM-MM21)
 :triangular_flag_on_post: 13 | **IEEE TIP** | Dynamic Selective Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9605221/authors#authors)/[Code](https://github.com/Brook-Wen/DSNet)
+:triangular_flag_on_post: 14 | **IJCV** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://link.springer.com/article/10.1007/s11263-021-01452-0)/Code
 
 
 
@@ -247,9 +248,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 03 | **IEEE TIP** | Three-stream Attention-aware Network for RGB-D Salient Object Detection | [Paper](http://ieeexplore.ieee.org/document/8603756/)/Code
 04 | **IEEE PR** | Multi-modal fusion network with multi-scale multi-path and cross-modal interactions for RGB-D salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320318303054)/Code
 05 | **IEEE Access** | AFNet: Adaptive Fusion for RGB-D Salient Object Detection | [Paper](http://arxiv.org/abs/1901.01369?context=cs.CV)/[Code](https://github.com/Lucia-Ningning/Adaptive_Fusion_RGBD_Saliency_Detection)
-06 | **arXiv** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://arxiv.org/pdf/1909.09309.pdf)/Code
-07 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/abstract/document/8935533)/[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)
-08 | **IEEE TMM** | RGB-T image saliency detection via collaborative graph learning | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)/Code
+06 | **IEEE TIP** | RGB-T Salient Object Detection via Fusing Multi-Level CNN Features | [Paper](https://ieeexplore.ieee.org/abstract/document/8935533)/[Code](https://github.com/nexiakele/RGB-T-Salient-Object-Detection-via-Fusing-Multi-level-CNN-Features)
+07 | **IEEE TMM** | RGB-T image saliency detection via collaborative graph learning | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8744296)/Code
 
    
 
