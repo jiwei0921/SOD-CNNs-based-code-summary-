@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add six ICCV21 papers, one ACMM21 paper                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TIP21 paper and two ACMM21 papers and two ICCV21 papers   
+ :heavy_exclamation_mark:  **2D SOD**: Add one AAAI22 paper                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one AAAI22 paper     
  :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** : Add one WACV22 paper. 
 
@@ -35,6 +35,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
     
 # 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
 
+## 2022       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Paper/[Code](https://github.com/Kinpzz/UDASOD-UPL)    
+
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -60,15 +65,18 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20 | **CVPR** | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2104.02628.pdf)/[Code](https://github.com/JingZhang617/Joint_COD_SOD)
 21 | **ACMM** | Auto-MSFNet: Search Multi-scale Fusion Network for Salient Object Detection | [Paper](https://github.com/LiuTingWed/Auto-MSFNet)/[Code](https://github.com/LiuTingWed/Auto-MSFNet) 
 22 | **IEEE TIP** | Decomposition and Completion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9479697/figures#figures)/[Code](https://github.com/wuzhe71/DCN) 
-:triangular_flag_on_post: 23 | **ICCV** | Visual Saliency Transformer | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) 
-:triangular_flag_on_post: 24 | **ICCV** | Disentangled High Quality Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.03551.pdf)/[Code](https://github.com/luckybird1994/HQSOD) 
-:triangular_flag_on_post: 25 | **ICCV** | iNAS: Integral NAS for Device-Aware Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21ICCV-iNAS.pdf)/[Code](https://mmcheng.net/inas/) 
-:triangular_flag_on_post: 26 | **ICCV** | Scene Context-Aware Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Siris_Scene_Context-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/SirisAvishek/Scene_Context_Aware_Saliency) 
-:triangular_flag_on_post: 27 | **ICCV** | MFNet: Multi-Filter Directive Network for Weakly Supervised Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Piao_MFNet_Multi-Filter_Directive_Network_for_Weakly_Supervised_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/OIPLab-DUT/MFNet) 
-:triangular_flag_on_post: 28 | **ICCV** | Salient Object Ranking with Position-Preserved Attention | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Salient_Object_Ranking_With_Position-Preserved_Attention_ICCV_2021_paper.pdf)/[Code](https://github.com/EricFH/SOR) 
-:triangular_flag_on_post: 29 | **ICCV** | Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Summarize_and_Search_Learning_Consensus-Aware_Dynamic_Convolution_for_Co-Saliency_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/nnizhang/CADC) 
-:triangular_flag_on_post: 30 | **IEEE TIP** | Salient Object Detection with Purificatory Mechanism and Structural Similarity Loss | [Paper](https://arxiv.org/pdf/1912.08393.pdf)/[Code](https://github.com/Jinming-Su/PurNet) 
-:triangular_flag_on_post: 31 | **ACMM** | Complementary Trilateral Decoder for Fast and Accurate Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475494)/[Code](https://github.com/zhaozhirui/CTDNet)
+23 | **ICCV** | Visual Saliency Transformer | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) 
+24 | **ICCV** | Disentangled High Quality Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.03551.pdf)/[Code](https://github.com/luckybird1994/HQSOD) 
+25 | **ICCV** | iNAS: Integral NAS for Device-Aware Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21ICCV-iNAS.pdf)/[Code](https://mmcheng.net/inas/) 
+26 | **ICCV** | Scene Context-Aware Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Siris_Scene_Context-Aware_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/SirisAvishek/Scene_Context_Aware_Saliency) 
+27 | **ICCV** | MFNet: Multi-Filter Directive Network for Weakly Supervised Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Piao_MFNet_Multi-Filter_Directive_Network_for_Weakly_Supervised_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/OIPLab-DUT/MFNet) 
+28 | **ICCV** | Salient Object Ranking with Position-Preserved Attention | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Salient_Object_Ranking_With_Position-Preserved_Attention_ICCV_2021_paper.pdf)/[Code](https://github.com/EricFH/SOR) 
+29 | **ICCV** | Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Summarize_and_Search_Learning_Consensus-Aware_Dynamic_Convolution_for_Co-Saliency_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/nnizhang/CADC) 
+30 | **IEEE TIP** | Salient Object Detection with Purificatory Mechanism and Structural Similarity Loss | [Paper](https://arxiv.org/pdf/1912.08393.pdf)/[Code](https://github.com/Jinming-Su/PurNet) 
+31 | **ACMM** | Complementary Trilateral Decoder for Fast and Accurate Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475494)/[Code](https://github.com/zhaozhirui/CTDNet)
+32 | **NeurIPS** | Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction | [Paper](https://proceedings.neurips.cc/paper/2021/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)/Code   
+33 | **NeurIPS** | Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2021/file/398410ece9d7343091093a2a7f8ee381-Paper.pdf)/[Code](https://github.com/bit-ml/DyReg-GNN) 
+34 | **IEEE TIP** | Progressive Self-Guided Loss for Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.02412.pdf)/[Code](https://github.com/ysyscool/PSGLoss) 
 
 
 
@@ -190,6 +198,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 # 3D RGB-D Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
+## 2022       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **AAAI** | Self-Supervised Pretraining for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD)   
+
+
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -202,11 +216,14 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 07 | **ICME** | BTS-Net: Bi-directional Transfer-and-Selection Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01784.pdf)/[Code](https://github.com/zwbx/BTS-Net)
 08 | **ACMM** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2107.01779.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 09 | **ACMM** | TriTransNet RGB-D Salient Object Detection with a Triplet Transformer Embedding Network | [Paper](https://arxiv.org/pdf/2108.03990.pdf)/[Code](https://github.com/liuzywen/TriTransNet-RGB-D-Salient-Object-Detection-with-a-Triplet-Transformer-Embedding-Network)
-:triangular_flag_on_post: 10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | [Paper](https://arxiv.org/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
-:triangular_flag_on_post: 11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
-:triangular_flag_on_post: 12 | **ACMM** | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.01971.pdf)/[Code](https://github.com/1437539743/CDINet-ACM-MM21)
-:triangular_flag_on_post: 13 | **IEEE TIP** | Dynamic Selective Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9605221/authors#authors)/[Code](https://github.com/Brook-Wen/DSNet)
-:triangular_flag_on_post: 14 | **IJCV** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://link.springer.com/article/10.1007/s11263-021-01452-0)/Code
+10 | **ICCV** | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | [Paper](https://arxiv.org/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod)
+11 | **ICCV** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/pdf/2108.08162.pdf)/[Code](https://github.com/taozh2017/SPNet)
+12 | **ACMM** | Cross-modality Discrepant Interaction Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.01971.pdf)/[Code](https://github.com/1437539743/CDINet-ACM-MM21)
+13 | **IEEE TIP** | Dynamic Selective Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9605221/authors#authors)/[Code](https://github.com/Brook-Wen/DSNet)
+14 | **IJCV** | CNN-based RGB-D Salient Object Detection: Learn, Select and Fuse | [Paper](https://link.springer.com/article/10.1007/s11263-021-01452-0)/Code
+15 | **NeurIPS** | Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection | [Paper](https://proceedings.neurips.cc/paper/2021/file/642e92efb79421734881b53e1e1b18b6-Paper.pdf)/[Code](https://github.com/jiwei0921/JSM)   
+16 | **IEEE TMM** | CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images | [Paper](https://ieeexplore.ieee.org/document/9424966)/[Code](https://github.com/zyrant/CCAFNet)   
+17 | **IEEE TETCI** | APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)   
 
 
 
