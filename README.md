@@ -334,9 +334,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 02 | **ArXiv** | Video Salient Object Detection via Adaptive Local-Global Refinement | [Paper](https://arxiv.org/pdf/2104.14360.pdf)/Code    
 03 | **ICIP** | Guidance and Teaching Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.10110.pdf)/[Code](https://github.com/GewelsJI/GTNet)    
 04 | **ACMM** | Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation | [Paper](https://arxiv.org/pdf/2108.05076.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Multi-Source-APS-ZVOS)   
-:triangular_flag_on_post: 05 | **ICCV** | Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Dynamic_Context-Sensitive_Filtering_Network_for_Video_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/Roudgers/DCFNet)   
-:triangular_flag_on_post: 06 | **ICCV** | Full-Duplex Strategy for Video Object Segmentation | [Paper](https://arxiv.org/pdf/2108.03151.pdf)/[Code](https://github.com/GewelsJI/FSNet) 
-:triangular_flag_on_post: 07 | **ICCV** | Deep Transport Network for Unsupervised Video Object Segmentation | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Deep_Transport_Network_for_Unsupervised_Video_Object_Segmentation_ICCV_2021_paper.pdf)/Code
+05 | **ICCV** | Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Dynamic_Context-Sensitive_Filtering_Network_for_Video_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/Roudgers/DCFNet)   
+06 | **ICCV** | Full-Duplex Strategy for Video Object Segmentation | [Paper](https://arxiv.org/pdf/2108.03151.pdf)/[Code](https://github.com/GewelsJI/FSNet) 
+07 | **ICCV** | Deep Transport Network for Unsupervised Video Object Segmentation | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Deep_Transport_Network_for_Unsupervised_Video_Object_Segmentation_ICCV_2021_paper.pdf)/Code
+08 | **IEEE TIP** | Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9390381)/[Code](https://github.com/guotaowang/STVS)
 
 
 ## 2020  
@@ -360,6 +361,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 05 | **CVPR** | Shifting More Attention to Video Salient Objection Detection | [Paper](https://github.com/DengPingFan/DAVSOD/blob/master/%5B2019%5D%5BCVPR%5D%5BOral%5D【SSAV】【DAVSOD】Shifting%20More%20Attention%20to%20Video%20Salient%20Object%20Detection.pdf)/[Code](https://github.com/DengPingFan/DAVSOD)   
 06 | **CVPR** | Learning Unsupervised Video Object Segmentation through Visual Attention | [Paper](https://www.researchgate.net/publication/332751903_Learning_Unsupervised_Video_Object_Segmentation_Through_Visual_Attention)/[Code](https://github.com/wenguanwang/AGS)   
 07 | **CVPR** | See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_See_More_Know_More_Unsupervised_Video_Object_Segmentation_With_Co-Attention_CVPR_2019_paper.pdf)/[Code](https://github.com/carrierlxk/COSNet)  
+08 | **IEEE TIP** | Improving Robust Video Saliency Detection based on Long-term Spatial-Temporal Information | [Paper](https://ieeexplore.ieee.org/document/8811767)/[Code](https://github.com/guotaowang/TIP_LSTI)  
 
 
 
