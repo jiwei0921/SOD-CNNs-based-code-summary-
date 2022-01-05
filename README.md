@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add one AAAI22 paper                 
- :heavy_exclamation_mark:  **3D SOD**: Add one AAAI22 paper and one IEEE TPAMI paper    
+ :heavy_exclamation_mark:  **3D SOD**: Add one AAAI22 paper and two IEEE TPAMI paper and IEEE TIP paper    
  :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** : Add one WACV22 paper. 
 
@@ -203,6 +203,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **AAAI** | Self-Supervised Pretraining for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD)   
 :triangular_flag_on_post: 02 | **IEEE TPAMI** | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI_MobileSal.pdf)/[Code](https://mmcheng.net/mobilesal/)   
+:triangular_flag_on_post: 03 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 
 
 ## 2021       
