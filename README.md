@@ -38,7 +38,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Paper/[Code](https://github.com/Kinpzz/UDASOD-UPL)    
+:triangular_flag_on_post: 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Paper/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
+:triangular_flag_on_post: 02 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
 
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
