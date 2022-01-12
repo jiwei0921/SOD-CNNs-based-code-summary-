@@ -6,7 +6,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  :heavy_exclamation_mark:  **2D SOD**: Add four AAAI22 papers, two IEEE TPAMI papers                 
  :heavy_exclamation_mark:  **3D SOD**: Add one AAAI22 paper and two IEEE TPAMI paper and IEEE TIP paper    
  :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
- :heavy_exclamation_mark:  **Video SOD** : Add one WACV22 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
@@ -333,7 +333,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2022  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **WACV** | Video Salient Object Detection via Contrastive Features and Attention Modules | [Paper](https://arxiv.org/pdf/2111.02368.pdf)/Code  
+:triangular_flag_on_post: 01 | **AAAI** | You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation | Paper/Code   
+:triangular_flag_on_post: 02 | **AAAI** | Siamese Network with Interactive Transformer for Video Object Segmentation | Paper/Code   
+:triangular_flag_on_post: 03 | **AAAI** | Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier | Paper/Code   
+:triangular_flag_on_post: 04 | **AAAI** | Reliable Propagation-Correction Modulation for Video Object Segmentation | Paper/Code   
+:triangular_flag_on_post: 05 | **WACV** | Video Salient Object Detection via Contrastive Features and Attention Modules | [Paper](https://arxiv.org/pdf/2111.02368.pdf)/Code  
+
 
 ## 2021  
 **No.** | **Pub.** | **Title** | **Links** 
