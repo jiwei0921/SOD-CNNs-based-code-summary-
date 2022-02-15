@@ -47,6 +47,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 07 | **IEEE TPAMI** | PoolNet+: Exploring the Potential of Pooling for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-PoolNet.pdf)/[Code](http://mmcheng.net/poolnet/)  
 :triangular_flag_on_post: 08 | **IEEE TPAMI** | A Highly Efficient Model to Study the Semantics of Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-Sal100K.pdf)/[Code](https://mmcheng.net/sod100k/)  
 :triangular_flag_on_post: 09 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://arxiv.org/abs/2201.08049)/[Code](https://github.com/MathLee/CorrNet)  
+:triangular_flag_on_post: 10 | **TOMM** | Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling | [Paper](https://arxiv.org/pdf/2202.04112.pdf)/Code   
 
 
 ## 2021       
@@ -343,6 +344,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 03 | **AAAI** | Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier | Paper/Code   
 :triangular_flag_on_post: 04 | **AAAI** | Reliable Propagation-Correction Modulation for Video Object Segmentation | Paper/Code   
 :triangular_flag_on_post: 05 | **WACV** | Video Salient Object Detection via Contrastive Features and Attention Modules | [Paper](https://arxiv.org/pdf/2111.02368.pdf)/Code  
+:triangular_flag_on_post: 06 | **ArXiv** | Depth-Cooperated Trimodal Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2202.06060.pdf)/Code  
 
 
 ## 2021  
