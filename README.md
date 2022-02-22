@@ -38,10 +38,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Paper/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
-:triangular_flag_on_post: 02 | **AAAI** | A Causal Debiasing Framework for Unsupervised Salient Object Detection | Paper/Code  
-:triangular_flag_on_post: 03 | **AAAI** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://arxiv.org/pdf/2106.13389.pdf)/[Code](https://github.com/JingZhang617/SalCoopNets)  
-:triangular_flag_on_post: 04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | Paper/Code  
+:triangular_flag_on_post: 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-604.YanP.pdf)/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
+:triangular_flag_on_post: 02 | **AAAI** | A Causal Debiasing Framework for Unsupervised Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-108.LinX.pdf)/[Code]()  
+:triangular_flag_on_post: 03 | **AAAI** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1516.ZhangJ.pdf)/[Code](https://github.com/JingZhang617/SalCoopNets)  
+:triangular_flag_on_post: 04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-461.GaoS.pdf)/Code  
 :triangular_flag_on_post: 05 | **AAAI** | TRACER: Extreme Attention Guided Salient Object Tracing Network | [Paper](https://arxiv.org/pdf/2112.07380.pdf)/[Code](https://github.com/Karel911/TRACER)  
 :triangular_flag_on_post: 06 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
 :triangular_flag_on_post: 07 | **IEEE TPAMI** | PoolNet+: Exploring the Potential of Pooling for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-PoolNet.pdf)/[Code](http://mmcheng.net/poolnet/)  
@@ -214,7 +214,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **CVMJ** | Specificity-preserving RGB-D Saliency Detection | [Paper](https://arxiv.org/abs/2108.08162)/[Code](https://github.com/taozh2017/SPNet?utm_source=catalyzex.com)   
-:triangular_flag_on_post: 02 | **AAAI** | Self-Supervised Pretraining for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD)   
+:triangular_flag_on_post: 02 | **AAAI** | Self-Supervised Pretraining for RGB-D Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-4882.ZhaoX.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD)   
 :triangular_flag_on_post: 03 | **IEEE TPAMI** | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI_MobileSal.pdf)/[Code](https://mmcheng.net/mobilesal/)   
 :triangular_flag_on_post: 04 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 :triangular_flag_on_post: 05 | **IEEE TIP** | Learning Discriminative Cross-modality Features for RGB-D Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/Code  
