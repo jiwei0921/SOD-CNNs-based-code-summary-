@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five AAAI22 papers, two IEEE TPAMI papers, one IEEE TGRS paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and two IEEE TIP papers    
+ :heavy_exclamation_mark:  **2D SOD**: Add five AAAI22 papers, one CVPR paper.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers    
  :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
 
@@ -43,12 +43,14 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 03 | **AAAI** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1516.ZhangJ.pdf)/[Code](https://github.com/JingZhang617/SalCoopNets)  
 :triangular_flag_on_post: 04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-461.GaoS.pdf)/Code  
 :triangular_flag_on_post: 05 | **AAAI** | TRACER: Extreme Attention Guided Salient Object Tracing Network | [Paper](https://arxiv.org/pdf/2112.07380.pdf)/[Code](https://github.com/Karel911/TRACER)  
-:triangular_flag_on_post: 06 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
-:triangular_flag_on_post: 07 | **IEEE TPAMI** | PoolNet+: Exploring the Potential of Pooling for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-PoolNet.pdf)/[Code](http://mmcheng.net/poolnet/)  
-:triangular_flag_on_post: 08 | **IEEE TPAMI** | A Highly Efficient Model to Study the Semantics of Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-Sal100K.pdf)/[Code](https://mmcheng.net/sod100k/)  
-:triangular_flag_on_post: 09 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://arxiv.org/abs/2201.08049)/[Code](https://github.com/MathLee/CorrNet)  
-:triangular_flag_on_post: 10 | **TOMM** | Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling | [Paper](https://arxiv.org/pdf/2202.04112.pdf)/Code   
-:triangular_flag_on_post: 11 | **TMM** | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS)   
+06 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
+07 | **IEEE TPAMI** | PoolNet+: Exploring the Potential of Pooling for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-PoolNet.pdf)/[Code](http://mmcheng.net/poolnet/)  
+08 | **IEEE TPAMI** | A Highly Efficient Model to Study the Semantics of Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI-Sal100K.pdf)/[Code](https://mmcheng.net/sod100k/)  
+09 | **IEEE TGRS** | Lightweight Salient Object Detection in Optical Remote Sensing Images via Feature Correlation | [Paper](https://arxiv.org/abs/2201.08049)/[Code](https://github.com/MathLee/CorrNet)  
+10 | **TOMM** | Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling | [Paper](https://arxiv.org/pdf/2202.04112.pdf)/Code   
+11 | **TMM** | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS)   
+:triangular_flag_on_post: 12 | **CVPR** | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | [Paper](https://github.com/lartpang/ZoomNet)/[Code](https://github.com/lartpang/ZoomNet)  
+
 
 
 ## 2021       
@@ -218,6 +220,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 03 | **IEEE TPAMI** | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI_MobileSal.pdf)/[Code](https://mmcheng.net/mobilesal/)   
 :triangular_flag_on_post: 04 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 :triangular_flag_on_post: 05 | **IEEE TIP** | Learning Discriminative Cross-modality Features for RGB-D Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/Code  
+:triangular_flag_on_post: 06 | **IEEE TIP** | Weakly Supervised RGB-D Salient Object Detection with Prediction Consistency Training and Active Scribble Boosting | [Paper](https://ieeexplore.ieee.org/document/9720104)/Code  
 
 
 ## 2021       
