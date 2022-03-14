@@ -51,7 +51,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 11 | **TMM** | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS)   
 :triangular_flag_on_post: 12 | **CVPR** | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2203.02688.pdf)/[Code](https://github.com/lartpang/ZoomNet)  
 :triangular_flag_on_post: 13 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena) 
-:triangular_flag_on_post: 14 | **CVPR** | Democracy Does Matter: Comprehensive Feature Mining for Co-salient Object Detection | Paper/[Code](https://github.com/siyueyu/DCFM) 
+:triangular_flag_on_post: 14 | **CVPR** | Democracy Does Matter: Comprehensive Feature Mining for Co-salient Object Detection | [Paper](https://arxiv.org/pdf/2203.05787.pdf)/[Code](https://github.com/siyueyu/DCFM) 
 
 
 ## 2021       
