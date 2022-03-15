@@ -224,6 +224,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 :triangular_flag_on_post: 05 | **IEEE TIP** | Learning Discriminative Cross-modality Features for RGB-D Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/Code  
 :triangular_flag_on_post: 06 | **IEEE TIP** | Weakly Supervised RGB-D Salient Object Detection with Prediction Consistency Training and Active Scribble Boosting | [Paper](https://ieeexplore.ieee.org/document/9720104)/Code  
+:triangular_flag_on_post: 07 | **ArXiv** | DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection | [Paper]https://arxiv.org/pdf/2203.06429.pdf)/Code  
 
 
 ## 2021       
