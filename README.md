@@ -352,7 +352,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2022  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf)/Code   
+:triangular_flag_on_post: 01 | **AAAI** | You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf)/[Code](https://github.com/Sparklins/YOFO)   
 :triangular_flag_on_post: 02 | **AAAI** | Siamese Network with Interactive Transformer for Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-702.LanM.pdf)/[Code](https://github.com/LANMNG/SITVOS)   
 :triangular_flag_on_post: 03 | **AAAI** | Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-11964.LeeY.pdf)/Code   
 :triangular_flag_on_post: 04 | **AAAI** | Reliable Propagation-Correction Modulation for Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-4288.XuX.pdf)/Code   
