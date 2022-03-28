@@ -41,7 +41,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 01 | **AAAI** | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-604.YanP.pdf)/[Code](https://github.com/Kinpzz/UDASOD-UPL)  
 02 | **AAAI** | A Causal Debiasing Framework for Unsupervised Salient Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-108.LinX.pdf)/[Code]()  
 03 | **AAAI** | Energy-Based Generative Cooperative Saliency Prediction | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-1516.ZhangJ.pdf)/[Code](https://github.com/JingZhang617/SalCoopNets)  
-04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-461.GaoS.pdf)/Code  
+04 | **AAAI** | Weakly-Supervised Salient Object Detection Using Point Supervison | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-461.GaoS.pdf)/[Code](https://github.com/shuyonggao/PSOD)    
 05 | **AAAI** | TRACER: Extreme Attention Guided Salient Object Tracing Network | [Paper](https://arxiv.org/pdf/2112.07380.pdf)/[Code](https://github.com/Karel911/TRACER)  
 06 | **AAAI** | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net)  
 07 | **WACV** | Recursive Contour-Saliency Blending Network for Accurate Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Ke_Recursive_Contour-Saliency_Blending_Network_for_Accurate_Salient_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/BarCodeReader/RCSB-PyTorch)  
