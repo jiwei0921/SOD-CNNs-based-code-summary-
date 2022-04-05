@@ -56,6 +56,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 16 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena) 
 :triangular_flag_on_post: 17 | **CVPR** | Democracy Does Matter: Comprehensive Feature Mining for Co-salient Object Detection | [Paper](https://arxiv.org/pdf/2203.05787.pdf)/[Code](https://github.com/siyueyu/DCFM) 
 :triangular_flag_on_post: 18 | **IEEE TCyb** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2203.13664.pdf)/[Code](https://github.com/MathLee/ACCoNet) 
+:triangular_flag_on_post: 19 | **IEEE TCyb** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/Kunye-Shen/ERPNet) 
 
 
 ## 2021       
