@@ -362,6 +362,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **AAAI** | Reliable Propagation-Correction Modulation for Video Object Segmentation | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-4288.XuX.pdf)/[Code](https://github.com/JerryX1110/RPCMVOS)     
 :triangular_flag_on_post: 05 | **WACV** | Video Salient Object Detection via Contrastive Features and Attention Modules | [Paper](https://arxiv.org/pdf/2111.02368.pdf)/Code  
 :triangular_flag_on_post: 06 | **ArXiv** | Depth-Cooperated Trimodal Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2202.06060.pdf)/Code  
+:triangular_flag_on_post: 07 | **ArXiv** | Learning Video Salient Object Detection Progressively from Unlabeled Videos | [Paper](https://arxiv.org/abs/2204.02008)/Code  
+:triangular_flag_on_post: 08 | **ArXiv** | Rethinking Video Salient Object Ranking | [Paper](https://arxiv.org/abs/2203.17257)/Code  
 
 
 ## 2021  
