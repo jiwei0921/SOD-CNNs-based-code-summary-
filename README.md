@@ -59,6 +59,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 19 | **IEEE TCyb** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/Kunye-Shen/ERPNet) 
 :triangular_flag_on_post: 20 | **IEEE TCSVT** | Progressive Dual-attention Residual Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9745960)/Code 
 :triangular_flag_on_post: 21 | **CVPR** | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | [Paper](https://arxiv.org/pdf/2204.05041.pdf)/[Code](https://github.com/iCVTEAM/PGNet) 
+:triangular_flag_on_post: 22 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 
 
 ## 2021       
@@ -234,6 +235,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 09 | **ArXiv** | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.10785.pdf)/Code  
 :triangular_flag_on_post: 10 | **ArXiv** | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2112.02363.pdf)/Code  
 :triangular_flag_on_post: 11 | **PR** | Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001479)/Code  
+:triangular_flag_on_post: 12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 
 
 
@@ -257,6 +259,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 15 | **NeurIPS** | Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection | [Paper](https://proceedings.neurips.cc/paper/2021/file/642e92efb79421734881b53e1e1b18b6-Paper.pdf)/[Code](https://github.com/jiwei0921/JSM)   
 16 | **IEEE TMM** | CCAFNet: Crossflow and Cross-scale Adaptive Fusion Network for Detecting Salient Objects in RGB-D Images | [Paper](https://ieeexplore.ieee.org/document/9424966)/[Code](https://github.com/zyrant/CCAFNet)   
 17 | **IEEE TETCI** | APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9583676)/[Code](https://github.com/zyrant/APNet)   
+
 
 
 
