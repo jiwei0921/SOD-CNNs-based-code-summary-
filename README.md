@@ -60,7 +60,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 20 | **IEEE TCSVT** | Progressive Dual-attention Residual Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9745960)/Code 
 :triangular_flag_on_post: 21 | **CVPR** | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | [Paper](https://arxiv.org/pdf/2204.05041.pdf)/[Code](https://github.com/iCVTEAM/PGNet) 
 :triangular_flag_on_post: 22 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
-:triangular_flag_on_post: 23 | **IEEE TCyb** | Global-and-Local Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2204.08917.pdf)/[Code](https://rmcong.github.io/proj GLNet.html) 
+:triangular_flag_on_post: 23 | **IEEE TCyb** | Global-and-Local Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2204.08917.pdf)/[Code](https://rmcong.github.io/proj_GLNet.html) 
 :triangular_flag_on_post: 24 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
 
 
