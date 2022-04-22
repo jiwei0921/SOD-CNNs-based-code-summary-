@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five AAAI22 papers, two ArXiv papers and four CVPR papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add three ArXiv papers and four CVPR papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers    
  :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
@@ -60,6 +60,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 20 | **IEEE TCSVT** | Progressive Dual-attention Residual Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9745960)/Code 
 :triangular_flag_on_post: 21 | **CVPR** | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | [Paper](https://arxiv.org/pdf/2204.05041.pdf)/[Code](https://github.com/iCVTEAM/PGNet) 
 :triangular_flag_on_post: 22 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
+:triangular_flag_on_post: 23 | **IEEE TCyb** | Global-and-Local Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2204.08917.pdf)/[Code](https://rmcong.github.io/proj GLNet.html) 
+:triangular_flag_on_post: 24 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
 
 
 ## 2021       
@@ -96,7 +98,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 29 | **ICCV** | Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Summarize_and_Search_Learning_Consensus-Aware_Dynamic_Convolution_for_Co-Saliency_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/nnizhang/CADC) 
 30 | **IEEE TIP** | Salient Object Detection with Purificatory Mechanism and Structural Similarity Loss | [Paper](https://arxiv.org/pdf/1912.08393.pdf)/[Code](https://github.com/Jinming-Su/PurNet) 
 31 | **ACMM** | Complementary Trilateral Decoder for Fast and Accurate Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475494)/[Code](https://github.com/zhaozhirui/CTDNet)
-32 | **NeurIPS** | Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction | [Paper](https://proceedings.neurips.cc/paper/2021/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)/Code   
+32 | **NeurIPS** | Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction | [Paper](https://proceedings.neurips.cc/paper/2021/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD)   
 33 | **NeurIPS** | Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2021/file/398410ece9d7343091093a2a7f8ee381-Paper.pdf)/[Code](https://github.com/bit-ml/DyReg-GNN) 
 34 | **IEEE TIP** | Progressive Self-Guided Loss for Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.02412.pdf)/[Code](https://github.com/ysyscool/PSGLoss) 
 35 | **IEEE TMM** | Dense Attention-guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects | [Paper](https://ieeexplore.ieee.org/document/9632537)/[Code](https://github.com/zxforchid/DACNet) 
