@@ -4,8 +4,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add three ArXiv papers and four CVPR papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers    
- :heavy_exclamation_mark:  **LF SOD**: Add three ICCV21, IEEE TCyB21 and ACMM21 papers   
+ :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers.    
+ :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
 
 :running: **We will keep updating it.** :running:    
@@ -351,9 +351,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 09 | **ArXiv** | DUT-LFSaliency: Versatile Dataset and Light Field-to-RGB Saliency Detection | [Paper](https://arxiv.org/pdf/2012.15124.pdf)/[Code](https://github.com/OIPLab-DUT/DUTLF-V2)   
 10 | **ArXiv** | Learning Synergistic Attention for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.13916.pdf)/Code
 11 | **ArXiv** | CMA-Net: A Cascaded Mutual Attention Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2105.00949.pdf)/Code
-:triangular_flag_on_post: 12 | **IEEE TCyB** | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9517032)/[Code](https://github.com/jyydlut/IEEE-TCYB-PANet)
-:triangular_flag_on_post: 13 | **ACMM21** | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475312?casa_token=wbPMsKJlIUgAAAAA:YVsFNQb65PB4D6FGlMwtYtYi5nR4YCE1tJw_7frdEMm_exQIDw5dFzjIW0AjmwqlO1XEOEbz-g)/[Code](https://github.com/Timsty1/OBGNet)
-:triangular_flag_on_post: 14 | **ICCV21** | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Code](https://github.com/wangbo-zhao/2021ICCV-DLGLRG)
+12 | **IEEE TCyB** | PANet: Patch-Aware Network for Light Field Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9517032)/[Code](https://github.com/jyydlut/IEEE-TCYB-PANet)
+13 | **ACMM21** | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475312?casa_token=wbPMsKJlIUgAAAAA:YVsFNQb65PB4D6FGlMwtYtYi5nR4YCE1tJw_7frdEMm_exQIDw5dFzjIW0AjmwqlO1XEOEbz-g)/[Code](https://github.com/Timsty1/OBGNet)
+14 | **ICCV21** | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Code](https://github.com/wangbo-zhao/2021ICCV-DLGLRG)
+:triangular_flag_on_post: 15| **CVPR22** | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://arxiv.org/pdf/2204.13456.pdf)/[Code](https://github.com/OLobbCode/NoiseLF)
 
 
       
