@@ -238,6 +238,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 10 | **ArXiv** | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2112.02363.pdf)/Code  
 :triangular_flag_on_post: 11 | **PR** | Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001479)/Code  
 :triangular_flag_on_post: 12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
+:triangular_flag_on_post: 13 | **TMM** | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach | Paper/[Code](https://github.com/ssecv/DIGR-Net) 
 
 
 
