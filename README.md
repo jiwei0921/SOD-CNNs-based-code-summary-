@@ -358,7 +358,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 13 | **ACMM21** | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475312?casa_token=wbPMsKJlIUgAAAAA:YVsFNQb65PB4D6FGlMwtYtYi5nR4YCE1tJw_7frdEMm_exQIDw5dFzjIW0AjmwqlO1XEOEbz-g)/[Code](https://github.com/Timsty1/OBGNet)
 14 | **ICCV21** | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Code](https://github.com/wangbo-zhao/2021ICCV-DLGLRG)
 :triangular_flag_on_post: 15| **CVPR22** | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://arxiv.org/pdf/2204.13456.pdf)/[Code](https://github.com/OLobbCode/NoiseLF)  
-:triangular_flag_on_post: 16| **NC** | MEANet: Multi-modal edge-aware network for light field salient object detection | [Paper]([https://arxiv.org/pdf/2204.13456.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502))/[Code](https://github.com/jiangyao-scu/MEANet)
+:triangular_flag_on_post: 16| **NC** | MEANet: Multi-modal edge-aware network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Code](https://github.com/jiangyao-scu/MEANet)
 
 
       
