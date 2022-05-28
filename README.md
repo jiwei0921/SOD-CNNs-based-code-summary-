@@ -64,6 +64,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 24 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
 :triangular_flag_on_post: 25 | **IEEE TIP** | EDN: Salient Object Detection via Extremely-Downsampled Network | [Paper](https://arxiv.org/pdf/2012.13093.pdf)/[Code](https://github.com/yuhuan-wu/EDN) 
 :triangular_flag_on_post: 26 | **IEEE TPAMI** | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/pdf/2101.07663.pdf)/[Code](https://github.com/mczhuge/ICON) 
+:triangular_flag_on_post: 27 | **ArXiv** | SelfReformer: Self-Refined Network with Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2205.11283.pdf)/Code  
 
 
 ## 2021       
