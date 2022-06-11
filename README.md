@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add six IEEE Trans papers and five CVPR papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
@@ -52,20 +52,27 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 12 | **TMM** | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS) 
 13 | **ArXiv** | Joint Learning of Salient Object Detection, Depth Estimation and Contour Extraction | [Paper](https://arxiv.org/pdf/2203.04895.pdf)/Code 
 14 | **ArXiv** | A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.04708.pdf)/[Code](https://github.com/suyukun666/UFO) 
-:triangular_flag_on_post: 15 | **CVPR** | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2203.02688.pdf)/[Code](https://github.com/lartpang/ZoomNet)  
-:triangular_flag_on_post: 16 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena) 
-:triangular_flag_on_post: 17 | **CVPR** | Democracy Does Matter: Comprehensive Feature Mining for Co-salient Object Detection | [Paper](https://arxiv.org/pdf/2203.05787.pdf)/[Code](https://github.com/siyueyu/DCFM) 
-:triangular_flag_on_post: 18 | **IEEE TCyb** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2203.13664.pdf)/[Code](https://github.com/MathLee/ACCoNet) 
-:triangular_flag_on_post: 19 | **IEEE TCyb** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/Kunye-Shen/ERPNet) 
-:triangular_flag_on_post: 20 | **IEEE TCSVT** | Progressive Dual-attention Residual Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9745960)/Code 
-:triangular_flag_on_post: 21 | **CVPR** | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | [Paper](https://arxiv.org/pdf/2204.05041.pdf)/[Code](https://github.com/iCVTEAM/PGNet) 
-:triangular_flag_on_post: 22 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
-:triangular_flag_on_post: 23 | **IEEE TCyb** | Global-and-Local Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2204.08917.pdf)/[Code](https://rmcong.github.io/proj_GLNet.html) 
-:triangular_flag_on_post: 24 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
-:triangular_flag_on_post: 25 | **IEEE TIP** | EDN: Salient Object Detection via Extremely-Downsampled Network | [Paper](https://arxiv.org/pdf/2012.13093.pdf)/[Code](https://github.com/yuhuan-wu/EDN) 
-:triangular_flag_on_post: 26 | **IEEE TPAMI** | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/pdf/2101.07663.pdf)/[Code](https://github.com/mczhuge/ICON) 
-:triangular_flag_on_post: 27 | **ArXiv** | SelfReformer: Self-Refined Network with Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2205.11283.pdf)/Code  
-:triangular_flag_on_post: 28 | **ArXiv** | Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/abs/2112.03650)/[Code](https://github.com/moothes/A2S-USOD)  
+15 | **IEEE TCyb** | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2203.13664.pdf)/[Code](https://github.com/MathLee/ACCoNet) 
+16 | **IEEE TCyb** | Edge-guided Recurrent Positioning Network for Salient Object Detection in Optical Remote Sensing Images | Paper/[Code](https://github.com/Kunye-Shen/ERPNet) 
+17 | **IEEE TCSVT** | Progressive Dual-attention Residual Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9745960)/Code 
+18 | **IEEE TCyb** | Global-and-Local Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2204.08917.pdf)/[Code](https://rmcong.github.io/proj_GLNet.html) 
+19 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
+20 | **IEEE TIP** | EDN: Salient Object Detection via Extremely-Downsampled Network | [Paper](https://arxiv.org/pdf/2012.13093.pdf)/[Code](https://github.com/yuhuan-wu/EDN) 
+21 | **IEEE TPAMI** | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/pdf/2101.07663.pdf)/[Code](https://github.com/mczhuge/ICON) 
+22 | **ArXiv** | SelfReformer: Self-Refined Network with Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2205.11283.pdf)/Code  
+23 | **ArXiv** | Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/abs/2112.03650)/[Code](https://github.com/moothes/A2S-USOD)  
+:triangular_flag_on_post: 24 | **CVPR** | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2203.02688.pdf)/[Code](https://github.com/lartpang/ZoomNet)  
+:triangular_flag_on_post: 25 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena) 
+:triangular_flag_on_post: 26 | **CVPR** | Democracy Does Matter: Comprehensive Feature Mining for Co-salient Object Detection | [Paper](https://arxiv.org/pdf/2203.05787.pdf)/[Code](https://github.com/siyueyu/DCFM) 
+:triangular_flag_on_post: 27 | **CVPR** | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | [Paper](https://arxiv.org/pdf/2204.05041.pdf)/[Code](https://github.com/iCVTEAM/PGNet) 
+:triangular_flag_on_post: 28 | **CVPR** | Deep Saliency Prior for Reducing Visual Distraction | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Aberman_Deep_Saliency_Prior_for_Reducing_Visual_Distraction_CVPR_2022_paper.pdf)/[Code](https://deep-saliency-prior.github.io/) 
+:triangular_flag_on_post: 29 | **CVPR** | Multi-Source Uncertainty Mining for Deep Unsupervised Saliency Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Multi-Source_Uncertainty_Mining_for_Deep_Unsupervised_Saliency_Detection_CVPR_2022_paper.pdf)/Code   
+:triangular_flag_on_post: 30 | **CVPR** | Bi-Directional Object-Context Prioritization Learning for Saliency Ranking | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tian_Bi-Directional_Object-Context_Prioritization_Learning_for_Saliency_Ranking_CVPR_2022_paper.pdf)/[Code](https://github.com/GrassBro/OCOR) 
+:triangular_flag_on_post: 31 | **CVPR** | Does text attract attention on e-commerce images: A novel saliency prediction
+dataset and method | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Does_Text_Attract_Attention_on_E-Commerce_Images_A_Novel_Saliency_CVPR_2022_paper.pdf)/[Code](https://github.com/leafy-lee/E-commercial-dataset)  
+:triangular_flag_on_post: 32 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
+:triangular_flag_on_post: 33 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Shin_Unsupervised_Salient_Object_Detection_With_Spectral_Cluster_Voting_CVPRW_2022_paper.pdf)/[Code](https://github.com/NoelShin/selfmask) 
+
 
 
 ## 2021       
