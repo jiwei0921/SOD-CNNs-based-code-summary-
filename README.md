@@ -112,6 +112,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 33 | **NeurIPS** | Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2021/file/398410ece9d7343091093a2a7f8ee381-Paper.pdf)/[Code](https://github.com/bit-ml/DyReg-GNN) 
 34 | **IEEE TIP** | Progressive Self-Guided Loss for Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.02412.pdf)/[Code](https://github.com/ysyscool/PSGLoss) 
 35 | **IEEE TMM** | Dense Attention-guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects | [Paper](https://ieeexplore.ieee.org/document/9632537)/[Code](https://github.com/zxforchid/DACNet) 
+36 | **IEEE TIP** | Rethinking the U-Shape Structure for Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21TIP-CII.pdf)/[Code](https://github.com/zal0302/CII) 
 
 
 
@@ -250,6 +251,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 :triangular_flag_on_post: 13 | **TMM** | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach | [Paper](https://ieeexplore.ieee.org/document/9769984)/[Code](https://github.com/ssecv/DIGR-Net) 
 :triangular_flag_on_post: 14 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
+:triangular_flag_on_post: 15 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | Paper/[Code](https://github.com/gbliao/CCFENet)  
 
 
 
