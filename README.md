@@ -251,7 +251,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 :triangular_flag_on_post: 13 | **TMM** | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach | [Paper](https://ieeexplore.ieee.org/document/9769984)/[Code](https://github.com/ssecv/DIGR-Net) 
 :triangular_flag_on_post: 14 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
-:triangular_flag_on_post: 15 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | Paper/[Code](https://github.com/gbliao/CCFENet)  
+:triangular_flag_on_post: 15 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
 
 
 
