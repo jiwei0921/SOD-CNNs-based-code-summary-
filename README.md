@@ -7,6 +7,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  :heavy_exclamation_mark:  **3D SOD**: Add one CVMJ paper, one AAAI22 paper and two IEEE TPAMI paper and three IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
+ 
+ [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-connected task of SOD, with paper summary of [this link](https://github.com/visionxiang/awesome-camouflaged-object-detection).
 
 :running: **We will keep updating it.** :running:    
 --------------------------------------------------------------------------------------
