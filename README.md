@@ -4,9 +4,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, one ECCV paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one ACMM22 paper, one AAAI22 paper and two IEEE TPAMI paper and four IEEE TIP papers.    
+ :heavy_exclamation_mark:  **3D SOD**: Add one ACMM22 paper, one ECCV22 paper and two IEEE TPAMI paper and four IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
- :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one WACV22 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-connected task of SOD, with paper summary of [this link](https://github.com/visionxiang/awesome-camouflaged-object-detection).
 
@@ -256,6 +256,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 15 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
 :triangular_flag_on_post: 16 | **IEEE TIP** | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)  
 :triangular_flag_on_post: 17 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | Paper/[Code](https://github.com/youngtboy/DLM)  
+:triangular_flag_on_post: 18 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
 
 
 
@@ -390,6 +391,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 06 | **ArXiv** | Depth-Cooperated Trimodal Network for Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2202.06060.pdf)/Code  
 :triangular_flag_on_post: 07 | **ArXiv** | Learning Video Salient Object Detection Progressively from Unlabeled Videos | [Paper](https://arxiv.org/abs/2204.02008)/Code  
 :triangular_flag_on_post: 08 | **ArXiv** | Rethinking Video Salient Object Ranking | [Paper](https://arxiv.org/abs/2203.17257)/Code  
+:triangular_flag_on_post: 09 | **ACMM** | Weakly Supervised Video Salient Object Detection via Point Supervision | [Paper](https://arxiv.org/pdf/2207.07269.pdf)/Code  
 
 
 ## 2021  
