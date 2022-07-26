@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, one ECCV paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ACMM22 paper, one ECCV22 paper and two IEEE TPAMI paper and four IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper. 
@@ -74,6 +74,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 32 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 :triangular_flag_on_post: 33 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Shin_Unsupervised_Salient_Object_Detection_With_Spectral_Cluster_Voting_CVPRW_2022_paper.pdf)/[Code](https://github.com/NoelShin/selfmask) 
 :triangular_flag_on_post: 34 | **ECCV** | KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation | Paper/[Code](https://github.com/zhangjinCV/KD-SCFNet) 
+:triangular_flag_on_post: 35 | **ECCV** | Salient Object Detection for Point Clouds | [Paper](https://arxiv.org/pdf/2207.11889.pdf)/[Code](https://git.openi.org.cn/OpenPointCloud/PCSOD) 
 
 
 ## 2021       
