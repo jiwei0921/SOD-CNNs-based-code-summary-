@@ -6,7 +6,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ACMM22 paper, one ECCV22 paper, one 3DV22 paper and two IEEE TPAMI paper and four IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
- :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, one ECCV22 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/visionxiang/awesome-camouflaged-object-detection).
 
@@ -399,6 +399,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 08 | **ArXiv** | Rethinking Video Salient Object Ranking | [Paper](https://arxiv.org/abs/2203.17257)/Code  
 :triangular_flag_on_post: 09 | **ACMM** | Weakly Supervised Video Salient Object Detection via Point Supervision | [Paper](https://arxiv.org/pdf/2207.07269.pdf)/Code  
 :triangular_flag_on_post: 10 | **ECCV** | Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation | [Paper](https://arxiv.org/abs/2207.08485)/[Code](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)  
+:triangular_flag_on_post: 11 | **ECCV** | XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model | [Paper](https://arxiv.org/pdf/2207.07115.pdf)/[Code](https://hkchengrex.github.io/XMem/)  
 
 
 ## 2021  
