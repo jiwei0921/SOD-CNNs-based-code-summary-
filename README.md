@@ -3,10 +3,10 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one IEEE TCyb paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ACMM22 paper, one ECCV22 paper, one 3DV22 paper and two IEEE TPAMI paper and four IEEE TIP papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
- :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, one ECCV22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/visionxiang/awesome-camouflaged-object-detection).
 
@@ -76,7 +76,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 34 | **ECCV** | KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation | [Paper](https://arxiv.org/pdf/2208.02178.pdf)/[Code](https://github.com/zhangjinCV/KD-SCFNet) 
 :triangular_flag_on_post: 35 | **ECCV** | Salient Object Detection for Point Clouds | [Paper](https://arxiv.org/pdf/2207.11889.pdf)/[Code](https://git.openi.org.cn/OpenPointCloud/PCSOD) 
 :triangular_flag_on_post: 36 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/pdf/2103.00334.pdf)/[Code](https://github.com/Zyun-Y/BiconNets) 
-:triangular_flag_on_post: 36 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
+:triangular_flag_on_post: 37 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
+:triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
 
 
 
@@ -397,6 +398,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 07 | **ArXiv** | Learning Video Salient Object Detection Progressively from Unlabeled Videos | [Paper](https://arxiv.org/abs/2204.02008)/Code  
 :triangular_flag_on_post: 08 | **ArXiv** | Rethinking Video Salient Object Ranking | [Paper](https://arxiv.org/abs/2203.17257)/Code  
 :triangular_flag_on_post: 09 | **ACMM** | Weakly Supervised Video Salient Object Detection via Point Supervision | [Paper](https://arxiv.org/pdf/2207.07269.pdf)/Code  
+:triangular_flag_on_post: 10 | **ECCV** | Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation | [Paper](https://arxiv.org/abs/2207.08485)/[Code](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)  
 
 
 ## 2021  
