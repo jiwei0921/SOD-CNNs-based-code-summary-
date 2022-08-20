@@ -263,6 +263,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 17 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | Paper/[Code](https://github.com/youngtboy/DLM)  
 :triangular_flag_on_post: 18 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
 :triangular_flag_on_post: 18 | **3DV** | Robust RGB-D Fusion for Saliency Detection | [Paper](https://arxiv.org/pdf/2208.01762.pdf)/[Code](https://github.com/Zongwei97/RFnet)  
+:triangular_flag_on_post: 19 | **ArXiv** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2208.03918.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 
 
 
