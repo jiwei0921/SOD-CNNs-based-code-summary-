@@ -250,20 +250,21 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 04 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 05 | **IEEE TIP** | Learning Discriminative Cross-modality Features for RGB-D Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/Code  
 06 | **IEEE TIP** | Weakly Supervised RGB-D Salient Object Detection with Prediction Consistency Training and Active Scribble Boosting | [Paper](https://ieeexplore.ieee.org/document/9720104)/Code  
-:triangular_flag_on_post: 07 | **ICLR** | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)  
-:triangular_flag_on_post: 08 | **ArXiv** | DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.06429.pdf)/Code  
-:triangular_flag_on_post: 09 | **ArXiv** | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.10785.pdf)/Code  
-:triangular_flag_on_post: 10 | **ArXiv** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2112.02363.pdf)/[Code](https://github.com/lartpang/CAVER)
-:triangular_flag_on_post: 11 | **PR** | Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001479)/Code  
-:triangular_flag_on_post: 12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
-:triangular_flag_on_post: 13 | **TMM** | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach | [Paper](https://ieeexplore.ieee.org/document/9769984)/[Code](https://github.com/ssecv/DIGR-Net) 
-:triangular_flag_on_post: 14 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
-:triangular_flag_on_post: 15 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
-:triangular_flag_on_post: 16 | **IEEE TIP** | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)  
-:triangular_flag_on_post: 17 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | Paper/[Code](https://github.com/youngtboy/DLM)  
-:triangular_flag_on_post: 18 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
-:triangular_flag_on_post: 18 | **3DV** | Robust RGB-D Fusion for Saliency Detection | [Paper](https://arxiv.org/pdf/2208.01762.pdf)/[Code](https://github.com/Zongwei97/RFnet)  
-:triangular_flag_on_post: 19 | **ArXiv** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2208.03918.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
+07 | **ICLR** | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)  
+08 | **ArXiv** | DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.06429.pdf)/Code  
+09 | **ArXiv** | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.10785.pdf)/Code  
+10 | **ArXiv** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2112.02363.pdf)/[Code](https://github.com/lartpang/CAVER)
+11 | **PR** | Encoder Deep Interleaved Network with Multi-scale Aggregation for RGB-D Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322001479)/Code  
+12 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
+13 | **TMM** | Depth-induced Gap-reducing Network for RGB-D Salient Object Detection: An Interaction, Guidance and Refinement Approach | [Paper](https://ieeexplore.ieee.org/document/9769984)/[Code](https://github.com/ssecv/DIGR-Net) 
+14 | **TMM** | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9813422)/[Code](https://github.com/OIPLab-DUT/C2DFNet) 
+15 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
+16 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
+17 | **IEEE TIP** | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)  
+:triangular_flag_on_post: 18 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | Paper/[Code](https://github.com/youngtboy/DLM)  
+:triangular_flag_on_post: 19 | **3DV** | Robust RGB-D Fusion for Saliency Detection | [Paper](https://arxiv.org/pdf/2208.01762.pdf)/[Code](https://github.com/Zongwei97/RFnet)  
+:triangular_flag_on_post: 20 | **ArXiv** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2208.03918.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
+:triangular_flag_on_post: 21 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
 
 
 
