@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
@@ -78,6 +78,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 36 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/pdf/2103.00334.pdf)/[Code](https://github.com/Zyun-Y/BiconNets) 
 :triangular_flag_on_post: 37 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
 :triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
+:triangular_flag_on_post: 39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
 
 
 
