@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, two ECCV22 papers.    
+ :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
  
@@ -268,6 +268,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 21 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
 :triangular_flag_on_post: 22 | **ECCV** | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection | Paper/[Code](https://github.com/Heart-eartH/MVSalNet)  
 :triangular_flag_on_post: 23 | **IJCV** | Learnable Depth-Sensitive Attention for Deep RGB-D Saliency Detection with Multi-modal Fusion Architecture Search | [Paper](https://link.springer.com/article/10.1007/s11263-022-01646-0)/[Code](https://github.com/sunpeng1996/DSA2F)   
+:triangular_flag_on_post: 24 | **IEEE TNNLS** | 3-D Convolutional Neural Networks for RGB-D Salient Object Detection and Beyond | [Paper](https://ieeexplore.ieee.org/document/9889257)/[Code](https://github.com/QianChen98/RD3D)   
 
 
 
