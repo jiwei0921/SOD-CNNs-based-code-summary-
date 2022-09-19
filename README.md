@@ -4,8 +4,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, two ECCV22 papers.    
- :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one Neurocomputing paper.   
+ :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, one IEEE TIP paper, two ECCV22 papers.    
+ :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/visionxiang/awesome-camouflaged-object-detection).
@@ -269,6 +269,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 22 | **ECCV** | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection | Paper/[Code](https://github.com/Heart-eartH/MVSalNet)  
 :triangular_flag_on_post: 23 | **IJCV** | Learnable Depth-Sensitive Attention for Deep RGB-D Saliency Detection with Multi-modal Fusion Architecture Search | [Paper](https://link.springer.com/article/10.1007/s11263-022-01646-0)/[Code](https://github.com/sunpeng1996/DSA2F)   
 :triangular_flag_on_post: 24 | **IEEE TNNLS** | 3-D Convolutional Neural Networks for RGB-D Salient Object Detection and Beyond | [Paper](https://ieeexplore.ieee.org/document/9889257)/[Code](https://github.com/QianChen98/RD3D)   
+:triangular_flag_on_post: 25 | **IEEE TIP ** | Improving RGB-D Salient Object Detection via Modality-aware Decoder | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275?casa_token=x6Stwtpf_igAAAAA:_ivL1dWDAHq29mTPgl4ctDVhwf6qbonXaQZ5t1PFqGwvDzVk4w28lEbwVt-9yQJ15C4zuI7TaFQ)/[Code](https://github.com/MengkeSong/MaD)   
 
 
 
@@ -387,6 +388,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 14 | **ICCV21** | Light Field Saliency Detection with Dual Local Graph Learning and Reciprocative Guidance | [Paper](https://arxiv.org/pdf/2110.00698.pdf)/[Code](https://github.com/wangbo-zhao/2021ICCV-DLGLRG)
 :triangular_flag_on_post: 15| **CVPR22** | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://arxiv.org/pdf/2204.13456.pdf)/[Code](https://github.com/OLobbCode/NoiseLF)  
 :triangular_flag_on_post: 16| **NC** | MEANet: Multi-modal edge-aware network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Code](https://github.com/jiangyao-scu/MEANet)
+:triangular_flag_on_post: 17| **IEEE TIP** | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion from a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273?casa_token=1mIHAJs5QB4AAAAA:vvhqsmbsJWjL9qGTjvOUWngBkgn9BJGkPY6M91tm2Tp-mhswCbmhtIU7cr5R6qT4vCqsU9L57kw)/[Code]()
 
 
       
