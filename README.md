@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper, and one IEEE TMM paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, one IEEE TIP paper, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
@@ -80,6 +80,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
 :triangular_flag_on_post: 39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
 :triangular_flag_on_post: 40 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://arxiv.org/pdf/2203.12614.pdf)/[Code](https://github.com/NoelShin/selfmask) 
+:triangular_flag_on_post: 41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/iCVTEAM/) 
 
 
 
