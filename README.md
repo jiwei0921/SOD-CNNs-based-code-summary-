@@ -80,7 +80,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
 :triangular_flag_on_post: 39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
 :triangular_flag_on_post: 40 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://arxiv.org/pdf/2203.12614.pdf)/[Code](https://github.com/NoelShin/selfmask) 
-:triangular_flag_on_post: 41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/iCVTEAM/) 
+:triangular_flag_on_post: 41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/JanySunny/ODI-SOD) 
+:triangular_flag_on_post: 42 | **ACCV** | Revisiting Image Pyramid Structure for High Resolution Salient Object Detection | [Paper](https://arxiv.org/abs/2209.09475)/[Code](https://github.com/plemeri/InSPyReNet) 
 
 
 
