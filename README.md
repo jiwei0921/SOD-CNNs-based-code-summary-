@@ -265,7 +265,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 15 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
 16 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
 17 | **IEEE TIP** | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)  
-18 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | Paper/[Code](https://github.com/youngtboy/DLM)  
+:triangular_flag_on_post: 18 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548037?casa_token=9IfKDOr4970AAAAA:yWl9tbPTwlCtnXJE7-Vuj7rHxxBPi39zLVoeb1rgFwZEDVNdeK3Y8SYO0gkyT98kCKd2nhtI1Et2190)/[Code](https://github.com/youngtboy/DLM)  
 19 | **3DV** | Robust RGB-D Fusion for Saliency Detection | [Paper](https://arxiv.org/pdf/2208.01762.pdf)/[Code](https://github.com/Zongwei97/RFnet)  
 20 | **ArXiv** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2208.03918.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 :triangular_flag_on_post: 21 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
@@ -274,6 +274,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 24 | **IEEE TNNLS** | 3-D Convolutional Neural Networks for RGB-D Salient Object Detection and Beyond | [Paper](https://ieeexplore.ieee.org/document/9889257)/[Code](https://github.com/QianChen98/RD3D)   
 :triangular_flag_on_post: 25 | **IEEE TIP** | Improving RGB-D Salient Object Detection via Modality-aware Decoder | [Paper](https://ieeexplore.ieee.org/abstract/document/9894275?casa_token=x6Stwtpf_igAAAAA:_ivL1dWDAHq29mTPgl4ctDVhwf6qbonXaQZ5t1PFqGwvDzVk4w28lEbwVt-9yQJ15C4zuI7TaFQ)/[Code](https://github.com/MengkeSong/MaD)   
 :triangular_flag_on_post: 26 | **IEEE TIP** | CIR-Net: Cross-modality interaction and refinement for RGB-D salient object detection | [Paper](https://arxiv.org/abs/2210.02843)/[Code](https://github.com/rmcong/CIRNet_TIP2022)   
+:triangular_flag_on_post: 27 | **IEEE TCSVT** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9869666?casa_token=tYGCtPgo5kkAAAAA:WWYviL3djEpBBRvds_DtYaAfdqnV5Qvdq7DaS4b6Dk9lQc9beLj4hQ9T8fLNpYeU9ku71v96abg)/[Code](https://github.com/liuzywen/HRTransNet) 
+:triangular_flag_on_post: 28 | **IEEE TMM** | Does Thermal Really Always Matter for RGB-T Salient Object Detection? | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html) 
+
 
 
 
@@ -393,6 +396,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 15| **CVPR22** | Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection | [Paper](https://arxiv.org/pdf/2204.13456.pdf)/[Code](https://github.com/OLobbCode/NoiseLF)  
 :triangular_flag_on_post: 16| **NC** | MEANet: Multi-modal edge-aware network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Code](https://github.com/jiangyao-scu/MEANet)
 :triangular_flag_on_post: 17| **IEEE TIP** | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion from a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273?casa_token=1mIHAJs5QB4AAAAA:vvhqsmbsJWjL9qGTjvOUWngBkgn9BJGkPY6M91tm2Tp-mhswCbmhtIU7cr5R6qT4vCqsU9L57kw)/[Code]()
+:triangular_flag_on_post: 18| **ACMM** | LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548275?casa_token=ifuWtYwl-roAAAAA:aSGUDEbp5YTrX7fxS0r7gEWq_kYKhOFom0VQ_6topWxvgArBopbmlvcAn7kXkjpo6jf9LEWX4vgivgU)/Code  
 
 
       
