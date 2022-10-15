@@ -416,6 +416,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 09 | **ACMM** | Weakly Supervised Video Salient Object Detection via Point Supervision | [Paper](https://arxiv.org/pdf/2207.07269.pdf)/Code  
 :triangular_flag_on_post: 10 | **ECCV** | Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation | [Paper](https://arxiv.org/abs/2207.08485)/[Code](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)  
 :triangular_flag_on_post: 11 | **ECCV** | XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model | [Paper](https://arxiv.org/pdf/2207.07115.pdf)/[Code](https://hkchengrex.github.io/XMem/)  
+:triangular_flag_on_post: 12 | **ACMM** | Bidirectionally Learning Dense Spatio-temporal Feature Propagation Network for Unsupervised Video Object
+Segmentation | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548039?casa_token=xbckiU4No2wAAAAA:hpKejtoDLTyeTRtCNao2PHacfpfR7HRV38JOieDNbF-C67SAKaXTTswqs_yC8DDp7at-rUkYyc1N5I0)/Code  
 
 
 ## 2021  
