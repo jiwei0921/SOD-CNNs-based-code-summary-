@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, two ECCV papers, one ACMM paper, one IEEE TCSVT paper, and one IEEE TMM paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, three ECCV papers, one ACMM paper, one IEEE TCSVT paper, and one IEEE TMM paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, two IEEE TIP papers, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
@@ -82,7 +82,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 40 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://arxiv.org/pdf/2203.12614.pdf)/[Code](https://github.com/NoelShin/selfmask) 
 :triangular_flag_on_post: 41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/JanySunny/ODI-SOD) 
 :triangular_flag_on_post: 42 | **ACCV** | Revisiting Image Pyramid Structure for High Resolution Salient Object Detection | [Paper](https://arxiv.org/abs/2209.09475)/[Code](https://github.com/plemeri/InSPyReNet) 
-
+:triangular_flag_on_post: 43 | **ECCV** | Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880564.pdf)/Code
 
 
 ## 2021       
