@@ -397,6 +397,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 16| **NC** | MEANet: Multi-modal edge-aware network for light field salient object detection | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222003502)/[Code](https://github.com/jiangyao-scu/MEANet)
 :triangular_flag_on_post: 17| **IEEE TIP** | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion from a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273?casa_token=1mIHAJs5QB4AAAAA:vvhqsmbsJWjL9qGTjvOUWngBkgn9BJGkPY6M91tm2Tp-mhswCbmhtIU7cr5R6qT4vCqsU9L57kw)/[Code]()
 :triangular_flag_on_post: 18| **ACMM** | LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548275?casa_token=ifuWtYwl-roAAAAA:aSGUDEbp5YTrX7fxS0r7gEWq_kYKhOFom0VQ_6topWxvgArBopbmlvcAn7kXkjpo6jf9LEWX4vgivgU)/Code  
+:triangular_flag_on_post: 19| **IEEE TIP** | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/document/9900489/authors#authors)/Code
 
 
       
