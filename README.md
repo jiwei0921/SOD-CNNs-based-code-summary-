@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add eight CVPR papers and two CVPRW papers, three ECCV papers, one ACMM paper, one IEEE TCSVT paper, and one IEEE TMM paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one AAAI23 paper, one NeurIPS22 paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one IJCV paper, one IEEE TNNLS paper, two IEEE TIP papers, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add four AAAI22 papers, one ACMM22 paper, two ECCV22 papers. 
@@ -36,6 +36,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
 # 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
+## 2023      
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | Paper/[Code](https://github.com/ssecv/LeNo)  
+
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -73,17 +79,17 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 31 | **CVPR** | Does text attract attention on e-commerce images: A novel saliency prediction dataset and method | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Does_Text_Attract_Attention_on_E-Commerce_Images_A_Novel_Saliency_CVPR_2022_paper.pdf)/[Code](https://github.com/leafy-lee/E-commercial-dataset)  
 32 | **CVPRW** | Pyramidal Attention for Saliency Detection | [Paper](https://arxiv.org/pdf/2204.06788.pdf)/[Code](https://github.com/tanveer-hussain) 
 33 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Shin_Unsupervised_Salient_Object_Detection_With_Spectral_Cluster_Voting_CVPRW_2022_paper.pdf)/[Code](https://github.com/NoelShin/selfmask) 
-:triangular_flag_on_post: 34 | **ECCV** | KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation | [Paper](https://arxiv.org/pdf/2208.02178.pdf)/[Code](https://github.com/zhangjinCV/KD-SCFNet) 
-:triangular_flag_on_post: 35 | **ECCV** | Salient Object Detection for Point Clouds | [Paper](https://arxiv.org/pdf/2207.11889.pdf)/[Code](https://git.openi.org.cn/OpenPointCloud/PCSOD) 
-:triangular_flag_on_post: 36 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/pdf/2103.00334.pdf)/[Code](https://github.com/Zyun-Y/BiconNets) 
-:triangular_flag_on_post: 37 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
-:triangular_flag_on_post: 38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
-:triangular_flag_on_post: 39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
-:triangular_flag_on_post: 40 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://arxiv.org/pdf/2203.12614.pdf)/[Code](https://github.com/NoelShin/selfmask) 
-:triangular_flag_on_post: 41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/JanySunny/ODI-SOD) 
-:triangular_flag_on_post: 42 | **ACCV** | Revisiting Image Pyramid Structure for High Resolution Salient Object Detection | [Paper](https://arxiv.org/abs/2209.09475)/[Code](https://github.com/plemeri/InSPyReNet) 
-:triangular_flag_on_post: 43 | **ECCV** | Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880564.pdf)/Code
-:triangular_flag_on_post: 44 | **IEEE TIP** | Salient Object Detection via Dynamic Scale Routing | [Paper](https://arxiv.org/pdf/2210.13821.pdf)/[Code](https://github.com/wuzhenyubuaa/DPNet)
+34 | **ECCV** | KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation | [Paper](https://arxiv.org/pdf/2208.02178.pdf)/[Code](https://github.com/zhangjinCV/KD-SCFNet) 
+35 | **ECCV** | Salient Object Detection for Point Clouds | [Paper](https://arxiv.org/pdf/2207.11889.pdf)/[Code](https://git.openi.org.cn/OpenPointCloud/PCSOD) 
+36 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/pdf/2103.00334.pdf)/[Code](https://github.com/Zyun-Y/BiconNets) 
+37 | **IEEE TCyb** | DNA: Deeply-supervised Nonlinear Aggregation for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9345433)/[Code](https://github.com/yun-liu/DNA) 
+38 | **ACMM** | Synthetic Data Supervised Salient Object Detection | [Paper](http://www.digitalimaginggroup.ca/members/Shuo/ACM_Multimedia_2022_final_version.pdf)/[Code](https://github.com/wuzhenyubuaa/SODGAN) 
+39 | **IEEE TCSVT** | A Weakly Supervised Learning Framework for Salient Object Detection via Hybrid Labels | [Paper](https://arxiv.org/pdf/2209.02957.pdf)/[Code](https://rmcong.github.io/proj_Hybrid-Label-SOD.html) 
+40 | **CVPRW** | Unsupervised Salient Object Detection with Spectral Cluster Voting | [Paper](https://arxiv.org/pdf/2203.12614.pdf)/[Code](https://github.com/NoelShin/selfmask) 
+41 | **IEEE TMM** | View-aware Salient Object Detection for 360° Omnidirectional Image | [Paper](https://arxiv.org/pdf/2209.13222.pdf)/[Code](https://github.com/JanySunny/ODI-SOD) 
+42 | **ACCV** | Revisiting Image Pyramid Structure for High Resolution Salient Object Detection | [Paper](https://arxiv.org/abs/2209.09475)/[Code](https://github.com/plemeri/InSPyReNet) 
+43 | **ECCV** | Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880564.pdf)/Code
+44 | **IEEE TIP** | Salient Object Detection via Dynamic Scale Routing | [Paper](https://arxiv.org/pdf/2210.13821.pdf)/[Code](https://github.com/wuzhenyubuaa/DPNet)
 :triangular_flag_on_post: 45 | **NeurIPS** | MOVE: Unsupervised Movable Object Segmentation and Detection | [Paper](https://arxiv.org/pdf/2210.07920.pdf)/Code
 
 
