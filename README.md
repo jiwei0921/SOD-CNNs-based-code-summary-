@@ -91,6 +91,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 43 | **ECCV** | Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880564.pdf)/Code
 44 | **IEEE TIP** | Salient Object Detection via Dynamic Scale Routing | [Paper](https://arxiv.org/pdf/2210.13821.pdf)/[Code](https://github.com/wuzhenyubuaa/DPNet)
 :triangular_flag_on_post: 45 | **NeurIPS** | MOVE: Unsupervised Movable Object Segmentation and Detection | [Paper](https://arxiv.org/pdf/2210.07920.pdf)/Code
+:triangular_flag_on_post: 46 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/abs/2103.00334)/[Code](https://github.com/Zyun-Y/BiconNets)  
 
 
 ## 2021       
