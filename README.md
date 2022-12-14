@@ -40,7 +40,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | Paper/[Code](https://github.com/ssecv/LeNo)  
+:triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
 
 
 
