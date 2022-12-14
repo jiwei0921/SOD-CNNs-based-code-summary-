@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one AAAI23 paper, one NeurIPS22 paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one NeurIPS22 paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IEEE TNNLS paper, two IEEE TIP papers, two ECCV22 papers.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -41,6 +41,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
+:triangular_flag_on_post: 02 | **AAAI** | Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection | [Paper](https://arxiv.org/pdf/2212.06493.pdf)/Code  
 
 
 
