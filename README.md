@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one NeurIPS22 paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IEEE TNNLS paper, two IEEE TIP papers, two ECCV22 papers.    
- :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper and one IEEE TIP paper.   
+ :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper, one IEEE TIP paper and one IEEE TPAMI paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md).
@@ -413,6 +413,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 17| **IEEE TIP** | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion from a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273?casa_token=1mIHAJs5QB4AAAAA:vvhqsmbsJWjL9qGTjvOUWngBkgn9BJGkPY6M91tm2Tp-mhswCbmhtIU7cr5R6qT4vCqsU9L57kw)/[Code]()
 :triangular_flag_on_post: 18| **ACMM** | LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548275?casa_token=ifuWtYwl-roAAAAA:aSGUDEbp5YTrX7fxS0r7gEWq_kYKhOFom0VQ_6topWxvgArBopbmlvcAn7kXkjpo6jf9LEWX4vgivgU)/Code  
 :triangular_flag_on_post: 19| **IEEE TIP** | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/document/9900489/authors#authors)/Code
+:triangular_flag_on_post: 20| **IEEE TPAMI** | A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10012539/1JNmt6JGKu4)/[Code](https://openi.pcl.ac.cn/OpenDatasets)
 
 
       
