@@ -43,6 +43,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
 :triangular_flag_on_post: 02 | **AAAI** | Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection | [Paper](https://arxiv.org/pdf/2212.06493.pdf)/Code  
 :triangular_flag_on_post: 03 | **TNNLS** | Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360◦ Omnidirectional Image | [Paper](https://arxiv.org/pdf/2212.12378.pdf)/[Code](https://rmcong.github.io/proj_MPFRNet.html)  
+:triangular_flag_on_post: 04 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/Code   
 
 
 
@@ -261,6 +262,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **TCSVT** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://arxiv.org/pdf/2301.03036.pdf)/[Code](https://github.com/liuzywen/HRTransNet)  
+:triangular_flag_on_post: 02 | **IEEE TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/CAVER) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
