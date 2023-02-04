@@ -297,7 +297,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 28 | **IEEE TMM** | Does Thermal Really Always Matter for RGB-T Salient Object Detection? | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html) 
 29 | **IEEE TCSVT** | Modality-Induced Transfer-Fusion Network for RGB-D and RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9925217?casa_token=gFFqPMx0N7sAAAAA:1DpXKX-b2jvTF1Zwcf-gtJkyj0ZW-lxbRcJb60rO0BiLFJqTbpg7Sl0VGhe2Ku62Rqtg2AfFyfY)/Code  
 30 | **IEEE TIP** | Joint Learning of Salient Object Detection, Depth Estimation and Contour Extraction | [Paper](https://arxiv.org/pdf/2203.04895.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/MMFT) 
-31 | **IEEE TCSVT** | MoADNet: Mobile Asymmetric Dual-Stream Networks for Real-Time and Lightweight RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9789193)/[Code](https://github.com/kingkung2016/MoADNet) 
+31 | **IJCV** | Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-022-01734-1)/[Code](https://github.com/jiwei0921/HiBo-UA) 
+32 | **IEEE TCSVT** | MoADNet: Mobile Asymmetric Dual-Stream Networks for Real-Time and Lightweight RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9789193)/[Code](https://github.com/kingkung2016/MoADNet) 
 
 
 
