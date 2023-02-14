@@ -263,6 +263,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **TCSVT** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://arxiv.org/pdf/2301.03036.pdf)/[Code](https://github.com/liuzywen/HRTransNet)  
 :triangular_flag_on_post: 02 | **IEEE TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/CAVER) 
+:triangular_flag_on_post: 03 | **IEEE TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10042233)/[Code](https://github.com/zyrant/LSNet) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -284,7 +285,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 15 | **ArXiv** | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2206.03105.pdf)/Code  
 16 | **IEEE TCSVT** | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/9801871)/[Code](https://github.com/gbliao/CCFENet)  
 17 | **IEEE TIP** | Learning Implicit Class Knowledge for RGB-D Co-Salient Object Detection with Transformers | [Paper](https://ieeexplore.ieee.org/document/9810116)/[Code](https://github.com/nnizhang/CTNet)  
-:triangular_flag_on_post: 18 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548037?casa_token=9IfKDOr4970AAAAA:yWl9tbPTwlCtnXJE7-Vuj7rHxxBPi39zLVoeb1rgFwZEDVNdeK3Y8SYO0gkyT98kCKd2nhtI1Et2190)/[Code](https://github.com/youngtboy/DLM)  
+18 | **ACMM** | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548037?casa_token=9IfKDOr4970AAAAA:yWl9tbPTwlCtnXJE7-Vuj7rHxxBPi39zLVoeb1rgFwZEDVNdeK3Y8SYO0gkyT98kCKd2nhtI1Et2190)/[Code](https://github.com/youngtboy/DLM)  
 19 | **3DV** | Robust RGB-D Fusion for Saliency Detection | [Paper](https://arxiv.org/pdf/2208.01762.pdf)/[Code](https://github.com/Zongwei97/RFnet)  
 20 | **ArXiv** | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D and Video Salient Object Detection | [Paper](https://arxiv.org/pdf/2208.03918.pdf)/[Code](https://github.com/zwbx/DFM-Net)  
 21 | **ECCV** | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.07898.pdf)/[Code](https://github.com/Hydragon516/SPSN)  
