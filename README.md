@@ -42,8 +42,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
 :triangular_flag_on_post: 02 | **AAAI** | Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection | [Paper](https://arxiv.org/pdf/2212.06493.pdf)/Code  
-:triangular_flag_on_post: 03 | **TNNLS** | Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360◦ Omnidirectional Image | [Paper](https://arxiv.org/pdf/2212.12378.pdf)/[Code](https://rmcong.github.io/proj_MPFRNet.html)  
-:triangular_flag_on_post: 04 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/Code   
+:triangular_flag_on_post: 03 | **AAAI** | Memory-aided Contrastive Consensus Learning for Co-salient Object Detection | [Paper](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=TZRzWOsAAAAJ)/[Code](https://github.com/ZhengPeng7/MCCL#)   
+:triangular_flag_on_post: 04 | **TNNLS** | Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360◦ Omnidirectional Image | [Paper](https://arxiv.org/pdf/2212.12378.pdf)/[Code](https://rmcong.github.io/proj_MPFRNet.html)  
+:triangular_flag_on_post: 05 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/Code   
+
 
 
 
