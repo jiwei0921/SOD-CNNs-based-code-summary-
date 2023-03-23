@@ -19,7 +19,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 ## Content:
 
-1. <a href="#Overall"> An overview of the Paper List </a>
+1. [An overview of the Paper List](#overall)
 2. <a href="#2D RGB Saliency Detection"> 2D RGB Saliency Detection </a>
 3. <a href="#3D RGB-D Saliency Detection">  3D RGB-D/T Saliency Detection </a>
 4. <a href="#4D Light Field Saliency Detection"> 4D Light Field Saliency Detection </a>
@@ -34,8 +34,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 ------
 
-   
-# Overall <a id="Overall" class="anchor" href="Overall" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<a name="overall"></a>   
+# Overall 
 ![avatar](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-/blob/master/SOD-2019.7.23.jpg)
     
 # 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
@@ -53,9 +53,6 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/DMT)   
 :triangular_flag_on_post: 09 | **CVPR** | Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings | [Paper](https://arxiv.org/pdf/2303.11502.pdf)/Code   
 
-
-<a name="introduction"></a>
-# Introduction
 
 
 ## 2022       
