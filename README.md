@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, three CVPR23 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IEEE TNNLS paper, two IEEE TIP papers, two ECCV22 papers.    
+ :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, two IEEE TIP papers, one ICME paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper, one IEEE TIP paper and one IEEE TPAMI paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -265,7 +265,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 
 <a name="3DSOD"></a>
-# 3D RGB-D Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# 3D RGB-D/T Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
@@ -273,6 +273,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 01 | **TCSVT** | HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection | [Paper](https://arxiv.org/pdf/2301.03036.pdf)/[Code](https://github.com/liuzywen/HRTransNet)  
 :triangular_flag_on_post: 02 | **IEEE TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/CAVER) 
 :triangular_flag_on_post: 03 | **IEEE TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10042233)/[Code](https://github.com/zyrant/LSNet) 
+:triangular_flag_on_post: 04 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2303.09733.pdf)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -555,8 +556,8 @@ You can found in [here](https://github.com/jiwei0921/Saliency-dataset-evaluation
 
 <a name="leaderboard"></a>
 # Comparison with state-of-the-arts  <a id="Comparison with state-of-the-arts" class="anchor" href="Comparison with state-of-the-arts" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-* [Here](https://github.com/ArcherFMY/sal_eval_toolbox) includes the performance comparison of almost all 2D salient object detection algorithms. 
-* [Here](http://dpfan.net/d3netbenchmark/) includes the performance comparison of almost all 3D RGB-D salient object detection algorithms. 
+* [Here](https://paperswithcode.com/sota/salient-object-detection-on-duts-te) includes the performance comparison of almost all 2D salient object detection algorithms. 
+* [Here](https://paperswithcode.com/task/rgb-d-salient-object-detection) includes the performance comparison of almost all 3D RGB-D salient object detection algorithms. 
 
 
 ### AI Conference Deadlines
