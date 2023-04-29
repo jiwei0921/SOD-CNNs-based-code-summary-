@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, three CVPR23 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, four CVPR23 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, two IEEE TIP papers, one ICME paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper, one IEEE TIP paper and one IEEE TPAMI paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -52,6 +52,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 07 | **CVPR** | Texture-guided Saliency Distilling for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.05921.pdf)/[Code](https://github.com/moothes/A2S-v2)   
 :triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/DMT)   
 :triangular_flag_on_post: 09 | **CVPR** | Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings | [Paper](https://arxiv.org/pdf/2303.11502.pdf)/Code   
+:triangular_flag_on_post: 10 | **CVPR** | Boosting Low-Data Instance Segmentation by Unsupervised Pre-training with Saliency Prompt | [Paper](https://arxiv.org/pdf/2302.01171.pdf)/Code   
 
 
 
