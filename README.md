@@ -50,7 +50,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 05 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/[Code](https://github.com/iCVTEAM/BBRF-TIP)   
 :triangular_flag_on_post: 06 | **IEEE TPAMI** | Co-Salient Object Detection with Co-Representation Purification | [Paper](https://arxiv.org/pdf/2303.07670.pdf)/[Code](https://github.com/ZZY816/CoRP)   
 :triangular_flag_on_post: 07 | **CVPR** | Texture-guided Saliency Distilling for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.05921.pdf)/[Code](https://github.com/moothes/A2S-v2)   
-:triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/DMT)   
+:triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.00514.pdf)/[Code](https://github.com/dragonlee258079/DMT)   
 :triangular_flag_on_post: 09 | **CVPR** | Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings | [Paper](https://arxiv.org/pdf/2303.11502.pdf)/Code   
 :triangular_flag_on_post: 10 | **CVPR** | Boosting Low-Data Instance Segmentation by Unsupervised Pre-training with Saliency Prompt | [Paper](https://arxiv.org/pdf/2302.01171.pdf)/Code   
 
