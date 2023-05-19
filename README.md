@@ -287,7 +287,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 03 | **IEEE TPAMI** | MobileSal: Extremely Efficient RGB-D Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21PAMI_MobileSal.pdf)/[Code](https://mmcheng.net/mobilesal/)   
 04 | **IEEE TIP** | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | [Paper](https://arxiv.org/pdf/2201.00100.pdf)/[Code](https://github.com/Robert-xiaoqiang/DS-Net)   
 05 | **IEEE TIP** | Learning Discriminative Cross-modality Features for RGB-D Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9678058)/Code  
-06 | **IEEE TIP** | Weakly Supervised RGB-D Salient Object Detection with Prediction Consistency Training and Active Scribble Boosting | [Paper](https://ieeexplore.ieee.org/document/9720104)/Code  
+06 | **IEEE TIP** | Weakly Supervised RGB-D Salient Object Detection with Prediction Consistency Training and Active Scribble Boosting | [Paper](https://ieeexplore.ieee.org/document/9720104)/[Code](https://github.com/XuYunqiu/scribbleRGB-DSOD)
 07 | **ICLR** | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)  
 08 | **ArXiv** | DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.06429.pdf)/Code  
 09 | **ArXiv** | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2203.10785.pdf)/Code  
