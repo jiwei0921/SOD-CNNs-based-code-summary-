@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, four CVPR23 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, two IEEE TIP papers, one ICME paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -53,6 +53,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.00514.pdf)/[Code](https://github.com/dragonlee258079/DMT)   
 :triangular_flag_on_post: 09 | **CVPR** | Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings | [Paper](https://arxiv.org/pdf/2303.11502.pdf)/Code   
 :triangular_flag_on_post: 10 | **CVPR** | Boosting Low-Data Instance Segmentation by Unsupervised Pre-training with Saliency Prompt | [Paper](https://arxiv.org/pdf/2302.01171.pdf)/Code   
+:triangular_flag_on_post: 11 | **CVPR** | Pixels, Regions, and Objects: Multiple Enhancement for Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Pixels_Regions_and_Objects_Multiple_Enhancement_for_Salient_Object_Detection_CVPR_2023_paper.pdf)/[Code](https://github.com/yiwangtz/MENet)   
+:triangular_flag_on_post: 12 | **CVPR** | Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf)/Code  
+:triangular_flag_on_post: 13 | **CVPR** | Modeling the Distributional Uncertainty for Salient Object Detection Models | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Modeling_the_Distributional_Uncertainty_for_Salient_Object_Detection_Models_CVPR_2023_paper.pdf)/[Code](https://npucvr.github.io/Distributional_uncer/)  
 
 
 
