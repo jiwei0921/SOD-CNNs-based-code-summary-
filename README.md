@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, two IEEE TIP papers, one ICME paper.    
- :heavy_exclamation_mark:  **LF SOD**: Add one CVPR22 paper, one ICME23 paper.   
+ :heavy_exclamation_mark:  **LF SOD**: Add one IEEE TCSVT paper, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md).
@@ -436,8 +436,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  17| **IEEE TIP** | Exploring Spatial Correlation for Light Field Saliency Detection: Expansion from a Single View | [Paper](https://ieeexplore.ieee.org/abstract/document/9894273?casa_token=1mIHAJs5QB4AAAAA:vvhqsmbsJWjL9qGTjvOUWngBkgn9BJGkPY6M91tm2Tp-mhswCbmhtIU7cr5R6qT4vCqsU9L57kw)/[Code]()
 18| **ACMM** | LFBCNet: Light Field Boundary-aware and Cascaded Interaction Network for Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548275?casa_token=ifuWtYwl-roAAAAA:aSGUDEbp5YTrX7fxS0r7gEWq_kYKhOFom0VQ_6topWxvgArBopbmlvcAn7kXkjpo6jf9LEWX4vgivgU)/Code  
 19| **IEEE TIP** | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/document/9900489/authors#authors)/Code
-:triangular_flag_on_post: 20| **IEEE TPAMI** | A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10012539/1JNmt6JGKu4)/[Code](https://openi.pcl.ac.cn/OpenDatasets)  
+20| **IEEE TPAMI** | A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10012539/1JNmt6JGKu4)/[Code](https://openi.pcl.ac.cn/OpenDatasets)  
 :triangular_flag_on_post: 21| **ICME23** | Guided Focal Stack Refinement Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.05260.pdf)/Code  
+:triangular_flag_on_post: 22| **IEEE TCSVT** | LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Code](https://github.com/liuzywen/LFTransNet)  
 
 
 <a name="VSOD"></a>      
