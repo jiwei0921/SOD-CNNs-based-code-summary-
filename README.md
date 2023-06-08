@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, two IEEE TIP papers, one ICME paper.    
+ :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one ICME paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add one IEEE TCSVT paper, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -278,6 +278,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 02 | **IEEE TIP** | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10015667)/[Code](https://github.com/lartpang/CAVER) 
 :triangular_flag_on_post: 03 | **IEEE TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10042233)/[Code](https://github.com/zyrant/LSNet) 
 :triangular_flag_on_post: 04 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2303.09733.pdf)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023) 
+:triangular_flag_on_post: 05 | **TCSVT** | Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2306.03630.pdf)/[Code](https://github.com/baneitixiaomai/MIRV) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
