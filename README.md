@@ -4,8 +4,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one ICME paper.    
- :heavy_exclamation_mark:  **LF SOD**: Add one IEEE TCSVT paper, one ICME23 paper.   
+ :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one IF paper.    
+ :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md).
@@ -279,6 +279,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 03 | **IEEE TIP** | LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images | [Paper](https://ieeexplore.ieee.org/abstract/document/10042233)/[Code](https://github.com/zyrant/LSNet) 
 :triangular_flag_on_post: 04 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2303.09733.pdf)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023) 
 :triangular_flag_on_post: 05 | **TCSVT** | Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2306.03630.pdf)/[Code](https://github.com/baneitixiaomai/MIRV) 
+:triangular_flag_on_post: 06 | **Information Fusion** | An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection | [Paper](https://arxiv.org/abs/2305.09999)/[Code](https://github.com/wdhudiekou/IRFS) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
@@ -440,6 +441,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20| **IEEE TPAMI** | A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10012539/1JNmt6JGKu4)/[Code](https://openi.pcl.ac.cn/OpenDatasets)  
 :triangular_flag_on_post: 21| **ICME23** | Guided Focal Stack Refinement Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.05260.pdf)/Code  
 :triangular_flag_on_post: 22| **IEEE TCSVT** | LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Code](https://github.com/liuzywen/LFTransNet)  
+:triangular_flag_on_post: 23| **IEEE TCSVT** | Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Code](https://github.com/GilbertRC/LFSOD-CDINet)  
 
 
 <a name="VSOD"></a>      
