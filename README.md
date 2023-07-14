@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one IF paper.    
+ :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one IF paper, one TMM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -280,6 +280,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **ICME** | Scribble-Supervised RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2303.09733.pdf)/[Code](https://github.com/liuzywen/RGBTScribble-ICME2023) 
 :triangular_flag_on_post: 05 | **TCSVT** | Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2306.03630.pdf)/[Code](https://github.com/baneitixiaomai/MIRV) 
 :triangular_flag_on_post: 06 | **Information Fusion** | An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection | [Paper](https://arxiv.org/abs/2305.09999)/[Code](https://github.com/wdhudiekou/IRFS) 
+:triangular_flag_on_post: 07 | **IEEE TMM** | CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10179145)/[Code](https://github.com/ROC-Star/CATNet/) 
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
