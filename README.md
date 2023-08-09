@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two AAAI23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one MM23 papers, one IEEE TPAMI paper, seven CVPR23 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, two IEEE TIP papers, one IF paper, one TMM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -43,12 +43,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
-:triangular_flag_on_post: 02 | **AAAI** | Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection | [Paper](https://arxiv.org/pdf/2212.06493.pdf)/Code  
-:triangular_flag_on_post: 03 | **AAAI** | Memory-aided Contrastive Consensus Learning for Co-salient Object Detection | [Paper](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=TZRzWOsAAAAJ)/[Code](https://github.com/ZhengPeng7/MCCL#)   
-:triangular_flag_on_post: 04 | **TNNLS** | Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360◦ Omnidirectional Image | [Paper](https://arxiv.org/pdf/2212.12378.pdf)/[Code](https://rmcong.github.io/proj_MPFRNet.html)  
-:triangular_flag_on_post: 05 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/[Code](https://github.com/iCVTEAM/BBRF-TIP)   
-:triangular_flag_on_post: 06 | **IEEE TPAMI** | Co-Salient Object Detection with Co-Representation Purification | [Paper](https://arxiv.org/pdf/2303.07670.pdf)/[Code](https://github.com/ZZY816/CoRP)   
+01 | **AAAI** | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise | [Paper](https://arxiv.org/abs/2210.15392)/[Code](https://github.com/ssecv/LeNo)  
+02 | **AAAI** | Pixel is All You Need: Adversarial Trajectory-Ensemble Active Learning for Salient Object Detection | [Paper](https://arxiv.org/pdf/2212.06493.pdf)/Code  
+03 | **AAAI** | Memory-aided Contrastive Consensus Learning for Co-salient Object Detection | [Paper](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=TZRzWOsAAAAJ)/[Code](https://github.com/ZhengPeng7/MCCL#)   
+04 | **TNNLS** | Multi-Projection Fusion and Refinement Network for Salient Object Detection in 360◦ Omnidirectional Image | [Paper](https://arxiv.org/pdf/2212.12378.pdf)/[Code](https://rmcong.github.io/proj_MPFRNet.html)  
+05 | **IEEE TIP** | Boosting Broader Receptive Fields for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10006743)/[Code](https://github.com/iCVTEAM/BBRF-TIP)   
+06 | **IEEE TPAMI** | Co-Salient Object Detection with Co-Representation Purification | [Paper](https://arxiv.org/pdf/2303.07670.pdf)/[Code](https://github.com/ZZY816/CoRP)   
 :triangular_flag_on_post: 07 | **CVPR** | Texture-guided Saliency Distilling for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/pdf/2207.05921.pdf)/[Code](https://github.com/moothes/A2S-v2)   
 :triangular_flag_on_post: 08 | **CVPR** | Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.00514.pdf)/[Code](https://github.com/dragonlee258079/DMT)   
 :triangular_flag_on_post: 09 | **CVPR** | Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings | [Paper](https://arxiv.org/pdf/2303.11502.pdf)/[Code](https://ayankumarbhunia.github.io/Sketch2Saliency/)   
@@ -56,6 +56,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 11 | **CVPR** | Pixels, Regions, and Objects: Multiple Enhancement for Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Pixels_Regions_and_Objects_Multiple_Enhancement_for_Salient_Object_Detection_CVPR_2023_paper.pdf)/[Code](https://github.com/yiwangtz/MENet)   
 :triangular_flag_on_post: 12 | **CVPR** | Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf)/Code  
 :triangular_flag_on_post: 13 | **CVPR** | Modeling the Distributional Uncertainty for Salient Object Detection Models | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Modeling_the_Distributional_Uncertainty_for_Salient_Object_Detection_Models_CVPR_2023_paper.pdf)/[Code](https://npucvr.github.io/Distributional_uncer/)  
+:triangular_flag_on_post: 14 | **ACM MM** | Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.03826.pdf)/[Code](https://github.com/DrowsyMon/RMFormer)  
 
 
 
