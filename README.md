@@ -57,6 +57,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 12 | **CVPR** | Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf)/Code  
 :triangular_flag_on_post: 13 | **CVPR** | Modeling the Distributional Uncertainty for Salient Object Detection Models | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Modeling_the_Distributional_Uncertainty_for_Salient_Object_Detection_Models_CVPR_2023_paper.pdf)/[Code](https://npucvr.github.io/Distributional_uncer/)  
 :triangular_flag_on_post: 14 | **ACM MM** | Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.03826.pdf)/[Code](https://github.com/DrowsyMon/RMFormer)  
+:triangular_flag_on_post: 15 | **TOMM** | PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection | [Paper](https://drive.google.com/file/d/1-1RcARcbz4pACFzkjXcp6MP8R9CGScqI/view)/[Code](https://github.com/Jun-Pu/PAV-SOD)  
 
 
 
@@ -110,6 +111,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 45 | **NeurIPS** | MOVE: Unsupervised Movable Object Segmentation and Detection | [Paper](https://arxiv.org/pdf/2210.07920.pdf)/Code
 46 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/abs/2103.00334)/[Code](https://github.com/Zyun-Y/BiconNets)  
 47 | **IEEE TCSVT** | TCNet:Co-salient Object Detection via Parallel Interaction of Transformers and CNNs | [Paper](https://ieeexplore.ieee.org/document/9968016)/[Code](https://github.com/zhangqiao970914/TCNet)  
+  
 
 
 
