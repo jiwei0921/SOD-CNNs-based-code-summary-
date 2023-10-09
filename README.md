@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one MM23 paper, one ICCV23 paper, one IEEE TPAMI paper, seven CVPR23 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one IF paper, one ACM MM paper.    
+ :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one IEEE TPAMI paper, seven CVPR23 papers.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one IF paper, three ACM MM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -59,6 +59,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 14 | **ACM MM** | Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.03826.pdf)/[Code](https://github.com/DrowsyMon/RMFormer)  
 :triangular_flag_on_post: 15 | **TOMM** | PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection | [Paper](https://drive.google.com/file/d/1-1RcARcbz4pACFzkjXcp6MP8R9CGScqI/view)/[Code](https://github.com/Jun-Pu/PAV-SOD)  
 :triangular_flag_on_post: 16 | **ICCV** | Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)/Code
+:triangular_flag_on_post: 17 | **ACM MM** | Distortion-aware Transformer in 360° Salient Object Detection | [Paper](https://arxiv.org/abs/2308.03359)/[Code](https://github.com/yjzhao19981027/DATFormer/) 
+:triangular_flag_on_post: 18 | **ACM MM** | Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context | Paper/Code 
+:triangular_flag_on_post: 19 | **ACM MM** | Partitioned Saliency Ranking with Dense Pyramid Transformers | [Paper](https://arxiv.org/pdf/2308.00236.pdf)/[Code](https://github.com/ssecv/PSR) 
+:triangular_flag_on_post: 20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
+
 
 
 
@@ -286,7 +291,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 06 | **Information Fusion** | An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection | [Paper](https://arxiv.org/abs/2305.09999)/[Code](https://github.com/wdhudiekou/IRFS) 
 :triangular_flag_on_post: 07 | **IEEE TMM** | CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10179145)/[Code](https://github.com/ROC-Star/CATNet/) 
 :triangular_flag_on_post: 08 | **ACM MM** | Point-aware Interaction and CNN-induced Refinement Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.08930.pdf)/[Code](https://github.com/rmcong/PICR-Net_ACMMM23) 
-:triangular_flag_on_post: 09 | **IEEE TIP** | Depth Injection Framework for RGBD Salient Object Detection | Paper/[Code](https://github.com/Zakeiswo/DIF) 
+:triangular_flag_on_post: 09 | **IEEE TIP** | Depth Injection Framework for RGBD Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10258039)/[Code](https://github.com/Zakeiswo/DIF) 
+:triangular_flag_on_post: 10 | **ACM MM** | Modality Profile - A New Critical Aspect to be Considered When Generating RGB-D Salient Object Detection Training Set | Paper/Code
+:triangular_flag_on_post: 11 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | Paper/Code  
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
