@@ -63,6 +63,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 18 | **ACM MM** | Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612212)/Code 
 :triangular_flag_on_post: 19 | **ACM MM** | Partitioned Saliency Ranking with Dense Pyramid Transformers | [Paper](https://arxiv.org/pdf/2308.00236.pdf)/[Code](https://github.com/ssecv/PSR) 
 :triangular_flag_on_post: 20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
+:triangular_flag_on_post: 21 | **TMM** | Towards Complete and Detail-Preserved Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10287608)/[Code](https://github.com/BarCodeReader/SelfReformer) 
 
 
 
@@ -91,7 +92,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 19 | **ArXiv** | An Energy-Based Prior for Generative Saliency | [Paper](https://arxiv.org/pdf/2204.08803.pdf)/[Code](https://github.com/JingZhang617/EBMGSOD) 
 20 | **IEEE TIP** | EDN: Salient Object Detection via Extremely-Downsampled Network | [Paper](https://arxiv.org/pdf/2012.13093.pdf)/[Code](https://github.com/yuhuan-wu/EDN) 
 21 | **IEEE TPAMI** | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/pdf/2101.07663.pdf)/[Code](https://github.com/mczhuge/ICON) 
-22 | **ArXiv** | SelfReformer: Self-Refined Network with Transformer for Salient Object Detection | [Paper](https://arxiv.org/pdf/2205.11283.pdf)/Code  
+22 | **IEEE TCSVT** | TCNet:Co-salient Object Detection via Parallel Interaction of Transformers and CNNs | [Paper](https://ieeexplore.ieee.org/document/9968016)/[Code](https://github.com/zhangqiao970914/TCNet)   
 23 | **ArXiv** | Activation to Saliency: Forming High-Quality Labels for Unsupervised Salient Object Detection | [Paper](https://arxiv.org/abs/2112.03650)/[Code](https://github.com/moothes/A2S-USOD)  
 24 | **CVPR** | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2203.02688.pdf)/[Code](https://github.com/lartpang/ZoomNet)  
 25 | **CVPR** | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2009.09258.pdf)/[Code](https://github.com/tsingqguo/jadena) 
@@ -116,7 +117,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 44 | **IEEE TIP** | Salient Object Detection via Dynamic Scale Routing | [Paper](https://arxiv.org/pdf/2210.13821.pdf)/[Code](https://github.com/wuzhenyubuaa/DPNet)
 45 | **NeurIPS** | MOVE: Unsupervised Movable Object Segmentation and Detection | [Paper](https://arxiv.org/pdf/2210.07920.pdf)/Code
 46 | **PR** | BiconNet: An Edge-preserved Connectivity-based Approach for Salient Object Detection | [Paper](https://arxiv.org/abs/2103.00334)/[Code](https://github.com/Zyun-Y/BiconNets)  
-47 | **IEEE TCSVT** | TCNet:Co-salient Object Detection via Parallel Interaction of Transformers and CNNs | [Paper](https://ieeexplore.ieee.org/document/9968016)/[Code](https://github.com/zhangqiao970914/TCNet)  
+
   
 
 
