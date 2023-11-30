@@ -64,6 +64,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 19 | **ACM MM** | Partitioned Saliency Ranking with Dense Pyramid Transformers | [Paper](https://arxiv.org/pdf/2308.00236.pdf)/[Code](https://github.com/ssecv/PSR) 
 :triangular_flag_on_post: 20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
 :triangular_flag_on_post: 21 | **TMM** | Towards Complete and Detail-Preserved Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10287608)/[Code](https://github.com/BarCodeReader/SelfReformer) 
+:triangular_flag_on_post: 22 | **arXiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/pdf/2311.16835.pdf)/Code
+:triangular_flag_on_post: 23 | **arXiv** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
+:triangular_flag_on_post: 24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
 
 
 
