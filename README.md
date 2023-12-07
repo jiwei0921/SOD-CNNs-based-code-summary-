@@ -68,6 +68,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 23 | **arXiv** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
 :triangular_flag_on_post: 24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
 :triangular_flag_on_post: 25 | **NeurIPS** | What Do Deep Saliency Models Learn about Visual Attention? | [Paper](https://arxiv.org/abs/2310.09679)/[Code](https://arxiv.org/pdf/2310.09679.pdf)  
+:triangular_flag_on_post: 26 | **PAMI** | CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10339864/1SBL7kZYYyA)/Code  
 
 
 
