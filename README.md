@@ -69,6 +69,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
 :triangular_flag_on_post: 25 | **NeurIPS** | What Do Deep Saliency Models Learn about Visual Attention? | [Paper](https://arxiv.org/abs/2310.09679)/[Code](https://arxiv.org/pdf/2310.09679.pdf)  
 :triangular_flag_on_post: 26 | **PAMI** | CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10339864/1SBL7kZYYyA)/Code  
+:triangular_flag_on_post: 27 | **IEEE TIP** | USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102831)/[Code](https://github.com/LinHong-HIT/USOD10K)  
+:triangular_flag_on_post: 28 | **IEEE TMM** | Spectrum-driven Mixed-frequency Network for Hyperspectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10313066/)/[Code](https://github.com/laprf/SMN)  
 
 
 
