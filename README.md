@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one IEEE TPAMI paper, five WACV24 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one ICASSP24 paper, five WACV24 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one NeurIPS paper, three ACM MM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -47,7 +47,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 02 | **WACV** | 3SD: Self-Supervised Saliency Detection With No Labels | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yasarla_3SD_Self-Supervised_Saliency_Detection_With_No_Labels_WACV_2024_paper.pdf)/[Code](https://github.com/rajeevyasarla/3SD)    
 :triangular_flag_on_post: 03 | **WACV** | Learning Saliency From Fixations | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Djilali_Learning_Saliency_From_Fixations_WACV_2024_paper.pdf)/[Code](https://github.com/YasserdahouML/SalTR)     
 :triangular_flag_on_post: 04 | **WACV** | Salient Object Detection for Images Taken by People With Vision Impairments | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)/[Code](https://vizwiz.org/tasks-and-datasets/salient-object-detection/)     
-:triangular_flag_on_post: 05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code   
+:triangular_flag_on_post: 05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code  
+:triangular_flag_on_post: 06 | **ICASSP** | Zero-Shot Co-salient Object Detection Framework | [Paper](https://arxiv.org/abs/2309.05499)/[Code](https://github.com/hkxiao/zs-cosod)  
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
@@ -65,17 +66,17 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 11 | **CVPR** | Pixels, Regions, and Objects: Multiple Enhancement for Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Pixels_Regions_and_Objects_Multiple_Enhancement_for_Salient_Object_Detection_CVPR_2023_paper.pdf)/[Code](https://github.com/yiwangtz/MENet)   
 12 | **CVPR** | Co-Salient Object Detection with Uncertainty-aware Group Exchange-Masking | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Co-Salient_Object_Detection_With_Uncertainty-Aware_Group_Exchange-Masking_CVPR_2023_paper.pdf)/Code  
 13 | **CVPR** | Modeling the Distributional Uncertainty for Salient Object Detection Models | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Modeling_the_Distributional_Uncertainty_for_Salient_Object_Detection_Models_CVPR_2023_paper.pdf)/[Code](https://npucvr.github.io/Distributional_uncer/)  
-:triangular_flag_on_post: 14 | **ACM MM** | Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.03826.pdf)/[Code](https://github.com/DrowsyMon/RMFormer)  
-:triangular_flag_on_post: 15 | **TOMM** | PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection | [Paper](https://drive.google.com/file/d/1-1RcARcbz4pACFzkjXcp6MP8R9CGScqI/view)/[Code](https://github.com/Jun-Pu/PAV-SOD)  
-:triangular_flag_on_post: 16 | **ICCV** | Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)/Code
-:triangular_flag_on_post: 17 | **ACM MM** | Distortion-aware Transformer in 360° Salient Object Detection | [Paper](https://arxiv.org/abs/2308.03359)/[Code](https://github.com/yjzhao19981027/DATFormer/) 
-:triangular_flag_on_post: 18 | **ACM MM** | Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612212)/Code 
-:triangular_flag_on_post: 19 | **ACM MM** | Partitioned Saliency Ranking with Dense Pyramid Transformers | [Paper](https://arxiv.org/pdf/2308.00236.pdf)/[Code](https://github.com/ssecv/PSR) 
-:triangular_flag_on_post: 20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
-:triangular_flag_on_post: 21 | **TMM** | Towards Complete and Detail-Preserved Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10287608)/[Code](https://github.com/BarCodeReader/SelfReformer) 
-:triangular_flag_on_post: 22 | **arXiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/pdf/2311.16835.pdf)/Code
-:triangular_flag_on_post: 23 | **arXiv** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
-:triangular_flag_on_post: 24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
+14 | **ACM MM** | Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.03826.pdf)/[Code](https://github.com/DrowsyMon/RMFormer)  
+15 | **TOMM** | PAV-SOD: A New Task Towards Panoramic Audiovisual Saliency Detection | [Paper](https://drive.google.com/file/d/1-1RcARcbz4pACFzkjXcp6MP8R9CGScqI/view)/[Code](https://github.com/Jun-Pu/PAV-SOD)  
+16 | **ICCV** | Counterfactual-based Saliency Map: Towards Visual Contrastive Explanations for Neural Networks | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Counterfactual-based_Saliency_Map_Towards_Visual_Contrastive_Explanations_for_Neural_Networks_ICCV_2023_paper.pdf)/Code
+17 | **ACM MM** | Distortion-aware Transformer in 360° Salient Object Detection | [Paper](https://arxiv.org/abs/2308.03359)/[Code](https://github.com/yjzhao19981027/DATFormer/) 
+18 | **ACM MM** | Towards End-to-End Unsupervised Saliency Detection with Self-Supervised Top-Down Context | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612212)/Code 
+19 | **ACM MM** | Partitioned Saliency Ranking with Dense Pyramid Transformers | [Paper](https://arxiv.org/pdf/2308.00236.pdf)/[Code](https://github.com/ssecv/PSR) 
+20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
+21 | **TMM** | Towards Complete and Detail-Preserved Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10287608)/[Code](https://github.com/BarCodeReader/SelfReformer) 
+22 | **arXiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/pdf/2311.16835.pdf)/Code
+23 | **arXiv** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
+24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
 :triangular_flag_on_post: 25 | **NeurIPS** | What Do Deep Saliency Models Learn about Visual Attention? | [Paper](https://arxiv.org/abs/2310.09679)/[Code](https://arxiv.org/pdf/2310.09679.pdf)  
 :triangular_flag_on_post: 26 | **PAMI** | CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10339864/1SBL7kZYYyA)/Code  
 :triangular_flag_on_post: 27 | **IEEE TIP** | USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102831)/[Code](https://github.com/LinHong-HIT/USOD10K)  
