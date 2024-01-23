@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one ICASSP24 paper, five WACV24 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one NeurIPS paper, three ACM MM paper.    
+ :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one ICASSP paper, three ACM MM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -301,6 +301,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 <a name="3DSOD"></a>
 # 3D RGB-D/T Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+## 2024       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code
+
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -316,6 +321,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 10 | **ACM MM** | Modality Profile - A New Critical Aspect to be Considered When Generating RGB-D Salient Object Detection Training Set | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611985)/[Code](https://github.com/XueHaoWang-Beijing/ModalityProfile_MM23/)
 :triangular_flag_on_post: 11 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612466)/[Code](https://github.com/ZZ2490/SPNet)  
 :triangular_flag_on_post: 12 | **NeurIPS** | DVSOD: RGB-D Video Salient Object Detection | [Paper](https://openreview.net/pdf?id=Hm1Ih3uLII)/[Code](https://github.com/DVSOD/DVSOD-Baseline)  
+
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
