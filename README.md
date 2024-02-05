@@ -5,7 +5,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one ICASSP24 paper, five WACV24 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one ICASSP paper, three ACM MM paper.    
- :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one ICME23 paper.   
+ :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md).
@@ -484,6 +484,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 21| **ICME23** | Guided Focal Stack Refinement Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.05260.pdf)/Code  
 :triangular_flag_on_post: 22| **IEEE TCSVT** | LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Code](https://github.com/liuzywen/LFTransNet)  
 :triangular_flag_on_post: 23| **IEEE TCSVT** | Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Code](https://github.com/GilbertRC/LFSOD-CDINet)  
+:triangular_flag_on_post: 24| **arXiv** | LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras | [Paper](https://browse.arxiv.org/abs/2401.16712)/[Code](https://github.com/FeiBryantkit/LF-Tracy)  
 
 
 <a name="VSOD"></a>      
