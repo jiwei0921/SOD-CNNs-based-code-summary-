@@ -49,6 +49,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **WACV** | Salient Object Detection for Images Taken by People With Vision Impairments | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)/[Code](https://vizwiz.org/tasks-and-datasets/salient-object-detection/)     
 :triangular_flag_on_post: 05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code  
 :triangular_flag_on_post: 06 | **ICASSP** | Zero-Shot Co-salient Object Detection Framework | [Paper](https://arxiv.org/abs/2309.05499)/[Code](https://github.com/hkxiao/zs-cosod)  
+:triangular_flag_on_post: 07 | **CVPR** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
@@ -75,13 +76,12 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20 | **ACM MM** | Co-Salient Object Detection with Semantic-Level Consensus Extraction and Dispersion | [Paper](https://arxiv.org/abs/2309.07753v1)/Code  
 21 | **TMM** | Towards Complete and Detail-Preserved Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10287608)/[Code](https://github.com/BarCodeReader/SelfReformer) 
 22 | **arXiv** | Unified-modal Salient Object Detection via Adaptive Prompt Learning | [Paper](https://arxiv.org/pdf/2311.16835.pdf)/Code
-23 | **arXiv** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
-24 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
-:triangular_flag_on_post: 25 | **NeurIPS** | What Do Deep Saliency Models Learn about Visual Attention? | [Paper](https://arxiv.org/abs/2310.09679)/[Code](https://arxiv.org/pdf/2310.09679.pdf)  
-:triangular_flag_on_post: 26 | **PAMI** | CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10339864/1SBL7kZYYyA)/Code  
-:triangular_flag_on_post: 27 | **IEEE TIP** | USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102831)/[Code](https://github.com/LinHong-HIT/USOD10K)  
-:triangular_flag_on_post: 28 | **IEEE TMM** | Spectrum-driven Mixed-frequency Network for Hyperspectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10313066/)/[Code](https://github.com/laprf/SMN)  
-:triangular_flag_on_post: 29 | **IEEE TIP** | Rethinking Object Saliency Ranking: A Novel Whole-flow Processing Paradigm | [Paper](https://arxiv.org/pdf/2312.03226.pdf)/[Code](https://github.com/MengkeSong/Saliency-Ranking-Paradigm) 
+23 | **arXiv** | All in One: RGB, RGB-D, and RGB-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.14746.pdf)/Code
+24 | **NeurIPS** | What Do Deep Saliency Models Learn about Visual Attention? | [Paper](https://arxiv.org/abs/2310.09679)/[Code](https://arxiv.org/pdf/2310.09679.pdf)  
+25 | **PAMI** | CADC++: Advanced Consensus-Aware Dynamic Convolution for Co-Salient Object Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10339864/1SBL7kZYYyA)/Code  
+26 | **IEEE TIP** | USOD10K: A New Benchmark Dataset for Underwater Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10102831)/[Code](https://github.com/LinHong-HIT/USOD10K)  
+27 | **IEEE TMM** | Spectrum-driven Mixed-frequency Network for Hyperspectral Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10313066/)/[Code](https://github.com/laprf/SMN)  
+28 | **IEEE TIP** | Rethinking Object Saliency Ranking: A Novel Whole-flow Processing Paradigm | [Paper](https://arxiv.org/pdf/2312.03226.pdf)/[Code](https://github.com/MengkeSong/Saliency-Ranking-Paradigm) 
 
 
 
