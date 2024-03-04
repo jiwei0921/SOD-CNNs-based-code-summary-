@@ -4,7 +4,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 
 --------------------------------------------------------------------------------------
  :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one ICASSP24 paper, five WACV24 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add two TCSVT papers, three IEEE TIP papers, one ICASSP paper, three ACM MM paper.    
+ :heavy_exclamation_mark:  **3D SOD**: Add one ICASSP paper, one IJCV paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -304,7 +304,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2024       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code
+:triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code  
+:triangular_flag_on_post: 02 | **IJCV** | Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-024-02020-y)/[Code](https://github.com/hu-xh/CPNet)  
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
