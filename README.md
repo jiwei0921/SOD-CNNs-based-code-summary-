@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add five MM23 papers, one ICCV23 paper, one ICASSP24 paper, five WACV24 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add three AAAI24 papers, one ICASSP24 paper, five WACV24 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ICASSP paper, one IJCV paper, one TMM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -50,6 +50,10 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code  
 :triangular_flag_on_post: 06 | **ICASSP** | Zero-Shot Co-salient Object Detection Framework | [Paper](https://arxiv.org/abs/2309.05499)/[Code](https://github.com/hkxiao/zs-cosod)  
 :triangular_flag_on_post: 07 | **CVPR** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
+:triangular_flag_on_post: 08 | **AAAI** | WeakPCSOD: Overcoming the Bias of Box Annotations for Weakly Supervised Point Cloud Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28403)/Code
+:triangular_flag_on_post: 09 | **AAAI** | SeqRank: Sequential Ranking of Salient Objects | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964)/[Code](https://github.com/guanhuankang/SeqRank) 
+:triangular_flag_on_post: 10 | **AAAI** | Finding Visual Saliency in Continuous Spike Stream | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)/[Code](https://github.com/BIT-Vision/SVS) 
+
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
