@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add three AAAI24 papers, one IJCAI24 paper, two CVPR24 papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one ICASSP paper, one IJCV paper, one TMM paper.    
+ :heavy_exclamation_mark:  **2D SOD**: Add one IEEE TII paper, two ICML24 papers.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one ICASSP paper, one IJCV paper, one TIP paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -55,7 +55,9 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 10 | **AAAI** | Finding Visual Saliency in Continuous Spike Stream | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)/[Code](https://github.com/BIT-Vision/SVS) 
 :triangular_flag_on_post: 11 | **CVPR** | COSALPURE: Learning Concept from Group Images for Robust Co-Saliency | [Paper](https://arxiv.org/pdf/2403.18554.pdf)/[Code](https://v1len.github.io/CosalPure/) 
 :triangular_flag_on_post: 12 | **IJCAI** | Unified Unsupervised Salient Object Detection via Knowledge Transfer | [Paper](https://arxiv.org/pdf/2404.14759)/[Code](https://github.com/I2-Multimedia-Lab/A2S-v3) 
-
+:triangular_flag_on_post: 13 | **TII** | MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects | [Paper](https://arxiv.org/pdf/2405.16096)/[Code](https://github.com/Kunye-Shen/MINet) 
+:triangular_flag_on_post: 14 | **ICML** | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD) 
+:triangular_flag_on_post: 15 | **ICML** | Spider: A Unified Framework for Context-dependent Concept Segmentation | [Paper](https://arxiv.org/pdf/2405.01002)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg) 
 
 
 ## 2023      
@@ -313,7 +315,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code  
 :triangular_flag_on_post: 02 | **IJCV** | Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-024-02020-y)/[Code](https://github.com/hu-xh/CPNet)  
-:triangular_flag_on_post: 03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR)  
+:triangular_flag_on_post: 03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR) :triangular_flag_on_post: 04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
+
 
 ## 2023      
 **No.** | **Pub.** | **Title** | **Links** 
