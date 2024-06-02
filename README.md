@@ -315,7 +315,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :-: | :-: | :-  | :-: 
 :triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code  
 :triangular_flag_on_post: 02 | **IJCV** | Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-024-02020-y)/[Code](https://github.com/hu-xh/CPNet)  
-:triangular_flag_on_post: 03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR) :triangular_flag_on_post: 04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
+:triangular_flag_on_post: 03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR) 
+:triangular_flag_on_post: 04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
 
 
 ## 2023      
