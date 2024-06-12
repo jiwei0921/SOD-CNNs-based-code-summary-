@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one IEEE TII paper, three ICML24 papers.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one IEEE TII paper, three ICML24 papers, seven CVPR24 papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IJCV paper, one TMM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -59,6 +59,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 14 | **ICML** | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD) 
 :triangular_flag_on_post: 15 | **ICML** | Spider: A Unified Framework for Context-dependent Concept Segmentation | [Paper](https://arxiv.org/pdf/2405.01002)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg) 
 :triangular_flag_on_post: 16 | **ICML** | Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset | Paper/[Code](https://github.com/LiamLian0727/USIS10K) 
+:triangular_flag_on_post: 17 | **CVPR** | Domain Separation Graph Neural Networks for Saliency Object Ranking | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Domain_Separation_Graph_Neural_Networks_for_Saliency_Object_Ranking_CVPR_2024_paper.pdf)/[Code](https://github.com/Wu-ZJ/DSGNN) 
+:triangular_flag_on_post: 18 | **CVPR** | Advancing Saliency Ranking with Human Fixations: Dataset Models and Benchmarks | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Advancing_Saliency_Ranking_with_Human_Fixations_Dataset_Models_and_Benchmarks_CVPR_2024_paper.pdf)/[Code](https://github.com/EricDengbowen/QAGNet) 
+:triangular_flag_on_post: 19 | **CVPR** | Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Task-Adaptive_Saliency_Guidance_for_Exemplar-free_Class_Incremental_Learning_CVPR_2024_paper.pdf)/[Code](https://github.com/scok30/tass) 
+:triangular_flag_on_post: 20 | **CVPR** | Unsupervised Salient Instance Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.pdf)/Code
+:triangular_flag_on_post: 21 | **CVPR** | DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_DiffSal_Joint_Audio_and_Video_Learning_for_Diffusion_Saliency_Prediction_CVPR_2024_paper.pdf)/[Code](https://junwenxiong.github.io/DiffSal) 
 
 
 ## 2023      
