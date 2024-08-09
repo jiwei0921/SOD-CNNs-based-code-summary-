@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one IEEE TMM paper, three ICML24 papers, seven CVPR24 papers, one ECCV24 paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add one ACM MM paper, three ICML24 papers, seven CVPR24 papers, one ECCV24 paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IJCV paper, one TMM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
@@ -66,6 +66,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 21 | **CVPR** | DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_DiffSal_Joint_Audio_and_Video_Learning_for_Diffusion_Saliency_Prediction_CVPR_2024_paper.pdf)/[Code](https://junwenxiong.github.io/DiffSal) 
 :triangular_flag_on_post: 22 | **TMM** | ADMNet: Attention-guided Densely Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10555313)/[Code](https://github.com/Kunye-Shen/ADMNet)
 :triangular_flag_on_post: 23 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/CONDA)
+:triangular_flag_on_post: 24 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
+
 
 
 ## 2023      
