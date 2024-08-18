@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add one ACM MM paper, three ICML24 papers, seven CVPR24 papers, one ECCV24 paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IJCV paper, one TMM paper.    
+ :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, three ICML24 papers, seven CVPR24 papers, one ECCV24 paper.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IJCV paper, one TMM paper, one ACM MM paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -67,6 +67,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 22 | **TMM** | ADMNet: Attention-guided Densely Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10555313)/[Code](https://github.com/Kunye-Shen/ADMNet)
 :triangular_flag_on_post: 23 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/CONDA)
 :triangular_flag_on_post: 24 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
+:triangular_flag_on_post: 25 | **ACMMM** | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://openreview.net/pdf?id=0Q9zTGHOda)/Code
 
 
 
@@ -329,6 +330,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
 :triangular_flag_on_post: 05 | **IEEE TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2406.01127)/[Code](https://github.com/Angknpng/LAFB) 
 :triangular_flag_on_post: 06 | **IEEE TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark | [Paper](https://arxiv.org/pdf/2406.00917)/[Code](https://github.com/Angknpng/SACNet) 
+:triangular_flag_on_post: 07 | **ACMMM** | Backdoor Attacks on Bimodal Salient Object Detection with RGB-Thermal Data | [Paper](https://openreview.net/pdf?id=fBeeQlkIM8)/Code
 
 
 ## 2023      
