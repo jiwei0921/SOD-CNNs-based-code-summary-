@@ -3,8 +3,8 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, three ICML24 papers, seven CVPR24 papers, one ECCV24 paper.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one TCSVT paper, one IJCV paper, one TMM paper, one ACM MM paper.    
+ :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add one ECCV'24 paper, one ACM MM'24 paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
  
@@ -65,10 +65,14 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 20 | **CVPR** | Unsupervised Salient Instance Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.pdf)/Code
 :triangular_flag_on_post: 21 | **CVPR** | DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_DiffSal_Joint_Audio_and_Video_Learning_for_Diffusion_Saliency_Prediction_CVPR_2024_paper.pdf)/[Code](https://junwenxiong.github.io/DiffSal) 
 :triangular_flag_on_post: 22 | **TMM** | ADMNet: Attention-guided Densely Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10555313)/[Code](https://github.com/Kunye-Shen/ADMNet)
-:triangular_flag_on_post: 23 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | Paper/[Code](https://github.com/dragonlee258079/CONDA)
-:triangular_flag_on_post: 24 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
-:triangular_flag_on_post: 25 | **ACMMM** | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://openreview.net/pdf?id=0Q9zTGHOda)/Code
-
+:triangular_flag_on_post: 23 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
+:triangular_flag_on_post: 24 | **ACMMM** | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://openreview.net/pdf?id=0Q9zTGHOda)/Code
+:triangular_flag_on_post: 25 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06695.pdf)/[Code](https://github.com/dragonlee258079/CONDA)
+:triangular_flag_on_post: 26 | **ECCV** | Self-supervised co-salient object detection via feature correspondences at multiple scales | [Paper](https://arxiv.org/pdf/2403.11107)/[Code](https://github.com/sourachakra/SCoSPARC)
+:triangular_flag_on_post: 27 | **ECCV** | SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding | [Paper](https://arxiv.org/pdf/2407.05118)/[Code](https://github.com/zxccade/SHINE)  
+:triangular_flag_on_post: 28 | **ECCV** | DSMix: Distortion-Induced Saliency Map Based Pre-training for No-Reference Image Quality Assessment | [Paper](https://arxiv.org/pdf/2407.03886)/[Code](https://github.com/I2-Multimedia-Lab/DSMix)
+:triangular_flag_on_post: 29 | **ECCV** | Salience-Based Adaptive Masking: Revisiting Token Dynamics for Enhanced Pre-training | [Paper](https://arxiv.org/pdf/2404.08327)/Code
+:triangular_flag_on_post: 30 | **ECCV** | Data Augmentation via Latent Diffusion for Saliency Prediction | [Paper](https://arxiv.org/pdf/2409.07307)/[Code](https://github.com/IVRL/AugSal)
 
 
 ## 2023      
@@ -331,6 +335,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 05 | **IEEE TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2406.01127)/[Code](https://github.com/Angknpng/LAFB) 
 :triangular_flag_on_post: 06 | **IEEE TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark | [Paper](https://arxiv.org/pdf/2406.00917)/[Code](https://github.com/Angknpng/SACNet) 
 :triangular_flag_on_post: 07 | **ACMMM** | Backdoor Attacks on Bimodal Salient Object Detection with RGB-Thermal Data | [Paper](https://openreview.net/pdf?id=fBeeQlkIM8)/Code
+:triangular_flag_on_post: 08 | **ECCV** | CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2407.06780)/[Code](https://github.com/ssecv/CoLA)
 
 
 ## 2023      
