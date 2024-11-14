@@ -6,7 +6,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
  :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ECCV'24 paper, one ACM MM'24 paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
- :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS22 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS24 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/ChunmingHe/awesome-concealed-object-segmentation).
 
@@ -523,10 +523,15 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 <a name="VSOD"></a>      
 # Video Salient Object Detection  <a id="Video Salient Object Detection" class="anchor" href="Video Salient Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+## 2024  
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **AAAI** | A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking | [Paper](https://openreview.net/pdf?id=VUBtAcQN44)/[Code](https://github.com/zyf-815/VSOR/tree/main)  
+
 ## 2023  
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **AAAI** | Panoramic Video Salient Object Detection with Ambisonic Audio Guidance | [Paper](https://arxiv.org/pdf/2211.14419.pdf)/Code  
+01 | **AAAI** | Panoramic Video Salient Object Detection with Ambisonic Audio Guidance | [Paper](https://arxiv.org/pdf/2211.14419.pdf)/Code  
 
 ## 2022  
 **No.** | **Pub.** | **Title** | **Links** 
