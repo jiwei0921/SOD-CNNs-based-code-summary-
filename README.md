@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper, one PAMI paper.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ECCV'24 paper, one ACM MM'24 paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS24 paper. 
@@ -73,6 +73,7 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 :triangular_flag_on_post: 28 | **ECCV** | DSMix: Distortion-Induced Saliency Map Based Pre-training for No-Reference Image Quality Assessment | [Paper](https://arxiv.org/pdf/2407.03886)/[Code](https://github.com/I2-Multimedia-Lab/DSMix)
 :triangular_flag_on_post: 29 | **ECCV** | Salience-Based Adaptive Masking: Revisiting Token Dynamics for Enhanced Pre-training | [Paper](https://arxiv.org/pdf/2404.08327)/Code
 :triangular_flag_on_post: 30 | **ECCV** | Data Augmentation via Latent Diffusion for Saliency Prediction | [Paper](https://arxiv.org/pdf/2409.07307)/[Code](https://github.com/IVRL/AugSal)
+:triangular_flag_on_post: 31 | **PAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10778650/authors#authors)/[Code](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
 
 
 ## 2023      
