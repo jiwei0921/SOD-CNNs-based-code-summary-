@@ -3,7 +3,7 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper, one PAMI paper.                 
+ :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper, two PAMI papers.                 
  :heavy_exclamation_mark:  **3D SOD**: Add one ECCV'24 paper, one ACM MM'24 paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
  :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS24 paper. 
@@ -39,6 +39,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
     
 <a name="2DSOD"></a> 
 # 2D RGB Saliency Detection <a id="2D RGB Saliency Detection" class="anchor" href="2D RGB Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>    
+
+## 2025      
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:triangular_flag_on_post: 01 | **PAMI** | Conditional Diffusion Models for Camouflaged and Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)/[Code](https://github.com/Rapisurazurite/CamoDiffusion)  
 
 ## 2024      
 **No.** | **Pub.** | **Title** | **Links** 
