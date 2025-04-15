@@ -3,10 +3,10 @@
 In this repository, we mainly focus on deep learning based saliency methods (**2D RGB, 3D RGB-D/T, Video SOD and 4D Light Field**) and provide a summary (**Code and Paper**). We hope this repo can help you to better understand saliency detection in the deep learning era.        
 
 --------------------------------------------------------------------------------------
- :heavy_exclamation_mark:  **2D SOD**: Add two ACM MM papers, seven CVPR24 papers, six ECCV'24 paper, two PAMI papers.                 
- :heavy_exclamation_mark:  **3D SOD**: Add one ECCV'24 paper, one ACM MM'24 paper.    
+ :heavy_exclamation_mark:  **2D SOD**: Add two AAAI'25 papers, one PAMI paper.                 
+ :heavy_exclamation_mark:  **3D SOD**: Add two AAAA'25 papers, one ACM MM'24 paper.    
  :heavy_exclamation_mark:  **LF SOD**: Add two IEEE TCSVT papers, one arXiv'24 paper.   
- :heavy_exclamation_mark:  **Video SOD** :  Add one AAAI23 papers, one NeurIPS24 paper. 
+ :heavy_exclamation_mark:  **Video SOD** :  Add one NeurIPS24 paper. 
  
  [Camouflaged Object Detection](https://arxiv.org/abs/2102.10274) is a closely-related task of SOD, with paper summary of [this link](https://github.com/ChunmingHe/awesome-concealed-object-segmentation).
 
@@ -43,42 +43,44 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2025      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **PAMI** | Conditional Diffusion Models for Camouflaged and Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)/[Code](https://github.com/Rapisurazurite/CamoDiffusion)  
+:triangular_flag_on_post: 01 | **PAMI** | Conditional Diffusion Models for Camouflaged and Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)/[Code](https://github.com/Rapisurazurite/CamoDiffusion)    
+:triangular_flag_on_post: 02 | **AAAI** | MSV-PCT: Multi-Sparse-View Enhanced Transformer Framework for Salient Object Detection in Point Clouds | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32892)/Code      
+:triangular_flag_on_post: 03 | **AAAI** | Exploring Salient Object Detection with Adder Neural Networks | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33028)/Code  
 
 ## 2024      
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **WACV** | Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code   
-:triangular_flag_on_post: 02 | **WACV** | 3SD: Self-Supervised Saliency Detection With No Labels | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yasarla_3SD_Self-Supervised_Saliency_Detection_With_No_Labels_WACV_2024_paper.pdf)/[Code](https://github.com/rajeevyasarla/3SD)    
-:triangular_flag_on_post: 03 | **WACV** | Learning Saliency From Fixations | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Djilali_Learning_Saliency_From_Fixations_WACV_2024_paper.pdf)/[Code](https://github.com/YasserdahouML/SalTR)     
-:triangular_flag_on_post: 04 | **WACV** | Salient Object Detection for Images Taken by People With Vision Impairments | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)/[Code](https://vizwiz.org/tasks-and-datasets/salient-object-detection/)     
-:triangular_flag_on_post: 05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code  
-:triangular_flag_on_post: 06 | **ICASSP** | Zero-Shot Co-salient Object Detection Framework | [Paper](https://arxiv.org/abs/2309.05499)/[Code](https://github.com/hkxiao/zs-cosod)  
-:triangular_flag_on_post: 07 | **CVPR** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
-:triangular_flag_on_post: 08 | **AAAI** | WeakPCSOD: Overcoming the Bias of Box Annotations for Weakly Supervised Point Cloud Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28403)/Code
-:triangular_flag_on_post: 09 | **AAAI** | SeqRank: Sequential Ranking of Salient Objects | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964)/[Code](https://github.com/guanhuankang/SeqRank) 
-:triangular_flag_on_post: 10 | **AAAI** | Finding Visual Saliency in Continuous Spike Stream | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)/[Code](https://github.com/BIT-Vision/SVS) 
-:triangular_flag_on_post: 11 | **CVPR** | COSALPURE: Learning Concept from Group Images for Robust Co-Saliency | [Paper](https://arxiv.org/pdf/2403.18554.pdf)/[Code](https://v1len.github.io/CosalPure/) 
-:triangular_flag_on_post: 12 | **IJCAI** | Unified Unsupervised Salient Object Detection via Knowledge Transfer | [Paper](https://arxiv.org/pdf/2404.14759)/[Code](https://github.com/I2-Multimedia-Lab/A2S-v3) 
-:triangular_flag_on_post: 13 | **TII** | MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects | [Paper](https://arxiv.org/pdf/2405.16096)/[Code](https://github.com/Kunye-Shen/MINet) 
-:triangular_flag_on_post: 14 | **ICML** | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD) 
-:triangular_flag_on_post: 15 | **ICML** | Spider: A Unified Framework for Context-dependent Concept Segmentation | [Paper](https://arxiv.org/pdf/2405.01002)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg) 
-:triangular_flag_on_post: 16 | **ICML** | Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset | Paper/[Code](https://github.com/LiamLian0727/USIS10K) 
-:triangular_flag_on_post: 17 | **CVPR** | Domain Separation Graph Neural Networks for Saliency Object Ranking | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Domain_Separation_Graph_Neural_Networks_for_Saliency_Object_Ranking_CVPR_2024_paper.pdf)/[Code](https://github.com/Wu-ZJ/DSGNN) 
-:triangular_flag_on_post: 18 | **CVPR** | Advancing Saliency Ranking with Human Fixations: Dataset Models and Benchmarks | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Advancing_Saliency_Ranking_with_Human_Fixations_Dataset_Models_and_Benchmarks_CVPR_2024_paper.pdf)/[Code](https://github.com/EricDengbowen/QAGNet) 
-:triangular_flag_on_post: 19 | **CVPR** | Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Task-Adaptive_Saliency_Guidance_for_Exemplar-free_Class_Incremental_Learning_CVPR_2024_paper.pdf)/[Code](https://github.com/scok30/tass) 
-:triangular_flag_on_post: 20 | **CVPR** | Unsupervised Salient Instance Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.pdf)/Code
-:triangular_flag_on_post: 21 | **CVPR** | DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_DiffSal_Joint_Audio_and_Video_Learning_for_Diffusion_Saliency_Prediction_CVPR_2024_paper.pdf)/[Code](https://junwenxiong.github.io/DiffSal) 
-:triangular_flag_on_post: 22 | **TMM** | ADMNet: Attention-guided Densely Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10555313)/[Code](https://github.com/Kunye-Shen/ADMNet)
-:triangular_flag_on_post: 23 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
-:triangular_flag_on_post: 24 | **ACMMM** | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://openreview.net/pdf?id=0Q9zTGHOda)/Code
-:triangular_flag_on_post: 25 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06695.pdf)/[Code](https://github.com/dragonlee258079/CONDA)
-:triangular_flag_on_post: 26 | **ECCV** | Self-supervised co-salient object detection via feature correspondences at multiple scales | [Paper](https://arxiv.org/pdf/2403.11107)/[Code](https://github.com/sourachakra/SCoSPARC)
-:triangular_flag_on_post: 27 | **ECCV** | SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding | [Paper](https://arxiv.org/pdf/2407.05118)/[Code](https://github.com/zxccade/SHINE)  
-:triangular_flag_on_post: 28 | **ECCV** | DSMix: Distortion-Induced Saliency Map Based Pre-training for No-Reference Image Quality Assessment | [Paper](https://arxiv.org/pdf/2407.03886)/[Code](https://github.com/I2-Multimedia-Lab/DSMix)
-:triangular_flag_on_post: 29 | **ECCV** | Salience-Based Adaptive Masking: Revisiting Token Dynamics for Enhanced Pre-training | [Paper](https://arxiv.org/pdf/2404.08327)/Code
-:triangular_flag_on_post: 30 | **ECCV** | Data Augmentation via Latent Diffusion for Saliency Prediction | [Paper](https://arxiv.org/pdf/2409.07307)/[Code](https://github.com/IVRL/AugSal)
-:triangular_flag_on_post: 31 | **PAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10778650/authors#authors)/[Code](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
+01 | **WACV** | Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code   
+02 | **WACV** | 3SD: Self-Supervised Saliency Detection With No Labels | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yasarla_3SD_Self-Supervised_Saliency_Detection_With_No_Labels_WACV_2024_paper.pdf)/[Code](https://github.com/rajeevyasarla/3SD)    
+03 | **WACV** | Learning Saliency From Fixations | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Djilali_Learning_Saliency_From_Fixations_WACV_2024_paper.pdf)/[Code](https://github.com/YasserdahouML/SalTR)     
+04 | **WACV** | Salient Object Detection for Images Taken by People With Vision Impairments | [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Reynolds_Salient_Object_Detection_for_Images_Taken_by_People_With_Vision_WACV_2024_paper.pdf)/[Code](https://vizwiz.org/tasks-and-datasets/salient-object-detection/)     
+05 | **WACV** | Defense Against Adversarial Cloud Attack on Remote Sensing Salient Object Detection | [Paper](https://arxiv.org/pdf/2311.06654.pdf)/Code  
+06 | **ICASSP** | Zero-Shot Co-salient Object Detection Framework | [Paper](https://arxiv.org/abs/2309.05499)/[Code](https://github.com/hkxiao/zs-cosod)  
+07 | **CVPR** | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning | [Paper](https://arxiv.org/pdf/2311.15011.pdf)/Code
+08 | **AAAI** | WeakPCSOD: Overcoming the Bias of Box Annotations for Weakly Supervised Point Cloud Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28403)/Code
+09 | **AAAI** | SeqRank: Sequential Ranking of Salient Objects | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27964)/[Code](https://github.com/guanhuankang/SeqRank) 
+10 | **AAAI** | Finding Visual Saliency in Continuous Spike Stream | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)/[Code](https://github.com/BIT-Vision/SVS) 
+11 | **CVPR** | COSALPURE: Learning Concept from Group Images for Robust Co-Saliency | [Paper](https://arxiv.org/pdf/2403.18554.pdf)/[Code](https://v1len.github.io/CosalPure/) 
+12 | **IJCAI** | Unified Unsupervised Salient Object Detection via Knowledge Transfer | [Paper](https://arxiv.org/pdf/2404.14759)/[Code](https://github.com/I2-Multimedia-Lab/A2S-v3) 
+13 | **TII** | MINet: Multi-scale Interactive Network for Real-time Salient Object Detection of Strip Steel Surface Defects | [Paper](https://arxiv.org/pdf/2405.16096)/[Code](https://github.com/Kunye-Shen/MINet) 
+14 | **ICML** | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD) 
+15 | **ICML** | Spider: A Unified Framework for Context-dependent Concept Segmentation | [Paper](https://arxiv.org/pdf/2405.01002)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg) 
+16 | **ICML** | Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset | Paper/[Code](https://github.com/LiamLian0727/USIS10K) 
+17 | **CVPR** | Domain Separation Graph Neural Networks for Saliency Object Ranking | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Domain_Separation_Graph_Neural_Networks_for_Saliency_Object_Ranking_CVPR_2024_paper.pdf)/[Code](https://github.com/Wu-ZJ/DSGNN) 
+18 | **CVPR** | Advancing Saliency Ranking with Human Fixations: Dataset Models and Benchmarks | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Advancing_Saliency_Ranking_with_Human_Fixations_Dataset_Models_and_Benchmarks_CVPR_2024_paper.pdf)/[Code](https://github.com/EricDengbowen/QAGNet) 
+19 | **CVPR** | Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Task-Adaptive_Saliency_Guidance_for_Exemplar-free_Class_Incremental_Learning_CVPR_2024_paper.pdf)/[Code](https://github.com/scok30/tass) 
+20 | **CVPR** | Unsupervised Salient Instance Detection | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tian_Unsupervised_Salient_Instance_Detection_CVPR_2024_paper.pdf)/Code
+21 | **CVPR** | DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiong_DiffSal_Joint_Audio_and_Video_Learning_for_Diffusion_Saliency_Prediction_CVPR_2024_paper.pdf)/[Code](https://junwenxiong.github.io/DiffSal) 
+22 | **TMM** | ADMNet: Attention-guided Densely Multi-scale Network for Lightweight Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10555313)/[Code](https://github.com/Kunye-Shen/ADMNet)
+23 | **ACMMM** | Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection | [Paper](https://arxiv.org/pdf/2408.04326)/[Code](https://github.com/BellyBeauty/MDSAM)
+24 | **ACMMM** | Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking | [Paper](https://openreview.net/pdf?id=0Q9zTGHOda)/Code
+25 | **ECCV** | CONDA: Condensed Deep Association Learning for Co-Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06695.pdf)/[Code](https://github.com/dragonlee258079/CONDA)
+26 | **ECCV** | Self-supervised co-salient object detection via feature correspondences at multiple scales | [Paper](https://arxiv.org/pdf/2403.11107)/[Code](https://github.com/sourachakra/SCoSPARC)
+27 | **ECCV** | SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding | [Paper](https://arxiv.org/pdf/2407.05118)/[Code](https://github.com/zxccade/SHINE)  
+28 | **ECCV** | DSMix: Distortion-Induced Saliency Map Based Pre-training for No-Reference Image Quality Assessment | [Paper](https://arxiv.org/pdf/2407.03886)/[Code](https://github.com/I2-Multimedia-Lab/DSMix)
+29 | **ECCV** | Salience-Based Adaptive Masking: Revisiting Token Dynamics for Enhanced Pre-training | [Paper](https://arxiv.org/pdf/2404.08327)/Code
+30 | **ECCV** | Data Augmentation via Latent Diffusion for Saliency Prediction | [Paper](https://arxiv.org/pdf/2409.07307)/[Code](https://github.com/IVRL/AugSal)
+31 | **PAMI** | Divide-and-Conquer: Confluent Triple-Flow Network for RGB-T Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10778650/authors#authors)/[Code](https://github.com/CSer-Tang-hao/ConTriNet_RGBT-SOD)
 
 
 ## 2023      
@@ -331,17 +333,23 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 <a name="3DSOD"></a>
 # 3D RGB-D/T Saliency Detection <a id="3D RGB-D Saliency Detection" class="anchor" href="3D RGB-D Saliency Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
+## 2025       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+:: 01 | **AAAI** | DiMSOD: A Diffusion-Based Framework for Multi-Modal Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33096)/Code  
+:: 02 | **AAAI** | SMR-Net: Semantic-Guided Mutually Reinforcing Network for Cross-Modal Image Fusion and Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32933)/Code    
+
 ## 2024       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:triangular_flag_on_post: 01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code  
-:triangular_flag_on_post: 02 | **IJCV** | Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-024-02020-y)/[Code](https://github.com/hu-xh/CPNet)  
-:triangular_flag_on_post: 03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR) 
-:triangular_flag_on_post: 04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
-:triangular_flag_on_post: 05 | **IEEE TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2406.01127)/[Code](https://github.com/Angknpng/LAFB) 
-:triangular_flag_on_post: 06 | **IEEE TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark | [Paper](https://arxiv.org/pdf/2406.00917)/[Code](https://github.com/Angknpng/SACNet) 
-:triangular_flag_on_post: 07 | **ACMMM** | Backdoor Attacks on Bimodal Salient Object Detection with RGB-Thermal Data | [Paper](https://openreview.net/pdf?id=fBeeQlkIM8)/Code
-:triangular_flag_on_post: 08 | **ECCV** | CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2407.06780)/[Code](https://github.com/ssecv/CoLA)
+01 | **ICASSP** | A Saliency Enhanced Feature Fusion based multiscale RGB-D Salient Object Detection Network | [Paper](https://arxiv.org/pdf/2401.11914.pdf)/Code  
+02 | **IJCV** | Cross-Modal Fusion and Progressive Decoding Network for RGB-D Salient Object Detection | [Paper](https://link.springer.com/article/10.1007/s11263-024-02020-y)/[Code](https://github.com/hu-xh/CPNet)  
+03 | **TMM** | UniTR: A Unified TRansformer-based Framework for Co-object and Multi-modal Saliency Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10444934)/[Code](https://github.com/ruohaoguo/UniTR) 
+04 | **IEEE TIP** | Quality-aware Selective Fusion Network for V-D-T Salient Object Detection | [Paper](https://arxiv.org/pdf/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
+05 | **IEEE TCSVT** | Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2406.01127)/[Code](https://github.com/Angknpng/LAFB) 
+06 | **IEEE TMM** | Alignment-Free RGBT Salient Object Detection: Semantics-guided Asymmetric Correlation Network and A Unified Benchmark | [Paper](https://arxiv.org/pdf/2406.00917)/[Code](https://github.com/Angknpng/SACNet) 
+07 | **ACMMM** | Backdoor Attacks on Bimodal Salient Object Detection with RGB-Thermal Data | [Paper](https://openreview.net/pdf?id=fBeeQlkIM8)/Code
+08 | **ECCV** | CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection | [Paper](https://arxiv.org/pdf/2407.06780)/[Code](https://github.com/ssecv/CoLA)
 
 
 ## 2023      
@@ -354,11 +362,11 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 05 | **TCSVT** | Mutual Information Regularization for Weakly-supervised RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2306.03630.pdf)/[Code](https://github.com/baneitixiaomai/MIRV) 
 06 | **Information Fusion** | An Interactively Reinforced Paradigm for Joint Infrared-Visible Image Fusion and Saliency Object Detection | [Paper](https://arxiv.org/abs/2305.09999)/[Code](https://github.com/wdhudiekou/IRFS) 
 07 | **IEEE TMM** | CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10179145)/[Code](https://github.com/ROC-Star/CATNet/) 
-:triangular_flag_on_post: 08 | **ACM MM** | Point-aware Interaction and CNN-induced Refinement Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.08930.pdf)/[Code](https://github.com/rmcong/PICR-Net_ACMMM23) 
-:triangular_flag_on_post: 09 | **IEEE TIP** | Depth Injection Framework for RGBD Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10258039)/[Code](https://github.com/Zakeiswo/DIF) 
-:triangular_flag_on_post: 10 | **ACM MM** | Modality Profile - A New Critical Aspect to be Considered When Generating RGB-D Salient Object Detection Training Set | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611985)/[Code](https://github.com/XueHaoWang-Beijing/ModalityProfile_MM23/)
-:triangular_flag_on_post: 11 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612466)/[Code](https://github.com/ZZ2490/SPNet)  
-:triangular_flag_on_post: 12 | **NeurIPS** | DVSOD: RGB-D Video Salient Object Detection | [Paper](https://openreview.net/pdf?id=Hm1Ih3uLII)/[Code](https://github.com/DVSOD/DVSOD-Baseline)  
+08 | **ACM MM** | Point-aware Interaction and CNN-induced Refinement Network for RGB-D Salient Object Detection | [Paper](https://arxiv.org/pdf/2308.08930.pdf)/[Code](https://github.com/rmcong/PICR-Net_ACMMM23) 
+09 | **IEEE TIP** | Depth Injection Framework for RGBD Salient Object Detection | [Paper](https://ieeexplore.ieee.org/document/10258039)/[Code](https://github.com/Zakeiswo/DIF) 
+10 | **ACM MM** | Modality Profile - A New Critical Aspect to be Considered When Generating RGB-D Salient Object Detection Training Set | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611985)/[Code](https://github.com/XueHaoWang-Beijing/ModalityProfile_MM23/)
+11 | **ACM MM** | Saliency Prototype for RGB-D and RGB-T Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3612466)/[Code](https://github.com/ZZ2490/SPNet)  
+12 | **NeurIPS** | DVSOD: RGB-D Video Salient Object Detection | [Paper](https://openreview.net/pdf?id=Hm1Ih3uLII)/[Code](https://github.com/DVSOD/DVSOD-Baseline)  
 
 
 ## 2022       
@@ -521,8 +529,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 20| **IEEE TIP** | Weakly-Supervised Salient Object Detection on Light Fields | [Paper](https://ieeexplore.ieee.org/document/9900489/authors#authors)/Code
 21| **IEEE TPAMI** | A Thorough Benchmark and a New Model for Light Field Saliency Detection | [Paper](https://www.computer.org/csdl/journal/tp/5555/01/10012539/1JNmt6JGKu4)/[Code](https://openi.pcl.ac.cn/OpenDatasets)  
 22| **ICME23** | Guided Focal Stack Refinement Network for Light Field Salient Object Detection | [Paper](https://arxiv.org/pdf/2305.05260.pdf)/Code  
-:triangular_flag_on_post: 23| **IEEE TCSVT** | LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Code](https://github.com/liuzywen/LFTransNet)  
-:triangular_flag_on_post: 24| **IEEE TCSVT** | Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Code](https://github.com/GilbertRC/LFSOD-CDINet)  
+23| **IEEE TCSVT** | LFTransNet: Light Field Salient Object Detection via a Learnable Weight Descriptor | [Paper](https://ieeexplore.ieee.org/abstract/document/10138590?casa_token=rJeI2PnLzwQAAAAA:nnJc89z7hCRfJH3C-GtVjybe1HL11dZVoWOxzZ45d4Jn623BW4ZM9bS8DdyBiuvW-2zeyW7fdYJgkQ)/[Code](https://github.com/liuzywen/LFTransNet)  
+24| **IEEE TCSVT** | Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network | [Paper](https://ieeexplore.ieee.org/document/10168184)/[Code](https://github.com/GilbertRC/LFSOD-CDINet)  
 :triangular_flag_on_post: 25| **arXiv** | LF Tracy: A Unified Single-Pipeline Approach for Salient Object Detection in Light Field Cameras | [Paper](https://browse.arxiv.org/abs/2401.16712)/[Code](https://github.com/FeiBryantkit/LF-Tracy)  
 
 
