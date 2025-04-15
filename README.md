@@ -336,8 +336,8 @@ In this repository, we mainly focus on deep learning based saliency methods (**2
 ## 2025       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-:: 01 | **AAAI** | DiMSOD: A Diffusion-Based Framework for Multi-Modal Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33096)/Code  
-:: 02 | **AAAI** | SMR-Net: Semantic-Guided Mutually Reinforcing Network for Cross-Modal Image Fusion and Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32933)/Code    
+:triangular_flag_on_post: 01 | **AAAI** | DiMSOD: A Diffusion-Based Framework for Multi-Modal Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33096)/Code  
+:triangular_flag_on_post: 02 | **AAAI** | SMR-Net: Semantic-Guided Mutually Reinforcing Network for Cross-Modal Image Fusion and Salient Object Detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32933)/Code    
 
 ## 2024       
 **No.** | **Pub.** | **Title** | **Links** 
